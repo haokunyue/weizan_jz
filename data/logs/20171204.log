@@ -1,0 +1,62 @@
+2017-12-04 09:43:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1512351780</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[申请]]></Content>
+<MsgId>6495501435610329813</MsgId>
+</xml>
+
+2017-12-04 09:43:03 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1512351780',
+    'msgtype' => 'text',
+    'content' => '申请',
+    'msgid' => '6495501435610329813',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1512351780',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '111',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '25',
+    'rid' => '111',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '申请',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-04 09:43:03 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

@@ -1,0 +1,99 @@
+2018-02-28 09:49:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1RsPvdMMqv5_FZzXbgMJPCg]]></FromUserName>
+<CreateTime>1519782574</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-28 09:49:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1RsPvdMMqv5_FZzXbgMJPCg',
+    'createtime' => '1519782574',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1RsPvdMMqv5_FZzXbgMJPCg',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519782574',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-28 09:49:35 response :
+------------
+
+2018-02-28 14:21:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1519798879</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[助力]]></Content>
+<MsgId>6527486482266482771</MsgId>
+</xml>
+
+2018-02-28 14:21:20 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1519798879',
+    'msgtype' => 'text',
+    'content' => '助力',
+    'msgid' => '6527486482266482771',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1519798879',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'youfan_zhuli',
+  'rule' => '170',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '103',
+    'rid' => '170',
+    'uniacid' => '4',
+    'module' => 'youfan_zhuli',
+    'content' => '助力',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-02-28 14:21:20 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

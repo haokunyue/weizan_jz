@@ -1,0 +1,166 @@
+2018-02-27 08:24:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1TZw_1BIDVsnO7vE9hnSCr4]]></FromUserName>
+<CreateTime>1519691094</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-27 08:24:55 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1TZw_1BIDVsnO7vE9hnSCr4',
+    'createtime' => '1519691094',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1TZw_1BIDVsnO7vE9hnSCr4',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519691094',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-27 08:24:55 response :
+------------
+
+2018-02-27 10:55:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1QkOOfdWQ7JBcO7yCR-_69M]]></FromUserName>
+<CreateTime>1519700138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000041</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>340</TotalCount>
+<FilterCount>338</FilterCount>
+<SentCount>338</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-02-27 10:55:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'createtime' => '1519700138',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000041',
+    'status' => 'send success',
+    'totalcount' => '340',
+    'filtercount' => '338',
+    'sentcount' => '338',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'from' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519700138',
+    'type' => 'event',
+  ),
+)
+
+2018-02-27 10:55:39 response :
+------------
+
+2018-02-27 11:57:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1aZnRYjKpb8EzWx4vpuDjUs]]></FromUserName>
+<CreateTime>1519703874</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-27 11:57:55 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1aZnRYjKpb8EzWx4vpuDjUs',
+    'createtime' => '1519703874',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1aZnRYjKpb8EzWx4vpuDjUs',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519703874',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-27 11:57:55 response :
+------------
+
+2018-02-27 13:12:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1eSpuRMPRp4uDHO7005JAq0]]></FromUserName>
+<CreateTime>1519708376</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-27 13:12:57 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1eSpuRMPRp4uDHO7005JAq0',
+    'createtime' => '1519708376',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1eSpuRMPRp4uDHO7005JAq0',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519708376',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-27 13:12:57 response :
+------------
+

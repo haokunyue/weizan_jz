@@ -1,0 +1,40 @@
+2017-12-31 10:13:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwK3YmqB6k9mbP3L9WhEXaFo]]></FromUserName>
+<CreateTime>1514686383</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2017-12-31 10:13:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwK3YmqB6k9mbP3L9WhEXaFo',
+    'createtime' => '1514686383',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwK3YmqB6k9mbP3L9WhEXaFo',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1514686383',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-31 10:13:04 response :
+------------
+

@@ -1,0 +1,40 @@
+2018-01-13 17:21:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwG8jJcRwFoKf4Krm6sByRo0]]></FromUserName>
+<CreateTime>1515835268</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-13 17:21:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwG8jJcRwFoKf4Krm6sByRo0',
+    'createtime' => '1515835268',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwG8jJcRwFoKf4Krm6sByRo0',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1515835268',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-13 17:21:10 response :
+------------
+

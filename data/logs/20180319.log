@@ -1,0 +1,271 @@
+2018-03-19 06:24:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1eogrhUbfVqFy4slHsTfpso]]></FromUserName>
+<CreateTime>1521411880</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 06:31:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1czo-U0ei6XWa4HoYEkJ1ec]]></FromUserName>
+<CreateTime>1521412288</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 06:38:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1XZzjH6lRd_NFg39mf-L8fk]]></FromUserName>
+<CreateTime>1521412731</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 07:09:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1QeS6X1WaYY_61gojHRyd2c]]></FromUserName>
+<CreateTime>1521414580</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 09:23:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1521422587</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://quan.0-22.net]]></EventKey>
+<MenuId>464282401</MenuId>
+</xml>
+
+2018-03-19 09:23:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1521422587',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://quan.0-22.net',
+    'menuid' => '464282401',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1521422587',
+    'type' => 'text',
+    'content' => 'http://quan.0-22.net',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-19 09:23:08 response :
+------------
+
+2018-03-19 10:09:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Si_rw6dg6spKITLVEvwAvk]]></FromUserName>
+<CreateTime>1521425366</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 10:12:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1bBF1C3LeXDmL5lrMQAw2l8]]></FromUserName>
+<CreateTime>1521425531</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 10:49:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1TPQnccp3DVo7QS9MdMqQNg]]></FromUserName>
+<CreateTime>1521427744</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 14:29:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1b2Zu5moOjul-39YP4bZEJI]]></FromUserName>
+<CreateTime>1521440976</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 14:29:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1b2Zu5moOjul-39YP4bZEJI',
+    'createtime' => '1521440976',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1b2Zu5moOjul-39YP4bZEJI',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1521440976',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-19 14:29:37 response :
+------------
+
+2018-03-19 14:29:38 SQL Error :
+------------
+String:
+SQL: <br/>INSERT INTO `ims_gs_pinshop_openid2` SET <hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-19 14:29:38 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-19 14:29:38 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-19 14:51:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1U2SSZwyQQ19LXKMw7ecgcs]]></FromUserName>
+<CreateTime>1521442299</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 15:20:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1baqY1fveVCDH1ejKUOdX1c]]></FromUserName>
+<CreateTime>1521443999</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 15:50:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1WWVMGKoE5t2ufvH0Km2yqQ]]></FromUserName>
+<CreateTime>1521445822</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 17:02:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1RDCiK0iPFdszLxy1THw9zw]]></FromUserName>
+<CreateTime>1521450119</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 17:43:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1bKWefaJIfiDiUkEdKz6Fa8]]></FromUserName>
+<CreateTime>1521452615</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 19:18:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1UxZSZAnNHfVGBssBED6D04]]></FromUserName>
+<CreateTime>1521458293</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 20:27:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1STH6eZg5PswbV3fypIOj50]]></FromUserName>
+<CreateTime>1521462473</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 21:31:51 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1SrCyF4KCKUmOy8tdTS9AmA]]></FromUserName>
+<CreateTime>1521466310</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 23:54:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1ZRv8A1mupTL-ODTbpe2jzc]]></FromUserName>
+<CreateTime>1521474866</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

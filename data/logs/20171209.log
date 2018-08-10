@@ -1,0 +1,80 @@
+2017-12-09 09:52:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1512784317</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=commission]]></EventKey>
+<MenuId>462967928</MenuId>
+</xml>
+
+2017-12-09 09:52:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1512784317',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=commission',
+    'menuid' => '462967928',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1512784317',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=commission',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-09 09:52:00 response :
+------------
+
+2017-12-09 09:53:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1512784383</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=commission]]></EventKey>
+<MenuId>462967928</MenuId>
+</xml>
+
+2017-12-09 09:53:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1512784383',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=commission',
+    'menuid' => '462967928',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1512784383',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=commission',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-09 09:53:06 response :
+------------
+

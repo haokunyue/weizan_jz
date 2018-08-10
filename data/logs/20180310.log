@@ -1,0 +1,62 @@
+2018-03-10 16:15:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1520669743</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[超市]]></Content>
+<MsgId>6531226814665924057</MsgId>
+</xml>
+
+2018-03-10 16:15:44 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1520669743',
+    'msgtype' => 'text',
+    'content' => '超市',
+    'msgid' => '6531226814665924057',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1520669743',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'tuhuo_psd',
+  'rule' => '174',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '109',
+    'rid' => '174',
+    'uniacid' => '4',
+    'module' => 'tuhuo_psd',
+    'content' => '超市',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-03-10 16:15:44 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

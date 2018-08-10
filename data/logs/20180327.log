@@ -1,0 +1,154 @@
+2018-03-27 07:04:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1W1WIyf82WpsdoCb9xbpZ-c]]></FromUserName>
+<CreateTime>1522105495</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-27 09:55:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1T27Lz8xwkYtjeHDWt5ZISQ]]></FromUserName>
+<CreateTime>1522115715</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-27 09:55:16 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1T27Lz8xwkYtjeHDWt5ZISQ',
+    'createtime' => '1522115715',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1T27Lz8xwkYtjeHDWt5ZISQ',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1522115715',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-27 09:55:16 response :
+------------
+
+2018-03-27 09:55:17 SQL Error :
+------------
+String:
+SQL: <br/>INSERT INTO `ims_gs_pinshop_openid2` SET <hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-27 09:55:17 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-27 09:55:17 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-27 12:42:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1SjWsR7NhRLNpvqAMpvNR1Q]]></FromUserName>
+<CreateTime>1522125772</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-27 14:28:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Z9pvHufDCIYkdF9fMK72R8]]></FromUserName>
+<CreateTime>1522132117</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-27 20:35:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1RZvSHfUE900eYA9c23hyDU]]></FromUserName>
+<CreateTime>1522154138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-27 20:35:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1RZvSHfUE900eYA9c23hyDU',
+    'createtime' => '1522154138',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1RZvSHfUE900eYA9c23hyDU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1522154138',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-27 20:35:39 response :
+------------
+
+2018-03-27 20:35:40 SQL Error :
+------------
+String:
+SQL: <br/>INSERT INTO `ims_gs_pinshop_openid2` SET <hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-27 20:35:40 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-27 20:35:40 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-03-27 20:55:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1YgLykyVNmdxmWSiOX-vmXw]]></FromUserName>
+<CreateTime>1522155304</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

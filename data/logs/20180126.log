@@ -1,0 +1,1228 @@
+2018-01-26 11:44:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516938255</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 11:44:16 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516938255',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516938255',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 11:44:16 response :
+------------
+
+2018-01-26 12:22:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516940527</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 12:22:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516940527',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516940527',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 12:22:08 response :
+------------
+
+2018-01-26 12:23:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516940615</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 12:23:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516940615',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516940615',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 12:23:37 response :
+------------
+
+2018-01-26 12:24:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516940651</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 12:24:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516940651',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516940651',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 12:24:12 response :
+------------
+
+2018-01-26 12:25:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516940726</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 12:25:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516940726',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516940726',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 12:25:28 response :
+------------
+
+2018-01-26 12:25:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516940733</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 12:25:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516940733',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516940733',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 12:25:35 response :
+------------
+
+2018-01-26 15:57:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516953472</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 15:57:54 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516953472',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516953472',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 15:57:54 response :
+------------
+
+2018-01-26 16:09:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516954168</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 16:09:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516954168',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516954168',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 16:09:29 response :
+------------
+
+2018-01-26 16:43:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516956237</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[嗨]]></Content>
+<MsgId>6515277427801049024</MsgId>
+</xml>
+
+2018-01-26 16:43:58 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516956237',
+    'msgtype' => 'text',
+    'content' => '嗨',
+    'msgid' => '6515277427801049024',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516956237',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'reply',
+  'rule' => '141',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '55',
+    'rid' => '141',
+    'uniacid' => '8',
+    'module' => 'reply',
+    'content' => '嗨',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+  ),
+)
+
+2018-01-26 16:43:58 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwIGuDZiFZVYr6JiCR_4uBX8 ;
+MsgType : text ;
+Content : 我在 ;
+
+2018-01-26 16:46:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[toUser]]></ToUserName><FromUserName><![CDATA[fromUser]]></FromUserName><CreateTime>1516956377</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[测试内容]]></Content><MsgId>1234567890123456</MsgId></xml>
+
+2018-01-26 16:46:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'toUser',
+    'fromusername' => 'fromUser',
+    'createtime' => '1516956377',
+    'msgtype' => 'text',
+    'content' => '测试内容',
+    'msgid' => '1234567890123456',
+    'from' => 'fromUser',
+    'to' => 'toUser',
+    'time' => '1516956377',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-26 16:46:15 response :
+------------
+
+2018-01-26 16:46:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[toUser]]></ToUserName><FromUserName><![CDATA[fromUser]]></FromUserName><CreateTime>1516956380</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[测试内容]]></Content><MsgId>1234567890123456</MsgId></xml>
+
+2018-01-26 16:46:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'toUser',
+    'fromusername' => 'fromUser',
+    'createtime' => '1516956380',
+    'msgtype' => 'text',
+    'content' => '测试内容',
+    'msgid' => '1234567890123456',
+    'from' => 'fromUser',
+    'to' => 'toUser',
+    'time' => '1516956380',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-26 16:46:18 response :
+------------
+
+2018-01-26 17:15:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958118</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[砍价]]></Content>
+<MsgId>6515285506634533729</MsgId>
+</xml>
+
+2018-01-26 17:15:20 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958118',
+    'msgtype' => 'text',
+    'content' => '砍价',
+    'msgid' => '6515285506634533729',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958118',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '142',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '56',
+    'rid' => '142',
+    'uniacid' => '8',
+    'module' => 'cover',
+    'content' => '砍价',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-26 17:15:20 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwIGuDZiFZVYr6JiCR_4uBX8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-26 17:18:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958301</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[砍价]]></Content>
+<MsgId>6515286292613549041</MsgId>
+</xml>
+
+2018-01-26 17:18:23 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958301',
+    'msgtype' => 'text',
+    'content' => '砍价',
+    'msgid' => '6515286292613549041',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958301',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'chats',
+  'rule' => NULL,
+  'priority' => 255,
+  'context' => true,
+)
+
+2018-01-26 17:18:23 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2018-01-26 17:18:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958308</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[砍价]]></Content>
+<MsgId>6515286322678320121</MsgId>
+</xml>
+
+2018-01-26 17:18:30 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958308',
+    'msgtype' => 'text',
+    'content' => '砍价',
+    'msgid' => '6515286322678320121',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958308',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'chats',
+  'rule' => NULL,
+  'priority' => 255,
+  'context' => true,
+)
+
+2018-01-26 17:18:30 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2018-01-26 17:18:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958319</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[嗨]]></Content>
+<MsgId>6515286369922960388</MsgId>
+</xml>
+
+2018-01-26 17:18:41 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958319',
+    'msgtype' => 'text',
+    'content' => '嗨',
+    'msgid' => '6515286369922960388',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958319',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'chats',
+  'rule' => NULL,
+  'priority' => 255,
+  'context' => true,
+)
+
+2018-01-26 17:18:41 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2018-01-26 17:19:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958356</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[001]]></Content>
+<MsgId>6515286528836750354</MsgId>
+</xml>
+
+2018-01-26 17:19:17 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958356',
+    'msgtype' => 'text',
+    'content' => '001',
+    'msgid' => '6515286528836750354',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958356',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'chats',
+  'rule' => NULL,
+  'priority' => 255,
+  'context' => true,
+)
+
+2018-01-26 17:19:17 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2018-01-26 17:20:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwGb52D-4PLuDjFdKlIJAdVc]]></FromUserName>
+<CreateTime>1516958409</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-26 17:20:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwGb52D-4PLuDjFdKlIJAdVc',
+    'createtime' => '1516958409',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'omsmfwGb52D-4PLuDjFdKlIJAdVc',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958409',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-01-26 17:20:10 response :
+------------
+
+2018-01-26 17:20:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwGb52D-4PLuDjFdKlIJAdVc]]></FromUserName>
+<CreateTime>1516958421</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[001]]></Content>
+<MsgId>6515286808009624624</MsgId>
+</xml>
+
+2018-01-26 17:20:23 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwGb52D-4PLuDjFdKlIJAdVc',
+    'createtime' => '1516958421',
+    'msgtype' => 'text',
+    'content' => '001',
+    'msgid' => '6515286808009624624',
+    'from' => 'omsmfwGb52D-4PLuDjFdKlIJAdVc',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958421',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ewei_money',
+  'rule' => '144',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '58',
+    'rid' => '144',
+    'uniacid' => '8',
+    'module' => 'ewei_money',
+    'content' => '001',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-26 17:20:23 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwGb52D-4PLuDjFdKlIJAdVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-26 17:21:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958458</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[001]]></Content>
+<MsgId>6515286966923414616</MsgId>
+</xml>
+
+2018-01-26 17:21:00 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958458',
+    'msgtype' => 'text',
+    'content' => '001',
+    'msgid' => '6515286966923414616',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958458',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'chats',
+  'rule' => NULL,
+  'priority' => 255,
+  'context' => true,
+)
+
+2018-01-26 17:21:00 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2018-01-26 17:21:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwG5H6GVN9Gb4ZhffgjWiMmE]]></FromUserName>
+<CreateTime>1516958477</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[001]]></Content>
+<MsgId>6515287048527793255</MsgId>
+</xml>
+
+2018-01-26 17:21:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwG5H6GVN9Gb4ZhffgjWiMmE',
+    'createtime' => '1516958477',
+    'msgtype' => 'text',
+    'content' => '001',
+    'msgid' => '6515287048527793255',
+    'from' => 'omsmfwG5H6GVN9Gb4ZhffgjWiMmE',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958477',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ewei_money',
+  'rule' => '144',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '58',
+    'rid' => '144',
+    'uniacid' => '8',
+    'module' => 'ewei_money',
+    'content' => '001',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-26 17:21:19 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwG5H6GVN9Gb4ZhffgjWiMmE ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-26 17:28:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516958896</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[001]]></Content>
+<MsgId>6515288848119090512</MsgId>
+</xml>
+
+2018-01-26 17:28:17 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516958896',
+    'msgtype' => 'text',
+    'content' => '001',
+    'msgid' => '6515288848119090512',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516958896',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ewei_money',
+  'rule' => '144',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '58',
+    'rid' => '144',
+    'uniacid' => '8',
+    'module' => 'ewei_money',
+    'content' => '001',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-26 17:28:17 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwIGuDZiFZVYr6JiCR_4uBX8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-26 17:32:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1516959157</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[砍价]]></Content>
+<MsgId>6515289969105554939</MsgId>
+</xml>
+
+2018-01-26 17:32:39 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1516959157',
+    'msgtype' => 'text',
+    'content' => '砍价',
+    'msgid' => '6515289969105554939',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1516959157',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '142',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '56',
+    'rid' => '142',
+    'uniacid' => '8',
+    'module' => 'cover',
+    'content' => '砍价',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-26 17:32:39 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwIGuDZiFZVYr6JiCR_4uBX8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-26 18:14:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516961643</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 18:14:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516961643',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516961643',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 18:14:04 response :
+------------
+
+2018-01-26 18:18:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516961886</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 18:18:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516961886',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516961886',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 18:18:08 response :
+------------
+
+2018-01-26 18:25:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516962300</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-26 18:25:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516962300',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516962300',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 18:25:02 response :
+------------
+
+2018-01-26 20:21:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516969271</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-26 20:21:14 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516969271',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://bwjlsv.agent.yqjuejin.com',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516969271',
+    'type' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-26 20:21:14 response :
+------------
+
+2018-01-26 20:22:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516969323</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></Content>
+<MsgId>6515333631783889537</MsgId>
+</xml>
+
+2018-01-26 20:22:05 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516969323',
+    'msgtype' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'msgid' => '6515333631783889537',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516969323',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'tiger_newhu',
+  'rule' => '139',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '139',
+    'uniacid' => '4',
+    'module' => 'tiger_newhu',
+    'content' => 'http',
+    'type' => '3',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-26 20:22:05 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

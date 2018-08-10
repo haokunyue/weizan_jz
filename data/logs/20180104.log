@@ -1,0 +1,102 @@
+2018-01-04 14:54:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwK3YmqB6k9mbP3L9WhEXaFo]]></FromUserName>
+<CreateTime>1515048849</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-04 14:54:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwK3YmqB6k9mbP3L9WhEXaFo',
+    'createtime' => '1515048849',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwK3YmqB6k9mbP3L9WhEXaFo',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1515048849',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-04 14:54:10 response :
+------------
+
+2018-01-04 14:54:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwK3YmqB6k9mbP3L9WhEXaFo]]></FromUserName>
+<CreateTime>1515048866</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6507085331775222793</MsgId>
+</xml>
+
+2018-01-04 14:54:27 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwK3YmqB6k9mbP3L9WhEXaFo',
+    'createtime' => '1515048866',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6507085331775222793',
+    'from' => 'oRRBhwK3YmqB6k9mbP3L9WhEXaFo',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1515048866',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '121',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '35',
+    'rid' => '121',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-04 14:54:27 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwK3YmqB6k9mbP3L9WhEXaFo ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

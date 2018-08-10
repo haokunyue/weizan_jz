@@ -1,0 +1,108 @@
+User-agent: Baiduspider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Googlebot
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: MSNBot
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Baiduspider-image
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: YoudaoBot
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sogou web spider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sogou inst spider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sogou spider2
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sogou blog
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sogou News Spider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sogou Orion spider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: ChinasoSpider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: Sosospider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+
+User-agent: yisouspider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: EasouSpider
+Disallow: /web/
+Disallow: /addons/
+Disallow: /data/
+Disallow: /app/
+Disallow: /cache/
+
+User-agent: *
+Disallow: /

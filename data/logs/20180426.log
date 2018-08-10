@@ -1,0 +1,274 @@
+2018-04-26 07:57:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w2oImUMvqATd2u9LS6BscbY]]></FromUserName>
+<CreateTime>1524700645</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-26 07:57:26 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w2oImUMvqATd2u9LS6BscbY',
+    'createtime' => '1524700645',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oGSJ8w2oImUMvqATd2u9LS6BscbY',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524700645',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-04-26 07:57:26 response :
+------------
+
+2018-04-26 16:56:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1U_shH6z-WofmIJL3gQAaMk]]></FromUserName>
+<CreateTime>1524733000</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-26 18:01:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Ygey2EdRDetw8X0WEjmGIM]]></FromUserName>
+<CreateTime>1524736907</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-26 18:01:48 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Ygey2EdRDetw8X0WEjmGIM',
+    'createtime' => '1524736907',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1Ygey2EdRDetw8X0WEjmGIM',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1524736907',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-04-26 18:01:48 response :
+------------
+
+2018-04-26 18:01:49 SQL Error :
+------------
+String:
+SQL: <br/>INSERT INTO `ims_gs_pinshop_openid2` SET <hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-04-26 18:01:49 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-04-26 18:01:49 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-04-26 19:48:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wylrEBE_uiJnMwG9miAQSIk]]></FromUserName>
+<CreateTime>1524743328</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-26 19:48:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'createtime' => '1524743328',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524743328',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-26 19:48:49 response :
+------------
+
+2018-04-26 19:49:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wylrEBE_uiJnMwG9miAQSIk]]></FromUserName>
+<CreateTime>1524743358</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-26 19:49:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'createtime' => '1524743358',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524743358',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-26 19:49:19 response :
+------------
+
+2018-04-26 19:50:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wylrEBE_uiJnMwG9miAQSIk]]></FromUserName>
+<CreateTime>1524743405</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-26 19:50:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'createtime' => '1524743405',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524743405',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-26 19:50:06 response :
+------------
+
+2018-04-26 21:06:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wylrEBE_uiJnMwG9miAQSIk]]></FromUserName>
+<CreateTime>1524747997</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-26 21:06:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'createtime' => '1524747997',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wylrEBE_uiJnMwG9miAQSIk',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524747997',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-26 21:06:38 response :
+------------
+
+2018-04-26 22:42:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1VY5LqekRp1qCI310M0545k]]></FromUserName>
+<CreateTime>1524753741</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

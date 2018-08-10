@@ -1,0 +1,149 @@
+2018-02-20 20:06:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1fkKwcvs4jjsEo5SduvJ-1w]]></FromUserName>
+<CreateTime>1519128389</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-20 20:06:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1fkKwcvs4jjsEo5SduvJ-1w',
+    'createtime' => '1519128389',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1fkKwcvs4jjsEo5SduvJ-1w',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519128389',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-20 20:06:30 response :
+------------
+
+2018-02-20 20:07:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1UIqwOQUMSZi4WB5_yDg0LI]]></FromUserName>
+<CreateTime>1519128461</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-20 20:07:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1UIqwOQUMSZi4WB5_yDg0LI',
+    'createtime' => '1519128461',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1UIqwOQUMSZi4WB5_yDg0LI',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519128461',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-20 20:07:42 response :
+------------
+
+2018-02-20 20:08:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1ffXTwhUBwM-DdIDjQypmug]]></FromUserName>
+<CreateTime>1519128507</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-20 20:08:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1ffXTwhUBwM-DdIDjQypmug',
+    'createtime' => '1519128507',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1ffXTwhUBwM-DdIDjQypmug',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519128507',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-20 20:08:28 response :
+------------
+
+2018-02-20 22:22:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1UIqwOQUMSZi4WB5_yDg0LI]]></FromUserName>
+<CreateTime>1519136536</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[包装展会]]></Content>
+<MsgId>6524641740697924155</MsgId>
+</xml>
+
+2018-02-20 22:22:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1UIqwOQUMSZi4WB5_yDg0LI',
+    'createtime' => '1519136536',
+    'msgtype' => 'text',
+    'content' => '包装展会',
+    'msgid' => '6524641740697924155',
+    'from' => 'o62GS1UIqwOQUMSZi4WB5_yDg0LI',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519136536',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-02-20 22:22:17 response :
+------------
+

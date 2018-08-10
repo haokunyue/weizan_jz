@@ -1,0 +1,265 @@
+2018-03-07 11:17:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1enYON2uX_vQ_GHUy6_owoM]]></FromUserName>
+<CreateTime>1520392639</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-07 11:17:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1enYON2uX_vQ_GHUy6_owoM',
+    'createtime' => '1520392639',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1enYON2uX_vQ_GHUy6_owoM',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520392639',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-07 11:17:20 response :
+------------
+
+2018-03-07 16:24:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1QkOOfdWQ7JBcO7yCR-_69M]]></FromUserName>
+<CreateTime>1520411066</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000043</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>345</TotalCount>
+<FilterCount>343</FilterCount>
+<SentCount>343</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-03-07 16:24:27 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'createtime' => '1520411066',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000043',
+    'status' => 'send success',
+    'totalcount' => '345',
+    'filtercount' => '343',
+    'sentcount' => '343',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'from' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520411066',
+    'type' => 'event',
+  ),
+)
+
+2018-03-07 16:24:27 response :
+------------
+
+2018-03-07 17:22:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1bfNHulB9IN2vSxp8kvI4r8]]></FromUserName>
+<CreateTime>1520414541</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-07 17:22:22 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1bfNHulB9IN2vSxp8kvI4r8',
+    'createtime' => '1520414541',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1bfNHulB9IN2vSxp8kvI4r8',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520414541',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-07 17:22:22 response :
+------------
+
+2018-03-07 17:37:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1520415436</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[助力]]></Content>
+<MsgId>6530134574417746641</MsgId>
+</xml>
+
+2018-03-07 17:37:17 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1520415436',
+    'msgtype' => 'text',
+    'content' => '助力',
+    'msgid' => '6530134574417746641',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1520415436',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'youfan_zhuli',
+  'rule' => '170',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '105',
+    'rid' => '170',
+    'uniacid' => '4',
+    'module' => 'youfan_zhuli',
+    'content' => '助力',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-03-07 17:37:17 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-03-07 19:20:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1YrH-OQDt9iourQSnNCAcV0]]></FromUserName>
+<CreateTime>1520421637</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-07 19:20:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1YrH-OQDt9iourQSnNCAcV0',
+    'createtime' => '1520421637',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1YrH-OQDt9iourQSnNCAcV0',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520421637',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-07 19:20:38 response :
+------------
+
+2018-03-07 21:08:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Vspt7YYGVpkhca7iOj4mHY]]></FromUserName>
+<CreateTime>1520428137</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-07 21:08:58 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Vspt7YYGVpkhca7iOj4mHY',
+    'createtime' => '1520428137',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1Vspt7YYGVpkhca7iOj4mHY',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520428137',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-07 21:08:58 response :
+------------
+

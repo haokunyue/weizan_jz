@@ -1,0 +1,137 @@
+2018-03-13 08:32:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1520901119</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[小店]]></Content>
+<MsgId>6532220567019025243</MsgId>
+</xml>
+
+2018-03-13 08:32:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1520901140</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[小店]]></Content>
+<MsgId>6532220657213338463</MsgId>
+</xml>
+
+2018-03-13 08:32:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1520901174</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[552009728]]></EventKey>
+<Ticket><![CDATA[gQHs8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyM0d4aDQ2NWdkeDAxX1JxZDFxMVEAAgQETqZaAwTxjCcA]]></Ticket>
+</xml>
+
+2018-03-13 10:13:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1cuz0rXHKIzO1ghKuYnk0WI]]></FromUserName>
+<CreateTime>1520907199</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-13 10:13:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1cuz0rXHKIzO1ghKuYnk0WI',
+    'createtime' => '1520907199',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1cuz0rXHKIzO1ghKuYnk0WI',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520907199',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-03-13 10:13:20 response :
+------------
+
+2018-03-13 11:59:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1QkOOfdWQ7JBcO7yCR-_69M]]></FromUserName>
+<CreateTime>1520913558</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000044</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>350</TotalCount>
+<FilterCount>348</FilterCount>
+<SentCount>348</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-03-13 11:59:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'createtime' => '1520913558',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000044',
+    'status' => 'send success',
+    'totalcount' => '350',
+    'filtercount' => '348',
+    'sentcount' => '348',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'from' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1520913558',
+    'type' => 'event',
+  ),
+)
+
+2018-03-13 11:59:19 response :
+------------
+
+2018-03-13 15:39:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1ZYwDfHJKk6EvChSKnY1sx0]]></FromUserName>
+<CreateTime>1520926763</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

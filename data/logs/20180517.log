@@ -1,0 +1,299 @@
+2018-05-17 11:31:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w3bw3xkYzm3KoanhLBejktI]]></FromUserName>
+<CreateTime>1526527893</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-17 11:31:34 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w3bw3xkYzm3KoanhLBejktI',
+    'createtime' => '1526527893',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oGSJ8w3bw3xkYzm3KoanhLBejktI',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526527893',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-05-17 11:31:34 response :
+------------
+
+2018-05-17 11:31:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w3bw3xkYzm3KoanhLBejktI]]></FromUserName>
+<CreateTime>1526527898</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-17 11:31:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w3bw3xkYzm3KoanhLBejktI',
+    'createtime' => '1526527898',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w3bw3xkYzm3KoanhLBejktI',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526527898',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-17 11:31:39 response :
+------------
+
+2018-05-17 11:33:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w3bw3xkYzm3KoanhLBejktI]]></FromUserName>
+<CreateTime>1526528020</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-17 18:19:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8ww5-yTgU2QbPBnK4-pWVnng]]></FromUserName>
+<CreateTime>1526552350</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-17 18:19:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'createtime' => '1526552350',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526552350',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-17 18:19:12 response :
+------------
+
+2018-05-17 18:21:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8ww5-yTgU2QbPBnK4-pWVnng]]></FromUserName>
+<CreateTime>1526552479</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-17 18:21:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'createtime' => '1526552479',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526552479',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-17 18:21:20 response :
+------------
+
+2018-05-17 18:22:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8ww5-yTgU2QbPBnK4-pWVnng]]></FromUserName>
+<CreateTime>1526552565</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-17 18:22:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'createtime' => '1526552565',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526552565',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-17 18:22:47 response :
+------------
+
+2018-05-17 18:23:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8ww5-yTgU2QbPBnK4-pWVnng]]></FromUserName>
+<CreateTime>1526552633</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-17 18:23:54 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'createtime' => '1526552633',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526552633',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-17 18:23:54 response :
+------------
+
+2018-05-17 19:56:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8ww5-yTgU2QbPBnK4-pWVnng]]></FromUserName>
+<CreateTime>1526558188</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-17 19:56:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'createtime' => '1526558188',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8ww5-yTgU2QbPBnK4-pWVnng',
+    'to' => 'gh_7281c5520903',
+    'time' => '1526558188',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-17 19:56:29 response :
+------------
+
+2018-05-17 20:00:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1S6ap2bGxHZtxBDcm9J5ry4]]></FromUserName>
+<CreateTime>1526558429</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

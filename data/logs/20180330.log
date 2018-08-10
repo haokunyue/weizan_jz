@@ -1,0 +1,165 @@
+2018-03-30 08:20:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1522369224</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[桃花]]></Content>
+<MsgId>6538526029981282209</MsgId>
+</xml>
+
+2018-03-30 08:20:26 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1522369224',
+    'msgtype' => 'text',
+    'content' => '桃花',
+    'msgid' => '6538526029981282209',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1522369224',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'xiaogui_taohuaqian',
+  'rule' => '184',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '119',
+    'rid' => '184',
+    'uniacid' => '4',
+    'module' => 'xiaogui_taohuaqian',
+    'content' => '桃花',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-03-30 08:20:26 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 悟空你好~
+
+请在5分钟内回复的姓名~
+
+马上为你测试你的桃花签~
+
+退出请回复【取消】 ;
+
+2018-03-30 08:20:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1522369236</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[王子杰]]></Content>
+<MsgId>6538526081520889765</MsgId>
+</xml>
+
+2018-03-30 08:20:40 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1522369236',
+    'msgtype' => 'text',
+    'content' => '王子杰',
+    'msgid' => '6538526081520889765',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1522369236',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-03-30 08:20:40 response :
+------------
+
+2018-03-30 08:22:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1522369351</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[张三]]></Content>
+<MsgId>6538526575442128815</MsgId>
+</xml>
+
+2018-03-30 08:22:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1522369351',
+    'msgtype' => 'text',
+    'content' => '张三',
+    'msgid' => '6538526575442128815',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1522369351',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-03-30 08:22:35 response :
+------------
+
+2018-03-30 19:20:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1cfKsaY5K1f1yoFRo1pdKO4]]></FromUserName>
+<CreateTime>1522408827</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-30 19:54:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1UYuJ1YBDsmQbv1dFFmKsgE]]></FromUserName>
+<CreateTime>1522410889</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

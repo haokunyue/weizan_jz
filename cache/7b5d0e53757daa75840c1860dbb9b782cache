@@ -1,0 +1,905 @@
+a:3:{s:4:"time";i:1521422703;s:6:"expire";i:60;s:5:"value";s:177077:"<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/reset.css?v=201803121434">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/footer.css?v=201803121434">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/pager.css?v=201803121434">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/swiper.min.css?v=201803121434">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/dtk.css?v=201803121434">
+    <!-- 皮肤 S-->
+        <!-- 皮肤 E-->
+    <link rel="stylesheet" href="http://cmsstatic.dataoke.com//css/iconfont.css?v=201803121434">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//web/css/ddq.css?v=201803121434" />
+<title>咚咚抢</title>
+    <meta name="Keywords" content="天天优惠券,优惠券折扣,9块9包邮,限时特卖,优品折扣,天天优惠券"/>
+    <meta name="Description" content="天天优惠券-优惠券折扣直播第一站！每天更新千款，纯人工筛选验货，限时限量特卖，全场1折包邮！"/>
+    <script src="http://cmsstatic.dataoke.com/other/jquery/1.12.4/jquery.min.js?v=201803121434"></script>
+    <script src="http://cmsstatic.dataoke.com//js/layer/layer.js?v=201803121434"></script>
+    <script src="http://cmsstatic.dataoke.com//js/dtk.js?v=201803121434"></script>
+    <script src="http://cmsstatic.dataoke.com//js/swiper.min.js?v=201803121434"></script>
+</head>
+<body>
+<!--顶部推荐位s-->
+<div id="testTop"></div>
+<!--顶部推荐位e-->
+<div id="navTop">
+
+    <div id="top">
+        <div id="topleft" style="margin: 0;line-height: 25px;">亲爱的，来加粉丝内部优惠券专享QQ群                            <a target="_blank" style="height: 22px;float: right;" href="http://qm.qq.com/cgi-bin/qm/qr?k=j0LP6TSdOO3qsKC_5sV112oypliJ4ydy">
+                    <img border="0" src="https://img.alicdn.com/imgextra/i1/2508158775/TB2SfmWqFXXXXb4XpXXXXXXXXXX_!!2508158775.png">
+                </a>
+                    </div>
+        <ul id="topright" style="line-height: 25px;">
+            <li style=" margin-right: 8px;">
+                <a class="set_home" href="javascript:void(0)" onclick="SetHome(this,window.location)" style="color: #757575" title="将本站设为首页">设为首页</a>
+            </li>
+            <li style="margin-right: 8px;">
+                <a class="add_favorite" href="javascript:void(0)" onclick="shoucang(document.title,window.location)" style="color: #757575" title="加入收藏，方便下次打开">加入收藏</a>
+            </li>
+            <li>
+                <a class="header_service" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2233253209&site=qq&menu=yes" style="color: #8da7cb" title="联系我帮你解答">遇到购物问题? 联系我 ></a>
+            </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div id="headNav">
+    <div id="header" style="padding-bottom: 16px;">
+        <a class="header_logo" href="/tb.php?r=index/index&u=358126" style="width: 380px; height: 80px;display: inline-block;float: left;    background-size: inherit;    background: url('http://tmall.0-22.net/555.jpg')left top no-repeat;    margin-top: -7px;text-align: left;line-height: 80px;font-size: 36px;padding-left: 20px;">
+                    </a>
+
+        
+        <div id="showList">
+            <div id="search">
+                <input type="hidden" name="h_kw" id="h_kw" value="春季新衣">
+                <input type="hidden" name="h_url" id="h_url" value="/tb.php?r=l">
+                <input type="hidden" name="m_url" id="m_url" value="/tb.php?r=l&kw=%E5%A5%B3%E8%A3%85%E6%98%A5">
+                <form action="/tb.php?r=index/index" method="get">
+                    <input type="hidden" name="r" value="l">
+                    <input type="text" autocomplete="off" class="theme-border-color-1 my-src-input" value="" name="kw" placeholder="春季新衣"/>
+                    <span class="src-close-btn"></span>
+                    <button class="theme-bg-color-1 my-src-btn">搜 索</button>
+                </form>
+                <ul class="search-land"></ul>
+            </div>
+
+            <dl>
+                <dt class="rg"></dt>
+            </dl>
+            <dl>
+                <dt class="zy"></dt>
+            </dl>
+            <dl>
+                <dt class="qc"></dt>
+            </dl>
+
+        </div>
+        <div class="clear"></div>
+    </div>
+
+<!--悬浮搜索框-->
+    </div>
+
+<div id="baner" class="theme-bg-color-1">
+    <div id="nav" style="font-size: 15px;">
+        <a href="/tb.php?r=index/index&u=358126" class="theme-hover-bg-color-8 iconM " style="padding:8px 27px;">
+            <i class="iconfont">&#xe601;</i><span style="margin-right: 7px;">今日上新</span>
+        </a>
+
+        <a class="theme-hover-bg-color-8 " href="/tb.php?r=l&u=358126" style="padding:8px 15px;">
+            领券优惠直播
+        </a>
+
+        <a class="theme-hover-bg-color-8 active" href="/tb.php?r=ddq&u=358126" style="padding:8px 15px;">
+            咚咚抢<div style="position:absolute; width:24px; height:32px; background:#FFCC00;margin-left: 107px; margin-top: -25px; background:url(http://a.vpimg3.com/upload/dop/2016/01/04/148/HOTT_qeu.gif)"></div>
+        </a>
+
+        <a href="/tb.php?r=p&u=358126" class="theme-hover-bg-color-8 iconH " style="padding:8px 15px;">
+            超级人气榜
+        </a>
+
+        <a class="theme-hover-bg-color-8 " href="/tb.php?r=nine&u=358126" style="padding:8px 15px;">
+            9块9包邮
+        </a>
+
+        
+    </div>
+</div>
+
+<div id="dtk_mian">
+    <div class="sf_wrap">
+    <div class="banner">
+      <img src="https://img.alicdn.com/imgextra/i1/2053469401/TB29_yfgPlxYKJjSZFuXXaYlVXa_!!2053469401.jpg" alt="">
+    </div>
+    <div class="release-time">
+        <div class="release-time-main">
+            <span class="paly-btn play-prev" data-r="1"></span>
+            <span class="paly-btn play-next" data-r="-1"></span>
+            <div class="time-scroll-cover"></div>
+            <ul style="width:3520px;left: -1320px;">
+
+                                    <li class="" data-type="1810">
+                      <div class="section_item">
+                        <span>10:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1813">
+                      <div class="section_item">
+                        <span>13:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1815">
+                      <div class="section_item">
+                        <span>15:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1817">
+                      <div class="section_item">
+                        <span>17:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1819">
+                      <div class="section_item">
+                        <span>19:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1820">
+                      <div class="section_item">
+                        <span>20:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1821">
+                      <div class="section_item">
+                        <span>21:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1900">
+                      <div class="section_item">
+                        <span>00:00</span>
+                        <p>已开抢</p>
+                      </div>
+                    </li>
+                                    <li class="cur" data-type="1908">
+                      <div class="section_item">
+                        <span>08:00</span>
+                        <p>正在疯抢</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1910">
+                      <div class="section_item">
+                        <span>10:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1913">
+                      <div class="section_item">
+                        <span>13:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1915">
+                      <div class="section_item">
+                        <span>15:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1917">
+                      <div class="section_item">
+                        <span>17:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1919">
+                      <div class="section_item">
+                        <span>19:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1920">
+                      <div class="section_item">
+                        <span>20:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                                    <li class="" data-type="1921">
+                      <div class="section_item">
+                        <span>21:00</span>
+                        <p>即将开始</p>
+                      </div>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+    <div class="main">
+
+        <div class="wrapper">
+            <div class="release-list">
+                <div class="ddq_loadding hide">
+                  <img src="http://cmsstatic.dataoke.com//web/images/ddq_loading.gif" alt="">
+                </div>
+                <ul class="clearfix">
+                                                <li>
+                                <a href="/tb.php?r=l/d&id=6255842&nav_wrap=ddq" target="_blank">
+                                                                            <div class="goods_hdtype goods_hdtype_zhe"></div>
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/878754353/TB2qk5OeXuWBuNjSszbXXcS7FXa_!!878754353.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【红豆】女100%纯棉女士内裤4条</h3>
+                                            <p>100%纯棉，触感轻柔，吸汗透气</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>34.8</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥39.8</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥5</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>3492</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6252911&nav_wrap=ddq" target="_blank">
+                                                                            <div class="goods_hdtype goods_hdtype_zhe"></div>
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/2154413808/TB2f.F3XTdYBeNkSmLyXXXfnVXa_!!2154413808.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【杰瑞乐咖】春装新款男童休闲束脚卫裤</h3>
+                                            <p>柔软亲肤，运动版型</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>49</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥59</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥10</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>437</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6249470&nav_wrap=ddq" target="_blank">
+                                                                            <div class="goods_hdtype goods_hdtype_zhe"></div>
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i4/1024204508/TB22mz9XsjI8KJjSsppXXXbyVXa_!!1024204508.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【北极绒】纯棉秋衣秋裤情侣套装</h3>
+                                            <p>纯棉材质，弹软透气，舒适贴身</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>24.8</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥29.8</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥5</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>31446</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6204728&nav_wrap=ddq" target="_blank">
+                                                                            <div class="goods_hdtype goods_hdtype_zhe"></div>
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/376078138/TB2ilVRjKEJL1JjSZFGXXa6OXXa_!!376078138.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【东方宝石】持久留香保湿滋润沐浴露</h3>
+                                            <p>持久留香，滋润肌肤，补水保湿，改善肤质</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>19</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥29</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥10</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>20681</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6255662&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/bao/uploaded/i3/TB1yRq8IVXXXXbpXpXXXXXXXXXX_!!0-item_pic.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>时尚太阳帽遮阳帽可折叠大檐草帽</h3>
+                                            <p>气质优雅，遮阳避署</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>19.9</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥29.9</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥10</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>3772</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6251642&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/2104979870/TB2oiGobhWYBuNjy1zkXXXGGpXa-2104979870.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>苹果6S/7/8背夹充电宝手机壳</h3>
+                                            <p>超大容量，防摔角保护</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>28.9</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥108.9</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥80</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>5939</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6251573&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/3077343071/TB2vw73hY0kpuFjy0FjXXcBbVXa_!!3077343071.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【珑萱】夏季女短裤宽松运动阔腿裤</h3>
+                                            <p>时尚百塔，清爽舒适，耐磨耐脏，多色可选</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>14.8</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥19.8</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥5</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>235</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6242108&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/2596602764/TB2rAO6aGLN8KJjSZFGXXbjrVXa_!!2596602764.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【金锣优级】金锣王中王400g*3袋</h3>
+                                            <p>用心选料，精心制作，美味营养【赠运费险】</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>28.8</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥38.8</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥10</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>129</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6239918&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://gd2.alicdn.com/imgextra/i2/341393797/TB2y.WycJhvOuFjSZFBXXcZgFXa_!!341393797.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>韩版刺绣树叶棒球鸭舌帽嘻哈帽子潮人男女</h3>
+                                            <p>时尚百搭，立体有型</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>10</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥15</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥5</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>1254</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6239555&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i2/578160524/TB2.DNgcgaTBuNjSszfXXXgfpXa_!!578160524.png_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【加菲猫】婴儿二合一洗发沐浴露300g</h3>
+                                            <p>植物精华，中性无泪配方，专为儿童研制</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>13.8</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥28.8</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥15</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>691</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6233924&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i3/3010514956/TB2v1O6l46I8KJjSszfXXaZVXXa_!!3010514956.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【舒比拓旗舰店】进口按压式牙膏250g</h3>
+                                            <p>祛黄祛渍，持久清新口气</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>19.9</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥39.9</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥20</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>10509</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6231716&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i4/1950213856/TB2LSFknwFkpuFjSspnXXb4qFXa_!!1950213856.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>车太汽车遮阳板防晒隔热遮阳挡</h3>
+                                            <p>静电吸附，使用方便，可折叠收纳</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>6.8</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥16.8</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥10</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>3057</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6198938&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="https://img.alicdn.com/imgextra/i3/2698336233/TB2EdLtq80kpuFjSsppXXcGTXXa_!!2698336233.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【俏娃旗舰店】儿童架子鼓音乐玩具打击乐器</h3>
+                                            <p>自带乐普，自由组装，质量可靠</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>48</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥58</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥10</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>5162</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                                    <li>
+                                <a href="/tb.php?r=l/d&id=6191837&nav_wrap=ddq" target="_blank">
+                                    
+                                    <div class="goods_pic">
+                                        <img src="http://img.alicdn.com/imgextra/i3/2841149202/TB2pychbmtkpuFjy0FhXXXQzFXa_!!2841149202.jpg_300x300.jpg" alt="">
+                                    </div>
+                                    <div class="goods_info">
+                                        <div class="goods_tit_des">
+                                            <h3>【娜日舒】原装进口无荧光剂姨妈巾7盒</h3>
+                                            <p>原装进口，纯棉材质，0添加不致敏</p>
+                                        </div>
+                                        <div class="goods_price_coupon">
+                                           <span class="goods_price">
+                                               <b><i>￥</i>39.9</b>券后价
+                                           </span>
+                                            <span class="goods_price_old">￥99.9</span>
+                                            <div class="goods_coupon"><span class="c_l c_coupon"></span><span class="c_r c_coupon"></span>券 ￥60</div>
+                                        </div>
+                                                                              <div class="goods_gobuy_seller ">
+                                                                                            <span class="goods_seller fl"><i></i><b>6697</b>人已抢</span>
+                                                                                        <span class="goods_buy_btn goods-item">马上抢</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                                        </ul>
+            </div>
+
+            <div class="release_next">
+                <img src="http://cmsstatic.dataoke.com//web/images/every/onroad.png" class="hide" alt="">
+                <p class="ddq_text_buy ddq_text">都是小编精心挑选的必抢好货哦~</p>
+                <p class="ddq_text_next ddq_text hide">(ง •̀_•́)ง 亲！本场好货还在精心挑选中</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+    var dataDef = {"1810":[{"paiqi":"2018-03-18 10:00:00","new_words":"\u51c0\u5316\u4fdd\u6e7f\uff0c\u8865\u6c34\u6ecb\u6da6","tubiao":"0","id":"6246977","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2778000028\/TB2A5.Yb17EWeJjSZFMXXX00FXa_!!2778000028.png","d_title":"\u3010\u73c0\u83b1\u96c5\u3011\u58a8\u89d2\u85fb\u6ce1\u53f6\u85fb\u9762\u819c20\u7247","title":"\u73c0\u83b1\u96c5\u9762\u819c\u6cca\u83b1\u96c5\u70ad\u9ed1\u6d77\u85fb\u8865\u6c34\u9762\u819c24\u6b63\u54c1\u4fdd\u6e7f\u8865\u6c34\u5b98\u65b9\u65d7\u8230\u5e97\u5b98\u7f51","miaoshu":"\u51c0\u5316\u4fdd\u6e7f\uff0c\u51c0\u5316\u5916\u754c\u6c61\u67d3\uff0c\u808c\u80a4\u5e72\u51c0\u6c34\u5ae9\uff0c\u8865\u6c34\u4fdd\u6e7f\u6ecb\u6da6\u3002","yuanjia":"79.00","quan_jine":"10.00","xiaoliang":"2675","huodong_type":"3","quan_time":"2018-03-25 23:59:59","quan_num":"4480","jiage":"69.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u6e29\u548c\u6ecb\u517b\uff0c\u6539\u5584\u53d1\u8d28\uff0c\u53bb\u5c51\u6b62\u75d2\uff0c\u6301\u4e45\u7559\u9999","tubiao":"0","id":"6240023","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/845486730\/TB2DbOlXm_I8KJjy0FoXXaFnVXa_!!845486730.jpg","d_title":"\u3010\u963f\u9053\u592b\u65d7\u8230\u5e97\u3011\u6d17\u62a4\u5957\u88c5420g*2","title":"\u963f\u9053\u592b\u6b63\u54c1\u6d17\u53d1\u6c34\u62a4\u53d1\u7d20\u5957\u88c5\u8f7b\u67d4\u6ecb\u6da6\u4fee\u62a4\u6d17\u53d1\u4e73\u6db2\u62a4\u53d1\u7d20","miaoshu":"\u4e16\u754c\u7f8e\u53d1\u5316\u5986\u54c1\u8457\u540d\u54c1\u724c\uff0c\u8f7b\u67d4\u4e1d\u6ed1\uff0c\u6e29\u548c\u6ecb\u517b\u53d1\u4e1d\uff0c\u6539\u5584\u53d1\u8d28\uff0c\u5bc6\u96c6\u6ecb\u517b\u4fee\u62a4\uff0c\u53bb\u5c51\u6b62\u75d2\uff0c\u6301\u4e45\u7559\u9999\uff0c\u61c2\u62a4\u7406\u8981\u66f4\u61c2\u9009\u62e9\uff01\u3010\u4e70\u4e00\u9001\u591a\u3011","yuanjia":"88.00","quan_jine":"20.00","xiaoliang":"113298","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"4320","jiage":"68.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u4e09\u79cd\u9999\u578b\uff0c\u8bf7\u53e3\u6c14\uff0c\u53bb\u7259\u6e0d\uff0c\u6709\u6548\u6539\u5584\u53e3\u8154\u95ee\u9898","tubiao":"0","id":"6239078","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/96558880\/TB1MSMEfH_I8KJjy1XaXXbsxpXa_!!0-item_pic.jpg","d_title":"\u3010\u4e91\u5357\u767d\u836f\u5b98\u65b9\u65d7\u8230\u5e97\u3011\u7259\u818f\u5168\u5bb6\u798f6\u652f\u5957\u88c5615g","title":"\u4e91\u5357\u767d\u836f\u7259\u818f \u5168\u5bb6\u798f6\u652f\u5957\u88c5615g \u6e05\u65b0\u53e3\u6c14 \u4fdd\u62a4\u7259\u9f7f","miaoshu":"\u4e91\u5357\u767d\u836f\u5929\u732b\u6b63\u54c1\u4fdd\u969c\uff0c\u8584\u8377\u7559\u5170\u51ac\u9752\u4e09\u79cd\u9999\u578b\uff0c\u8bf7\u53e3\u6c14\uff0c\u53bb\u7259\u6e0d\uff0c\u63d0\u5347\u53e3\u8154\u80fd\u529b\uff0c\u6709\u6548\u6539\u5584\u53e3\u8154\u95ee\u9898\u3002","yuanjia":"86.00","quan_jine":"3.00","xiaoliang":"22807","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"4260","jiage":"83.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u3010\u4e70\u5c31\u9001\u56fa\u5b9a\u7ed1\u5e26\u548c6\u7247\u9a6c\u6876\u57ab\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6236117","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2646693449\/TB2NPYud9CWBuNjy0FhXXb6EVXa_!!2646693449.jpg","d_title":"\u65c5\u884c\u51fa\u5dee\u4fbf\u643a\u5f0f\u9694\u810f\u7eaf\u68c9\u7761\u888b","title":"\u84d3\u5b89\u9002\u65c5\u884c\u9152\u5e97\u6210\u4eba\u9694\u810f\u7761\u888b\u5ba4\u5185\u5bbe\u9986\u8f7b\u4fbf\u51fa\u5dee\u4fbf\u643a\u5f0f\u539a\u8584\u7eaf\u68c9\u5e8a\u5355","miaoshu":"\u3010\u4e70\u5c31\u9001\u56fa\u5b9a\u7ed1\u5e26\u548c6\u7247\u9a6c\u6876\u57ab\u3011\u9152\u5e97\u4e0d\u536b\u751f\u60c5\u51b5\u592a\u591a\uff0c\u6709\u4e86\u8fd9\u4e2a\u9694\u810f\u888b\u7761\u89c9\u4e5f\u5b89\u5fc3\uff0c\u5168\u68c9\u8212\u670d\uff01\u65c5\u884c\u5e8a\u5355\uff0c\u5168\u68c9\u5367\u94fa\u65c5\u6e38\uff0c\u591a\u65b9\u9762\u5475\u62a4\u4f60\u7684\u5065\u5eb7\uff0c\u8d85\u503c\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"48.00","quan_jine":"20.00","xiaoliang":"3762","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"7050","jiage":"28.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u517b\u989c\u7f8e\u5bb9\uff0c\u6539\u5584\u7761\u7720\uff0c\u589e\u5f3a\u514d\u75ab\u529b\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6230228","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3012913363\/TB20ekxkgMPMeJjy1XdXXasrXXa_!!3012913363.jpg","d_title":"\u9e64\u738b\u7ea2\u67a3\u67b8\u675e\u963f\u80f6\u7cd5","title":"\u62cd\u4e0b39 \u7b2c3\u4ef61\u5143\u3011\u963f\u80f6\u7cd5\u5373\u98df\u7ea2\u67a3\u67b8\u675e\u578b\u9e64\u738b\u963f\u80f6\u56fa\u5143\u7cd5\u963f\u80f6\u818f\u65b9","miaoshu":"\u517b\u989c\u7f8e\u5bb9\uff0c\u6539\u5584\u7761\u7720\uff0c\u5343\u5e74\u6ecb\u8865\u5c5e\u963f\u80f6\uff0c\u5065\u5eb7\u6ecb\u8865\uff01\u597d\u751f\u6d3b\u9001\u793c\u5f53\u9009\u9e64\u738b\uff0c\u5341\u516b\u5e74\u54c1\u8d28\u4fdd~~\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"39.00","quan_jine":"10.00","xiaoliang":"15839","huodong_type":"3","quan_time":"2018-03-19 23:59:59","quan_num":"27480","jiage":"29.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u4e13\u67dc\u540c\u6b3e\uff0c\u8f7b\u8584\u900f\u6c14\uff0c\u6e05\u723d\u63a7\u6cb9\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6229865","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/810921128\/TB27DT0l.hnpuFjSZFpXXcpuXXa_!!810921128.jpg","d_title":"nico\u7c89\u997c\u906e\u7455\u5e72\u6e7f\u4e24\u7528","title":"Nico\u7c89\u997c\u5b9a\u5986\u6301\u4e45\u906e\u7455\u63a7\u6cb9\u5e72\u6e7f\u4e24\u7528\u7f51\u7ea2\u5e72\u7c89\u6563\u7c89\u4fee\u5bb9\u871c\u7c89\u7c89\u5e95\u6b63\u54c1","miaoshu":"\u4f1a\u547c\u5438\u7684\u7c89\u997c\uff0c\u8f7b\u8584\u900f\u6c14\uff0c\u6e05\u723d\u63a7\u6cb9\uff0c\u81ea\u7136\u906e\u7455~\u5b9a\u5986\uff0c\u4e00\u62b9\u8ba9\u4f60\u5373\u523b\u62e5\u6709\u5149\u6ed1\u7ec6\u817b\u7f8e\u808c~","yuanjia":"39.90","quan_jine":"20.00","xiaoliang":"38577","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"16500","jiage":"19.90"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u900f\u6c14\u8212\u9002\uff0c\u978b\u5e95\u67d4\u8f6f\uff0c\u4e0d\u53d8\u5f62\u4e0d\u78e8\u811a","tubiao":"0","id":"6217613","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1654050000\/TB2g1BfcmCWBuNjy0FhXXb6EVXa_!!1654050000.jpg","d_title":"\u3010\u73af\u7403\u3011\u9ad8\u5e2e\u5e06\u5e03\u978b\u5973\u767e\u642d\u7403\u978b\u677f\u978b","title":"\u73af\u7403ins\u9ad8\u5e2e\u5e06\u5e03\u978b\u5973\u5b66\u751f\u97e9\u7248\u539f\u5bbfulzzang\u6f6e\u767e\u642d\u7403\u978b\u7537\u677f\u978b\u767d\u5e03\u978b","miaoshu":"\u4e0d\u53d8\u5f62\u4e0d\u78e8\u811a\uff0c\u900f\u6c14\u8212\u9002\uff0c\u978b\u5e95\u67d4\u8f6f\uff0c\u65f6\u5c1a\u767e\u642d\uff0c\u6f6e\u6d41\u65f6\u5c1a\u3002\uff08\u9886\u5238\u5168\u5e97\u53ef\u4f7f\u7528\uff09","yuanjia":"45.00","quan_jine":"3.00","xiaoliang":"9673","huodong_type":"3","quan_time":"2018-03-22 23:59:59","quan_num":"91000","jiage":"42.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u5f39\u6027\u6536\u8179\uff0c\u62c9\u957f\u817f\u90e8\u7ebf\u6761\uff0c\u65f6\u5c1a\u767e\u642d","tubiao":"0","id":"6168215","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2177927488\/TB2Ics_c77myKJjSZFkXXa3vVXa_!!2177927488.jpg","d_title":"\u6625\u5b63\u8584\u6b3e\u4fee\u8eab\u9ad8\u8170\u4e5d\u5206\u5c0f\u811a\u6253\u5e95\u88e4","title":"\u6253\u5e95\u88e4\u52a0\u7ed2\u88e4\u5973\u5916\u7a7f\u9ed1\u8272\u9b54\u672f\u88e4\u6625\u5b63\u8584\u6b3e\u9ad8\u8170\u4e5d\u5206\u5c0f\u811a\u94c5\u7b14\u5927\u7801\u957f\u88e4","miaoshu":"\u4e00\u6761\u8212\u9002\u5916\u7a7f\uff0c\u4e0d\u6613\u8d77\u7403\uff0c\u4e0d\u62bd\u4e1d\uff0c\u5f39\u6027\u6536\u8179\uff0c\u62c9\u957f\u817f\u90e8\u7ebf\u6761\uff0c\u65f6\u5c1a\u767e\u642d\uff0c\u901f\u62a2\uff01","yuanjia":"49.00","quan_jine":"10.00","xiaoliang":"16282","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"34800","jiage":"39.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u3010\u9001\u540c\u6b3e\u6d17\u9762\u597650ml\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6246257","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/2732547402\/TB1veodXQfb_uJkSmRyXXbWxVXa_!!0-item_pic.jpg","d_title":"\u3010\u59ae\u7ef4\u96c5\u3011\u7537\u58eb\u63a7\u6cb9\u7f8e\u767d\u6d17\u9762\u59762\u53ea\u88c5","title":"\u59ae\u7ef4\u96c5\u7537\u58eb\u6d17\u9762\u5976\u63a7\u6cb9\u53bb\u9ed1\u5934\u6d17\u8138\u53bb\u6cb9\u8865\u6c34\u4fdd\u6e7f\u6d01\u9762\u4e73\u9001\u7f8e\u767d\u795b\u75d8\u5370","miaoshu":"\u5fb7\u56fd\u539f\u88c5\u8fdb\u53e3\uff0c\u63a7\u6cb9\u795b\u75d8\uff0c\u53bb\u9ed1\u5934\u53bb\u6cb9\uff0c\u4fdd\u6e7f\u8865\u6c34\uff0c\u6df1\u5c42\u6e05\u6d01\uff0c\u6d17\u540e\u4e0d\u7d27\u7ef7\uff0c\u7687\u9a6c\u63a8\u8350\uff0c\u503c\u5f97\u4fe1\u8d56\u3002\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"39.90","quan_jine":"10.00","xiaoliang":"77781","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"19575","jiage":"29.90"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u73af\u4fdd\u5065\u5eb7\uff0c\u53ef\u62c6\u5378\u514d\u6d17\u9632\u6c34","tubiao":"0","id":"6240110","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2089064375\/TB233mxhoMgYeJjSZFGXXXsMXXa_!!2089064375.jpg","d_title":"\u513f\u7ae5\u4eff\u7845\u80f6\u5403\u996d\u56f4\u515c\u56f4\u56342\u4e2a\u88c5","title":"\u9632\u6c34\u5b9d\u5b9d\u5403\u996d\u56f4\u515c\u5a74\u513f\u56f4\u5634\u5e7c\u513f\u5c0f\u5b69\u53e3\u6c34\u5dfe\u513f\u7ae5\u4eff\u7845\u80f6\u98df\u996d\u515c\u5927\u53f7","miaoshu":"\u5168\u65b0\u5347\u7ea7\u6b3e2\u4e2a\u88c5~\u65f6\u5c1a\u53ef\u7231\uff0c\u4e0d\u542bBPA\u3001\u73af\u4fdd\u5065\u5eb7\uff1b\u53ef\u8c03\u8282\u6697\u6263\uff0c\u6ee1\u8db3\u4e0d\u540c\u4f53\u578b\u5b9d\u5b9d\uff0c\u53ef\u62c6\u5378\u514d\u6d17\u9632\u6c34\uff0c\u80cc\u9762\u7cbe\u68b3\u7eaf\u68c9\uff0c\u8212\u9002\u8d34\u8eab\u3002","yuanjia":"15.80","quan_jine":"3.00","xiaoliang":"21708","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"18680","jiage":"12.80"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u5fae\u7535\u8111\u667a\u80fd\uff0c\u81ea\u52a8\u4fdd\u6e29\uff0c\u667a\u80fd\u663e\u793a\uff0c\u6e29\u5ea6\u770b\u7684\u89c1","tubiao":"0","id":"6234080","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2809494237\/TB2.fuUdBbM8KJjSZFFXXaynpXa_!!2809494237.jpg","d_title":"\u5fb7\u56fdOIDIRE\u6e29\u5976\u5668\u6d88\u6bd2\u5668\u4e8c\u5408\u4e00","title":"\u5fb7\u56fdOIDIRE\u6e29\u5976\u5668\u6d88\u6bd2\u5668\u4e8c\u5408\u4e00\u667a\u80fd\u5976\u74f6\u6696\u5976\u5668\u70ed\u5976\u5668\u6052\u6e29\u52a0\u70ed\u4fdd\u6e29","miaoshu":"\u5b9d\u5988\u63a8\u8350\uff0c\u5fae\u7535\u8111\u667a\u80fd\uff0c\u81ea\u52a8\u4fdd\u6e29\uff0c\u667a\u80fd\u663e\u793a\uff0c\u6e29\u5ea6\u770b\u7684\u89c1\uff01\u56e0\u4e3a\u4e13\u4e1a\uff0c\u6240\u4ee5\u7528\u7684\u653e\u5fc3~","yuanjia":"99.00","quan_jine":"40.00","xiaoliang":"34475","huodong_type":"1","quan_time":"2018-03-18 23:59:59","quan_num":"26730","jiage":"59.00"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u4ed9\u6c14\uff0c\u65b0\u6f6e\uff0c\u751c\u7f8e\uff0c\u6bcf\u4e00\u6b3e\u90fd\u662f\u7f8e\u7f8e\u54d2","tubiao":"0","id":"6225143","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/615128437\/TB2Wtzua79WBuNjSspeXXaz5VXa_!!615128437.jpg","d_title":"80\u6b3e\u857e\u4e1d\u9888\u94fe\u9879\u5708\u9879\u94fe\u6027\u611f\u8116\u94fe","title":"choker\u857e\u4e1d\u9888\u94fe\u9879\u5708\u97e9\u56fd\u539f\u5bbf\u9879\u94fe\u6027\u611f\u8116\u94fe\u77ed\u6b3e\u5b66\u751f\u9501\u9aa8\u94fe\u8116\u5b50\u9970\u54c1","miaoshu":"\u7cbe\u900980\u6b3e\uff0c\u4e0d\u7ba1\u662f\u4ed9\u6c14\uff0c\u65b0\u6f6e\uff0c\u8fd8\u662f\u751c\u7f8e\uff0c\u4f60\u4eec\u60f3\u8981\u7684\u98ce\u683c\u90fd\u80fd\u6311\u5230\uff0c\u6bcf\u4e00\u6b3e\u90fd\u662f\u7f8e\u7f8e\u54d2~","yuanjia":"5.50","quan_jine":"2.00","xiaoliang":"25278","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"27180","jiage":"3.50"},{"paiqi":"2018-03-18 10:00:00","new_words":"\u6df1\u5ea6\u8865\u6c34\uff0c\u7ec6\u81f4\u6bdb\u5b54\uff0c\u6e05\u7406\u89d2\u8d28\uff0c\u6e90\u4e8e\u81ea\u7136\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6224780","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/1645598213\/TB163aob43IL1JjSZPfXXcrUVXa_!!0-item_pic.jpg","d_title":"\u3010\u81ea\u7136\u4e4b\u540d\u3011\u6d0b\u7518\u83ca\u9ea6\u82bd\u83cc\u83c720\u7247","title":"\u81ea\u7136\u4e4b\u540d\u6d0b\u7518\u83ca\u9ea6\u82bd\u83cc\u83c720\u7247\u7ec4\u5408\u88c5\u8865\u6c34\u4fdd\u6e7f\u9762\u819c\u8212\u7f13\u808c\u80a4\u63d0\u4eae\u80a4\u8272","miaoshu":"\u6df1\u5ea6\u8865\u6c34\uff0c\u7ec6\u81f4\u6bdb\u5b54\uff0c\u6e05\u7406\u89d2\u8d28\uff0c\u6e90\u4e8e\u81ea\u7136\uff0c\u8212\u7f13\u808c\u80a4\uff0c\u5c3d\u663e\u81ea\u7136\u4e4b\u7f8e\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"79.00","quan_jine":"20.00","xiaoliang":"1792","huodong_type":"1","quan_time":"2018-03-19 23:59:59","quan_num":"23670","jiage":"59.00"}],"1813":[{"paiqi":"2018-03-18 13:00:00","new_words":"\u98ce\u67d4\u97f3\u9759\uff0c\u5e7f\u89d2\u9001\u98ce\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6245435","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3238903562\/TB2QBVrX9YTBKNjSZKbXXXJ8pXa_!!3238903562.png","d_title":"\u3010\u7f8e\u7684\u3011\u843d\u5730\u7535\u98ce\u6247\u65e0\u53f6\u9759\u97f3\u9065\u63a7\u5854\u6247","title":"\u7f8e\u7684\u7535\u98ce\u6247\u9065\u63a7\u5854\u6247\u843d\u5730\u5bb6\u7528\u529e\u516c\u5ba4\u9ad8\u7aef\u53f0\u5f0f\u65e0\u53f6\u98ce\u6247\u9759\u97f3\u7acb\u5f0f\u58c1\u6247","miaoshu":"\u65e0\u53f6\u8f7b\u5962\uff0c\u8d35\u65cf\u98ce\u8303\uff0c\u98ce\u67d4\u97f3\u9759\uff0c\u5e7f\u89d2\u9001\u98ce\uff1b\u7a33\u91cd\u8bbe\u8ba1\uff0c\u7ea4\u5de7\u5916\u5f62\uff0c3\u6863\u8c03\u901f\u53ca\u5b9a\u65f6\u529f\u80fd\uff1b\u7f8e\u7684\u51fa\u54c1\uff0c\u7ba1\u752810\u5e74\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"349.00","quan_jine":"60.00","xiaoliang":"277","huodong_type":"2","quan_time":"2018-03-21 23:59:59","quan_num":"9980","jiage":"289.00"},{"paiqi":"2018-03-18 13:00:00","new_words":"\u65f6\u5c1a\u5927\u6c14\uff0c\u67d4\u8f6f\u7845\u80f6\uff0c\u7d27\u5bc6\u8d34\u5408\uff0c\u66f4\u9632\u6c34","tubiao":"0","id":"6235274","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/679318614\/TB2vUwhtHBnpuFjSZFGXXX51pXa_!!679318614.jpg","d_title":"\u6e38\u6cf3\u8fd0\u52a8\u5957\u88c5\u9632\u6c34\u773c\u955c\u8033\u585e\u9f3b\u5939\u6cf3\u5e3d\u52a0\u9632\u6c34\u888b","title":"\u4f51\u6e38\u6cf3\u955c\u9ad8\u6e05\u8fd1\u89c6\u9632\u6c34\u9632\u96fe\u6e38\u6cf3\u773c\u955c\u7537\u5973\u5927\u6846\u7535\u9540\u955c\u5e26\u8033\u585e\u6cf3\u955c\u9001\u5e3d","miaoshu":"\u6e38\u6cf3\u8fd0\u52a8\u5957\u88c5\uff0c\u9632\u6c34\u773c\u955c\uff0c\u9f3b\u5939\uff0c\u8033\u585e\uff0c\u6cf3\u5e3d\uff0c\u9632\u6c34\u888b\uff0c\u5c01\u95ed\u5f0f\u6297\u9707\u7845\u80f6\u5708\uff0c\u53ef\u8c03\u8282\u955c\u5e26\u6263\uff0c\u4e00\u4f53\u5f0f\u8fde\u4f53\u8033\u585e\u955c\u5e26\uff0c\u6297\u538b\u8010\u78e8\u955c\u7247\uff0c\u7845\u80f6\u955c\u5e26\uff0c\u65f6\u5c1a\u5927\u6c14\uff0c\u67d4\u8f6f\u7845\u80f6\uff0c\u7d27\u5bc6\u8d34\u5408\uff0c\u66f4\u9632\u6c34","yuanjia":"25.90","quan_jine":"10.00","xiaoliang":"25739","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"16220","jiage":"15.90"},{"paiqi":"2018-03-18 13:00:00","new_words":"\u3010\u9001\u516d\u4ef6\u5957\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6211802","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/602145995\/TB2ung_XxuaVKJjSZFjXXcjmpXa_!!602145995.jpg","d_title":"\u3010Face\u3011\u513f\u7ae5\u4fdd\u6e29\u676f\u4e00\u676f\u4e24\u76d6550ml","title":"face\u513f\u7ae5\u4fdd\u6e29\u676f\u5e26\u5438\u7ba1\u4e24\u7528\u5c0f\u5b66\u751f\u6c34\u58f6\u5e7c\u513f\u56ed\u5b9d\u5b9d\u4e0d\u9508\u94a2\u9632\u6454\u6c34\u676f\u5b50","miaoshu":"Face\u4e24\u7528\u4fbf\u643a\u4fdd\u6e29\u676f\uff0c\u4e00\u676f\u53cc\u76d6\uff0c304\u4e0d\u9508\u94a2\uff0c\u9632\u6c34\u725b\u6d25\u676f\u5957\uff0c\u5a74\u513f\u5976\u5634\u7ea7\u5438\u7ba1\uff0c24h\u4fdd\u6e29\uff0c\u5bc6\u5c01\u9632\u6f0f\uff0c\u7ecf\u4e45\u8010\u6454\uff0c\u4e70\u4e00\u9001\u516d\u4ef6\u5957\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"99.00","quan_jine":"30.00","xiaoliang":"5399","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"4385","jiage":"69.00"},{"paiqi":"2018-03-18 13:00:00","new_words":"100%\u7eaf\u68c9\uff0c\u67d4\u8f6f\u8212\u9002\uff0c\u5438\u6e7f\u6392\u6c57\uff0c\u900f\u6c14\u6e05\u723d","tubiao":"0","id":"6174539","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2393926052\/TB2awHmowLD8KJjSszeXXaGRpXa_!!2393926052.png","d_title":"\u3010\u732b\u4eba\u3011\u56db\u5b63\u9632\u81ed\u7eaf\u68c9\u4e2d\u7b52\u889c\u753710\u53cc","title":"\u732b\u4eba\u889c\u5b50\u7537\u77ed\u889c\u590f\u5b63\u8584\u6b3e\u7eaf\u68c9\u4e2d\u7b52\u56db\u5b63\u9632\u81ed\u5168\u68c9\u7537\u889c\u77ed\u7b52\u7537\u58eb\u8239\u889c","miaoshu":"100%\u7eaf\u68c9\uff0c\u67d4\u8f6f\u8212\u9002\uff0c\u5438\u6e7f\u6392\u6c57\uff0c\u900f\u6c14\u6e05\u723d\uff0c\u9ad8\u5f39\u8010\u7a7f\uff0c\u4e0d\u6613\u53d8\u5f62\uff0c\u8212\u9002\u5305\u88f9\u811a\u90e8\uff0c\u4e0d\u8131\u843d\u4e0d\u7d27\u7ef7\uff0c\u4e3a\u4f60\u5e26\u6765\u826f\u597d\u7684\u7a7f\u7740\u4f53\u9a8c\u3002\u73b0\u5728\u4e70\u4e00\u9001\u4e00\uff0c\u517110\u53cc\uff01","yuanjia":"59.00","quan_jine":"10.00","xiaoliang":"8674","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"19340","jiage":"49.00"},{"paiqi":"2018-03-18 13:00:00","new_words":"\u5bc6\u5c01\u4e0d\u6f0f\u6c34\uff0c48H\u957f\u6548\u4fdd\u6e29\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6249887","pic":"http:\/\/img.alicdn.com\/imgextra\/i2\/1698984949\/TB2DYLJfVXXXXavXpXXXXXXXXXX_!!1698984949.jpg","d_title":"\u3010\u6b27\u8c6b\u3011\u5bb6\u7528\u4e0d\u9508\u94a2\u70ed\u6c34\u4fdd\u6e29\u74f62000ML","title":"\u6b27\u8c6b\u5bb6\u7528\u70ed\u6c34\u74f6\u4fdd\u6e29\u74f6\u4e0d\u9508\u94a2\u6696\u74f6\u5b66\u751f\u7528\u5bbf\u820d\u6696\u58f6\u5f00\u6c34\u74f6\u70ed\u6c34\u58f6\u8336\u74f6","miaoshu":"\u3010\u8d85\u5927\u5bb9\u91cf2000ML\/3200ML\u3011\u6b27\u8c6b\u70ed\u6c34\u58f6\uff0c\u4f18\u8d28\u4e0d\u9508\u94a2\u5916\u58f3\uff0c\u9632\u6ed1\u5e95\u5ea7\uff0c\u5bc6\u5c01\u4e0d\u6f0f\u6c34\uff0c48H\u957f\u6548\u4fdd\u6e29\uff0c\u968f\u65f6\u6e29\u6696\u5475\u62a4\uff0c23\u4e07\u4e70\u5bb6\u5f3a\u70c8\u63a8\u8350\uff0c\u5065\u5eb7\u70ed\u6c34\u74f6\uff0c\u51ac\u5929\u4e0d\u53ef\u5c11\u54e6~\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"46.00","quan_jine":"10.00","xiaoliang":"14125","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"19380","jiage":"36.00"},{"paiqi":"2018-03-18 13:00:00","new_words":"\u7b80\u7ea6\u9632\u6ed1\u5e95\uff0c\u900f\u6c14\u8212\u9002\uff0c\u67d4\u8f6f\u8f7b\u4fbf","tubiao":"0","id":"6234791","pic":"https:\/\/gd3.alicdn.com\/imgextra\/i2\/729904189\/TB2BXtSnNHI8KJjy1zbXXaxdpXa_!!729904189.jpg","d_title":"\u6625\u590f\u7537\u5973\u6d74\u5ba4\u62d6\u978b\u5c45\u5bb6\u5c45\u51c9\u62d6\u978b","title":"\u6625\u590f\u7537\u5973\u6d74\u5ba4\u62d6\u978b\u5c45\u5bb6\u5c45\u51c9\u62d6\u978b\u5ba4\u5185\u5bb6\u7528\u65e0\u5473\u9632\u6ed1\u8f6f\u5e95\u5973\u58eb\u6d17\u6fa1\u6258\u978b","miaoshu":"\u7537\u5973\u5f0f\u62d6\u978b\uff0c\u6d74\u5ba4\u5c45\u5bb6\uff0c\u7b80\u7ea6\uff0c\u9632\u6ed1\u5e95\uff0c\u900f\u6c14\u8212\u9002\uff0c\u67d4\u8f6f\u8f7b\u4fbf\uff0c\u73af\u4fdd\u5065\u5eb7\u6781\u6709\u5bb6\u54c1\u8d28\u4fdd\u8bc1\u3002","yuanjia":"19.80","quan_jine":"10.00","xiaoliang":"8640","huodong_type":"1","quan_time":"2018-03-24 23:59:59","quan_num":"2312","jiage":"9.80"},{"paiqi":"2018-03-18 13:00:00","new_words":"\u8212\u9002\u4eb2\u80a4\uff0c\u900f\u6c14\u6027\u597d\uff0c\u4e0d\u53d8\u5f62\uff0c\u4e0d\u892a\u8272","tubiao":"0","id":"6231632","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/2940392274\/TB19X28XMvGK1JjSspiXXc96FXa_!!0-item_pic.jpg","d_title":"\u6bdb\u8863\u5957\u88c5\u957f\u8896\u52a0\u539a\u9488\u7ec7\u6253\u5e95\u5305\u81c0\u88d9\u4e24\u4ef6\u5957","title":"2018\u6625\u5b63\u65b0\u6b3e\u957f\u8896\u6761\u7eb9\u9488\u7ec7\u886b\u6253\u5e95\u5305\u81c0\u88d9\u4e24\u4ef6\u5957\u8fde\u8863\u88d9\u6bdb\u8863\u5957\u88c5\u88d9\u6f6e","miaoshu":"\u79cb\u51ac\u65b0\u6b3e\uff0c\u6bdb\u8863\u65f6\u5c1a\u4e24\u4ef6\u5957\uff0c\u8212\u9002\u4eb2\u80a4\uff0c\u900f\u6c14\u6027\u597d\uff0c\u4e0d\u53d8\u5f62\uff0c\u4e0d\u892a\u8272\uff0c\u4e0d\u8d77\u7403\u4e5f\u4e0d\u8d77\u76b1\uff0c\u8ba9\u4f60\u7a7f\u51fa\u4f18\u96c5\u6c14\u8d28\u3002\u7cbe\u9009\u9762\u6599\uff0c\u8272\u5149\u67d4\u548c\uff0c\u9886\u53e3\u5e73\u6574\uff0c\u6536\u8170\u663e\u7626\u8bbe\u8ba1\uff0c\u4f18\u96c5\u800c\u4e0d\u5931\u751c\u7f8e\uff0c\u8ba9\u4f60\u8f7b\u677e\u505a\u5973\u795e\uff01","yuanjia":"49.00","quan_jine":"10.00","xiaoliang":"679","huodong_type":"1","quan_time":"2018-03-25 23:59:59","quan_num":"26160","jiage":"39.00"}],"1815":[{"paiqi":"2018-03-18 15:00:00","new_words":"\u5438\u6c57\u9632\u81ed\uff0c\u900f\u6c14\u4e0d\u95f7\u70ed","tubiao":"0","id":"6236069","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3012913363\/TB2waF0a5MnBKNjSZFzXXc_qVXa_!!3012913363.jpg","d_title":"\u3010\u5927\u724c\u6052\u6e90\u7965\u3011\u590f\u5b63\u8584\u6b3e\u9632\u6ed1\u68c9\u5e95\u4e1d\u889c8\u53cc","title":"\u6052\u6e90\u7965\u68c9\u5e95\u4e1d\u889c\u8089\u8272\u77ed\u889c\u5973\u58eb\u8584\u6b3e\u77ed\u889c\u9632\u6ed1\u8d85\u8584\u889c\u9ed1\u8272\u590f\u5b63\u4e2d\u7b52\u889c\u5b50","miaoshu":"\u6052\u6e90\u7965\u5320\u5fc3\u54c1\u8d28\uff0c\u900f\u6c14\u4e0d\u95f7\u70ed\uff0c\u68c9\u5e95\u5438\u6c57\u9632\u81ed\uff0c\u4e0d\u6613\u52fe\u4e1d\uff0c\u7a7f\u4e0a\u9ad8\u8ddf\u978b\u4e5f\u4e0d\u4f1a\u6ed1\u843d\uff0c\u590f\u5b63\u5fc5\u5907\u4e1d\u889c\uff01\uff01","yuanjia":"29.90","quan_jine":"10.00","xiaoliang":"7473","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"42550","jiage":"19.90"},{"paiqi":"2018-03-18 15:00:00","new_words":"\u53e3\u611f\u6df1\u5c42\u6d53\u90c1\uff0c\u82b3\u9187\u9999\u6d53\u4e1d\u4e1d\u6da6\u6ed1\u3010\u62cd\u4e8c\u53d1\u4e09\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6231110","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3012913363\/TB2SwiWm3fH8KJjy1zcXXcTzpXa_!!3012913363.jpg","d_title":"\u8d8a\u5357\u8fdb\u53e3\u7ecf\u5178\u539f\u5473\u901f\u6eb6\u5496\u556150\u6761","title":"\u8d8a\u5357\u8fdb\u53e3\u897f\u8d21\u6b63\u54c1\u901f\u6eb6\u5496\u5561\u7c89\u5373\u6eb6\u888b\u88c5\u51b2\u996e\u539f\u547350\u6761\u88c5900g","miaoshu":"\u3010\u62cd\u4e8c\u53d1\u4e09\u3011\u8d8a\u5357\u5496\u5561\u4e09\u5927\u4ee3\u8868\u54c1\u724c\u4e4b\u4e00\uff0c\u7cbe\u9009\u4f18\u8d28\u5496\u5561\u8c46\uff0c\u53e3\u611f\u6df1\u5c42\u6d53\u90c1\uff0c\u82b3\u9187\u9999\u6d53\u4e1d\u4e1d\u6da6\u6ed1\uff0c\u9ec4\u91d1\u914d\u6bd4\uff0c\u4e00\u5206\u949f\uff0c\u611f\u53d7\u4e0d\u4e00\u6837\u7684\u9187\u67d4\u6ecb\u5473~\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"43.80","quan_jine":"10.00","xiaoliang":"11972","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"42250","jiage":"33.80"},{"paiqi":"2018-03-18 15:00:00","new_words":"\u914d\u4ef6\u9f50\u5168\uff0c\u9759\u97f3\u4f4e\u566a\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6227297","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2842790520\/TB2RFbIbsv_F1JjSZFGXXa8.FXa_!!2842790520.jpg","d_title":"\u3010\u6c27\u7cbe\u7075\u3011\u96fe\u5316\u673a\u513f\u7ae5\u533b\u7528\u5bb6\u7528\u6210\u4eba\u5316\u75f0\u6b62\u54b3","title":"\u6c27\u7cbe\u7075\u96fe\u5316\u673a\u513f\u7ae5\u533b\u7528\u5bb6\u7528\u6210\u4eba\u5316\u75f0\u6b62\u54b3\u7a7a\u6c14\u538b\u7f29\u5f0f\u7269\u5316\u5668\u6e05\u80ba\u5c0f\u5b9d","miaoshu":"\u9897\u7c92\u7ec6\u81f4\uff0c\u513f\u7ae5\u6210\u4eba\u901a\u7528\u533b\u7528\u7ea7\u96fe\u5316\u5668\uff0c\u914d\u4ef6\u9f50\u5168\uff0c\u9759\u97f3\u4f4e\u566a\u3002\u5728\u5bb6\u8f7b\u677e\u505a\u96fe\u5316\u3002\u3010\u8d60\u8fd0\u8d39\u9669\uff0c\u6dd8\u62a2\u8d2d\u4e2d\uff0c\u901f\u5ea6\u62a2~\u3011","yuanjia":"128.00","quan_jine":"30.00","xiaoliang":"11865","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"2700","jiage":"98.00"},{"paiqi":"2018-03-18 15:00:00","new_words":"\u3010\u62cd\u4e09\u53cc\u514d\u5355\u4e00\u53cc\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6253214","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1075327268\/TB2_RQdadcnBKNjSZR0XXcFqFXa_!!1075327268.jpg","d_title":"\u51b0\u4e1d\u8896\u9632\u6652\u5957\u8896\u906e\u9633\u8896 2\u6761\u88c5","title":"\u51b0\u4e1d\u8896\u7537\u58eb\u9632\u6652\u8896\u5957\u590f\u5b63\u51b0\u9493\u9c7c\u9a91\u884c\u5f00\u8f66\u906e\u9633\u624b\u81c2\u8896\u62a4\u81c2\u82b1\u81c2\u7eb9\u8eab","miaoshu":"\u63a8\u8350\u4e00\u6b3e\u51b0\u4e1d\u8896\u7ed9\u4f60\u4eec\uff0c\u6bcf\u53ea\u90fd\u662f\u72ec\u7acb\u5305\u88c5\uff0c\u9ad8\u8d28\u91cf\uff0c\u65b0\u54c1\u5c1d\u9c9c\u4ef7\u3010\u62cd\u4e09\u53cc\u514d\u5355\u4e00\u53cc\u3011\u6e05\u51c9\u8212\u9002\uff0c\u9ad8\u6863\u83b1\u5361\uff0c\u5f39\u529b\u5341\u8db3\u6563\u70ed\u5feb\uff0c\u5438\u6e7f\u6392\u6c57\u3001\u4e0d\u8d77\u7403\u4e0d\u892a\u8272\uff0c\u9632\u7d2b\u5916\u7ebf\u6652\u4e0d\u9ed1\uff0c\u6237\u5916\u9a91\u884c\u81ea\u9a7e\u5fc5\u5907~\u3010\u8d60\u9001\u8fd0\u8d39\u9669\u3011","yuanjia":"25.90","quan_jine":"20.00","xiaoliang":"1733","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"49100","jiage":"5.90"},{"paiqi":"2018-03-18 15:00:00","new_words":"\u5065\u5eb7\u73af\u4fdd\uff0c\u5438\u6e7f\u6392\u6c57\uff0c\u67d4\u8f6f\u8212\u9002\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6250400","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/917638644\/TB28khUmiC9MuFjSZFoXXbUzFXa_!!917638644.jpg","d_title":"\u3010\u5e0c\u5e1b\u3011\u5361\u901a\u7acb\u4f53\u68c9\u889c10\u53cc\u88c5","title":"\u60c5\u4fa3\u7eaf\u68c9\u889c\u5b50\u7537\u58eb\u5973\u58eb\u77ed\u889c\u97e9\u56fd\u6f6e\u6625\u590f\u5b63\u8584\u6b3e\u53ef\u7231\u4f4e\u5e2e\u6d45\u53e3\u8239\u889c\u9690\u5f62","miaoshu":"\u4f18\u9009\u7cbe\u68b3\u68c9\u6750\u8d28\uff0c\u5065\u5eb7\u73af\u4fdd\uff0c\u65e0\u523a\u6fc0\u6297\u8fc7\u654f\uff0c\u67d4\u8f6f\u8212\u9002\uff0c\u8d85\u900f\u6c14\u9632\u81ed\u811a\uff0c\u5438\u6e7f\u6392\u6c57\uff0c\u8d28\u611f\u5149\u6ed1\u4e0d\u6613\u8d77\u7403\uff0c\u53ef\u7231\u5361\u901a\u8bbe\u8ba1\uff0c\u591a\u79cd\u6b3e\u5f0f\u4efb\u9009\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"19.90","quan_jine":"3.00","xiaoliang":"24736","huodong_type":"1","quan_time":"2018-03-24 23:59:59","quan_num":"96000","jiage":"16.90"}],"1817":[{"paiqi":"2018-03-18 17:00:00","new_words":"\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6245681","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/1654050000\/TB2Yviujm7PL1JjSZFHXXcciXXa_!!1654050000.jpg","d_title":"\u3010\u91d1\u7a3b\u3011\u76f4\u5377\u4e24\u7528\u4e0d\u4f24\u53d1\u76f4\u53d1\u68b3","title":"\u91d1\u7a3b\u76f4\u53d1\u68b3\u5b50\u795e\u5668\u4e0d\u4f24\u53d1\u62c9\u76f4\u677f\u5939\u677f\u76f4\u5377\u4e24\u7528\u4e00\u68b3\u76f4\u53d1\u5668\u5185\u6263\u5377\u53d1\u68d2","miaoshu":"\u3010\u8d60\u9001\u8fd0\u8d39\u9669\u3011\u6768\u5e42\u4eb2\u60c5\u4ee3\u8a00\uff0c\u7535\u6c14\u77f3\u9676\u74f7\uff0c\u5feb\u901f\u76f4\u53d1\uff0c\u4e00\u68b3\u5c31\u76f4\uff0c360\u5ea6\u9632\u7f20\u7ed5\u7535\u7ebf\u3002","yuanjia":"138.00","quan_jine":"60.00","xiaoliang":"5618","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"510","jiage":"78.00"},{"paiqi":"2018-03-18 17:00:00","new_words":"\u3010\u4e70\u4e00\u9001\u4e09\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6229289","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/443490649\/TB2PHTBmf2H8KJjy1zkXXXr7pXa_!!443490649.jpg","d_title":"\u745e\u58eb\u519b\u5200\u745e\u6208\u6f6e\u6d41\u4f11\u95f2\u53cc\u80a9\u5305","title":"\u745e\u58eb\u519b\u5200\u53cc\u80a9\u5305\u745e\u58eb\u4e2d\u5b66\u751f\u4e66\u5305\u5973\u4f11\u95f2\u7537\u58eb\u5546\u52a1\u65c5\u884c\u5927\u5bb9\u91cf\u7535\u8111\u80cc\u5305","miaoshu":"\u4e70\u4e00\u9001\u4e09\uff0c\u8d85\u503c\u575a\u56fa\uff0c\u8010\u78e8\u9632\u6cfc\u6c34\uff0c\u5927\u5bb9\u91cf\uff0c\u591a\u529f\u80fd\u9694\u5c42\u8bbe\u8ba1\uff0c\u6f6e\u6d41\u767e\u642d\uff0c\u7537\u5973\u901a\u7528\uff0c\u5b66\u751f\u3001\u4f11\u95f2\u65c5\u6e38\u53ca\u5546\u52a1\u51fa\u884c\u5fc5\u5907\uff01\u3010\u8d60\u9001\u8fd0\u8d39\u9669\u3011","yuanjia":"118.00","quan_jine":"40.00","xiaoliang":"5514","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"8650","jiage":"78.00"},{"paiqi":"2018-03-18 17:00:00","new_words":"\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6211460","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1018760273\/TB2QshsXByWBuNkSmFPXXXguVXa_!!1018760273.jpg","d_title":"\u4e00\u5e74\u7ea7\u8bed\u6587\u6570\u5b66\u4e66\u8bd5\u5377\u540c\u6b65\u8bad\u7ec3","title":"2018\u65b0\u7248\u5c0f\u5b66\u4e00\u5e74\u7ea7\u4e0b\u518c\u8bed\u6587\u6570\u5b66\u4e66\u8bd5\u5377\u540c\u6b65\u8bad\u7ec3 \u4e00\u5e74\u7ea7\u4e0b\u518c\u53e3\u7b97\u5fc3\u7b97\u901f\u7b97\u5929\u5929\u7ec3\u53e3\u7b97\u9898\u5361 \u5355\u5143 \u671f\u4e2d \u671f\u672b\u51b2\u523a100\u5206\u601d\u7ef4\u8bad\u7ec3\u6d4b\u8bd5\u9898","miaoshu":"2018\u5e74\u65b0\u7248\u540c\u6b65\u8bad\u7ec3\u6d4b\u8bd5\u5377\uff0c\u4e25\u683c\u4ee5\u6559\u6750\u4e3a\u6807\u5c3a\uff0c\u4ee5\u6240\u5b66\u77e5\u8bc6\u4e3a\u4e3b\u8981\u8003\u5bdf\u5185\u5bb9\uff0c\u7248\u5757\u6e05\u65b0\uff0c\u96be\u6613\u5f97\u5f53\uff0c\u4f7f\u5b66\u751f\u4f1a\u5b66\u4f1a\u7528\u7231\u4e0a\u5b66\u4e60\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"7.80","quan_jine":"3.00","xiaoliang":"170","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"9410","jiage":"4.80"},{"paiqi":"2018-03-18 17:00:00","new_words":"\u3010\u9001\u53e3\u8bc0\u8868\u3011\u5927\u5b57\u5f69\u56fe\u6ce8\u97f3\uff0c\u770b\u56fe\u8bc6\u5b57\uff0c\u5f00\u6269\u5927\u89c6\u91ce","tubiao":"0","id":"6210038","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1018760273\/TB2hHV2bbuWBuNjSszgXXb8jVXa_!!1018760273.jpg","d_title":"\u3010\u51684\u518c\u3011\u5b66\u524d1280\u5b57\u513f\u7ae5\u770b\u56fe\u8bc6\u5b57\u5361\u7247","title":"\u5b66\u524d1280\u5b574\u518c\u5b66\u9f84\u524d\u513f\u7ae5\u770b\u56fe\u8bc6\u5b57\u8ba4\u5b57\u5361\u72473-6\u5c81\u4e66 \u5e7c\u513f\u56ed\u62fc\u97f3\u5e7c\u5c0f\u8854\u63a5\u5b66\u524d\u73ed\u6574\u5408\u6559\u6750\u5168\u5957\u5927\u73ed\u5347\u4e00\u5e74\u7ea7\u5b9d\u5b9d\u542f\u8499\u8ba4\u77e5\u65e9\u6559\u4e66\u7c4d0-3\u5c81","miaoshu":"\u3010\u9001\u53e3\u8bc0\u8868\u3011\u5927\u5b57\u5f69\u56fe\u6ce8\u97f3\uff0c\u770b\u56fe\u8bc6\u5b57\uff0c\u5f00\u6269\u5927\u89c6\u91ce\uff0c\u624b\u7ed8\u62c6\u56fe\uff0c\u8bc6\u5b57\u8ba4\u77e5\uff0c\u529f\u80fd\u5168\u9762\uff0c\u5f69\u56fe\u6ce8\u97f3\uff0c\u5185\u5bb9\u4e30\u5bcc\uff0c\u8f7b\u677e\u8bc6\u5b57\uff0c\u5b66\u524d\u5fc5\u5907\uff0c\u8f7b\u677e\u5b66\u5b8c1280\u5b57~\u8ba9\u5b69\u5b50\u8d62\u5728\u8d77\u8dd1\u7ebf\u4e0a~","yuanjia":"23.80","quan_jine":"10.00","xiaoliang":"11605","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"18380","jiage":"13.80"}],"1819":[{"paiqi":"2018-03-18 19:00:00","new_words":"\u5f3a\u5438\u6c34\uff0c\u8d85\u67d4\u8f6f\uff0c\u900f\u6c14\u5438\u6e7f","tubiao":"0","id":"6244526","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1728919639\/TB2xS1EXRoHL1JjSZFwXXb6vpXa_!!1728919639.jpg","d_title":"\u52a0\u5927\u52a0\u539a\u5438\u6c34\u6d74\u5dfe\u6d74\u5e3d\u4e09\u4ef6\u5957","title":"\u5438\u6c34\u6d74\u5dfe\u6d74\u5e3d\u6bd4\u7eaf\u68c9\u66f4\u67d4\u8f6f\u6210\u4eba\u52a0\u5927\u52a0\u539a\u6d74\u5dfe\u7537\u5973\u60c5\u4fa3\u6bdb\u5dfe\u6d74\u5dfe\u5957\u88c5","miaoshu":"\u6bdb\u5dfe+\u6d74\u5e3d+\u6d74\u5dfe\uff0c\u8d85\u503c\u5957\u88c5\uff0c\u73ca\u745a\u7ed2\u5f3a\u5438\u6c34\uff0c\u8d85\u67d4\u8f6f\uff0c\u900f\u6c14\u6027\uff0c\u5438\u6e7f\u6027\u5f3a\uff0c\u54c1\u8d28\u4fdd\u8bc1\uff0c\u5c45\u5bb6\u5fc5\u5907\u597d\u54c1\u8d28\u3002","yuanjia":"24.50","quan_jine":"3.00","xiaoliang":"17849","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"15420","jiage":"21.50"},{"paiqi":"2018-03-18 19:00:00","new_words":"\u56db\u8272\u773c\u5f71\uff0c\u4e30\u6da6\u8272\u5f69\uff0c\u7740\u8272\u81ea\u7136\uff0c\u9632\u6c34\u4e0d\u6655\u67d3","tubiao":"0","id":"6241166","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/40946653\/TB29DYZkEUIL1JjSZFrXXb3xFXa_!!40946653.jpg","d_title":"\u3010\u5de7\u8fea\u5c1a\u60e0\u3011\u6676\u94bb\u56db\u8272\u70ab\u5f69\u773c\u5f71","title":"\u5de7\u8fea\u5c1a\u60e0\u773c\u5f71\u7b14\u9632\u6c34\u4e0d\u6655\u67d3\u521d\u5b66\u8005\u5f69\u5986\u76d8\u5927\u5730\u8272\u4eba\u9c7c\u59ec\u73e0\u5149\u54d1\u5149\u5367\u8695","miaoshu":"\u56db\u8272\u773c\u5f71\uff0c\u4e30\u6da6\u8272\u5f69\uff0c\u7740\u8272\u81ea\u7136\uff0c\u9632\u6c34\u4e0d\u6655\u67d3\uff0c\u7c89\u8d28\u7ec6\u817b\u67d4\u6ed1\u6613\u4e0a\u8272\uff0c\u7acb\u4f53\u663e\u8272\uff0c\u968f\u5fc3\u6253\u9020\u767e\u53d8\u4fcf\u4e3d\u5986\u5bb9\uff0c\u70ab\u5f69\u8ff7\u4eba\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"29.90","quan_jine":"15.00","xiaoliang":"11220","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"5580","jiage":"14.90"},{"paiqi":"2018-03-18 19:00:00","new_words":"\u533b\u7528\u7ea7\u4e0d\u9508\u94a2\u6750\u8d28\uff0c\u52a0\u5927\u5bb9\u91cf\uff0c\u9632\u6454\u9632\u649e","tubiao":"0","id":"6230060","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2506233478\/TB29A0PXYGYBuNjy0FoXXciBFXa_!!2506233478.jpg","d_title":"\u3010\u5c0f\u571f\u8c46\u3011\u513f\u7ae5\u4fdd\u6e29\u9632\u6454\u4e24\u7528\u4e0d\u9508\u94a2\u6c34\u676f","title":"\u5c0f\u571f\u8c46\u5b9d\u5b9d\u4fdd\u6e29\u5976\u74f6\u6b63\u54c1\u5a74\u513f\u4e0d\u9508\u94a2\u4e24\u7528\u5976\u74f6\u4fdd\u6e29\u676f\u9632\u6454\u5e26\u5438\u7ba1\u624b\u67c4","miaoshu":"\u53ef\u4e00\u74f6\u4e09\u7528\uff0c\u91c7\u7528304\u533b\u7528\u7ea7\u4e0d\u9508\u94a2\u6750\u8d28\uff0c\u52a0\u5927\u5bb9\u91cf\u9632\u6454\u9632\u649e\u8bbe\u8ba1\uff0c\u4e13\u6ce8\u6bcd\u5a7427\u5e74\uff0c\u5b9d\u5b9d\u8212\u5fc3\u5988\u5988\u653e\u5fc3\uff01","yuanjia":"59.00","quan_jine":"10.00","xiaoliang":"3146","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"9520","jiage":"49.00"},{"paiqi":"2018-03-18 19:00:00","new_words":"\u73af\u4fdd\u6e29\u548c\uff0c\u6709\u6548\u6740\u83cc\uff0c\u6df1\u5ea6\u6e05\u6d01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6255680","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1716499517\/TB22hzEnsnI8KJjSsziXXb8QpXa_!!1716499517.jpg","d_title":"\u3010\u56fa\u7279\u5a01\u3011\u6c7d\u8f66\u7a7a\u8c03\u6740\u83cc\u9664\u81ed\u6e05\u6d17\u5242","title":"\u56fa\u7279\u5a01\u6c7d\u8f66\u7a7a\u8c03\u6e05\u6d17\u5242\u514d\u62c6\u7ba1\u9053\u6e05\u6d01\u5957\u88c5\u8f66\u7528\u51fa\u98ce\u53e3\u6ce1\u6cab\u6740\u83cc\u9664\u81ed\u5242","miaoshu":"\u73af\u4fdd\u6e29\u548c\u914d\uff0c\u6709\u6548\u6740\u83cc\uff0c\u6df1\u5ea6\u6e05\u6d01\uff0c\u9632\u9709\u795b\u9664\u5f02\u5473\uff0c\u6e05\u65b0\u7a7a\u6c14\uff0c\u4f7f\u7528\u65b9\u4fbf\u5feb\u6377\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"16.90","quan_jine":"10.00","xiaoliang":"4883","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"8740","jiage":"6.90"},{"paiqi":"2018-03-18 19:00:00","new_words":"\u3010\u4e702\u90011\u4e705\u90013\u3011\u3010\u9001\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6254471","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2367436109\/TB2sWDpdqSWBuNjSsrbXXa0mVXa_!!2367436109.jpg","d_title":"\u3010\u7eff\u5065\u56ed\u3011\u62a4\u773c\u84dd\u8393\u53f6\u9ec4\u7d20100\u7247","title":"\u84dd\u8393\u53f6\u9ec4\u7d20 100\u7247\u7eff\u5065\u56ed\u03b2-\u80e1\u841d\u535c\u7d20\u53f6\u9ec4\u7d20\u84dd\u8393\u83ca\u82b1\u513f\u7ae5\u6210\u4eba","miaoshu":"\u3010\u4e702\u90011\u4e705\u90013\u3011\u5bcc\u542b\u4e94\u5927\u8425\u517b\u7269\u8d28\uff0c\u5929\u7136\u690d\u7269\u63d0\u53d6\uff0c\u6210\u4eba\u513f\u7ae5\u90fd\u53ef\u98df\u7528\uff1b\u6539\u5584\u773c\u5e72\uff0c\u773c\u6da9\u3001\u63d0\u9ad8\u89c6\u529b\u6e05\u6670\u5ea6\uff1b\u5173\u7231\u5fc3\u7075\u4e4b\u7a97\uff0c\u8fdc\u79bb\u8fd1\u89c6\uff01\u3010\u9001\u8fd0\u8d39\u9669\u3011","yuanjia":"59.90","quan_jine":"50.00","xiaoliang":"569","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"9561","jiage":"9.90"},{"paiqi":"2018-03-18 19:00:00","new_words":"\u85cf\u5730\u4ea7\u533a\u76f4\u4f9b\uff0c\u65e0\u6742\u8d28\uff0c\u4e0d\u718f\u786b\uff0c\u66f4\u5b89\u5168","tubiao":"0","id":"6252023","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2365125141\/TB2CeHcaWmWBuNkHFJHXXaatVXa_!!2365125141.jpg","d_title":"\u897f\u85cf\u91ce\u751f\u7279\u7ea7\u7f50\u88c5\u7eff\u841d\u82b1\u8336500g","title":"\u897f\u85cf\u7eff\u841d\u82b1\u8336\u91ce\u751f\u7279\u7ea7\u7eff\u841d\u82b1\u964d\u8336\u914d\u82e6\u74dc\u7247\u8336\u9ad8\u8336\u91ce\u751f\u7eff\u7f57\u82b1\u5305\u90ae","miaoshu":"\u7eff\u841d\u82b1\u662f\u897f\u85cf\u6700\u73cd\u8d35\u7684\u8349\u672c\u690d\u7269\u4e4b\u4e00\uff0c\u85cf\u5730\u4ea7\u533a\u76f4\u4f9b\uff0c\u91ce\u751f\u5934\u832c\u7eff\u841d\u82b1\uff0c\u65e0\u6742\u8d28\uff0c\u4e0d\u718f\u786b\uff0c\u66f4\u5b89\u5168\uff0c\u82b1\u6735\u5e72\u8106\u65b0\u9c9c\uff0c\u6709\u964d\u8840\u7cd6\uff0c\u964d\u8840\u8102\u548c\u964d\u8840\u538b\u9ad8\u8840\u538b\u60a3\u8005\u7cd6\u5c3f\u75c5\u60a3\u8005\u591a\u559d\u559d\u66f4\u5065\u5eb7\u54e6\uff01","yuanjia":"59.80","quan_jine":"30.00","xiaoliang":"2861","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"9890","jiage":"29.80"}],"1820":[{"paiqi":"2018-03-18 20:00:00","new_words":"\u3010\u9001\u4e0d\u9508\u94a2\u52fa\u7b77\u4fbf\u643a\u5957\u88c5\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6256784","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1887067018\/TB2cmtwigvD8KJjSsplXXaIEFXa_!!1887067018.jpg","d_title":"\u3010\u53cc\u67aa\u3011\u9632\u6ed1\u5408\u91d1\u4e0d\u542b\u94a2\u7b77\u5b5010\u53cc","title":"\u53cc\u67aa\u957f\u5feb\u5b50\u4e0d\u9508\u4e0d\u542b\u94a2\u5bb6\u7528\u5408\u91d1\u7b77\u5b50\u5957\u88c5\u9aa8\u74f7\u513f\u7ae5\u9632\u6ed110\u53cc\u88c5\u5957\u88c5","miaoshu":"\u3010\u4e70\u5c31\u9001\u4e0d\u9508\u94a2\u52fa\u7b77\u4fbf\u643a\u5957\u88c5\uff0c\u8d60\u8fd0\u8d39\u9669\u3011\u91c7\u7528\u4f18\u8d28\u5408\u91d1\u6750\u8d28\uff0c\u4e0d\u542b\u94a2\uff0c\u65e0\u6f06\u65e0\u8721\uff0c\u4e0d\u6dfb\u52a0\u8272\u7d20\uff0c\u81ea\u7136\u4e0d\u53d1\u9709\uff0c\u6613\u6e05\u6d17\uff0c\u8010\u9ad8\u6e29\uff0c\u4e0d\u6613\u6253\u6ed1\uff0c\u91cd\u91cf\u9002\u4e2d\uff0c\u4e0eG20\u7b77\u540c\u6750\uff0c\u4e0e\u5965\u8fd0\u7b77\u540c\u8d28\uff0c\u4e00\u53cc\u597d\u7b77\u5b50\uff0c\u8ba9\u5065\u5eb7\u4e0e\u7f8e\u98df\u540c\u5728~","yuanjia":"32.90","quan_jine":"10.00","xiaoliang":"13192","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"6550","jiage":"22.90"},{"paiqi":"2018-03-18 20:00:00","new_words":"\u3010\u8d28\u4fdd2\u5e74\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6173462","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/2857902283\/TB16wundFuWBuNjSszbXXcS7FXa_!!0-item_pic.jpg","d_title":"\u9b45\u667a\u9999\u6e2f\u54c1\u724c\u5395\u6240\u536b\u751f\u95f4\u9a6c\u6876\u7f6e\u7269\u67b6","title":"\u3010\u514d\u6253\u5b54\u3011\u6d74\u5ba4\u7f6e\u7269\u67b6\u536b\u751f\u95f4\u5395\u6240\u6d17\u624b\u95f4\u6536\u7eb3\u58c1\u6302\u5438\u76d8\u5438\u58c1\u5f0f\u514d\u6253\u5b54","miaoshu":"\u3010\u9999\u6e2f\u54c1\u724c\u3011\u5395\u6240\u536b\u751f\u95f4\u9a6c\u6876\u4e0a\u9762\u653e\u7684\u7f6e\u7269\u67b6\uff0c\u6dd8\u62a2\u8d2d\u4ef729.99\uff0c\u6211\u4eec\u72ec\u5bb6\u7528\u5238\u4ec5\u970014.99\uff0c\u62a2\u8d2d\u4e0b\u5355\u8d28\u4fdd2\u5e74\uff0c\u5395\u6240\u6536\u7eb3\u795e\u5668\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"29.99","quan_jine":"15.00","xiaoliang":"277","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"9720","jiage":"14.99"},{"paiqi":"2018-03-18 20:00:00","new_words":"100%\u7eaf\u68c9\uff0c\u73af\u4fdd\u5370\u67d3\u5de5\u827a\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6254147","pic":"\/\/img.alicdn.com\/bao\/uploaded\/i4\/2365935890\/TB2WeMtb.gQMeJjy0FjXXaExFXa_!!2365935890.jpg","d_title":"0-3\u5c81\u7eaf\u68c9\u7537\u5973\u5b9d\u5b9d\u5f00\u88c6\u8fde\u4f53\u8863\u54c8\u8863\u5957\u88c5","title":"\u5a74\u513f\u8fde\u4f53\u8863\u670d\u6625\u79cb\u957f\u8896\u7eaf\u68c9\u7537\u5973\u5b9d\u5b9d\u65b0\u751f\u513f\u54c8\u8863\u5f00\u88c6\u722c\u722c\u670d\u79cb\u88c5\u7761\u8863","miaoshu":"\u3010\u5a74\u5e7c\u513fA\u7c7b\u4ea7\u54c1\u3011\u7ebf\u4e0b\u5a74\u5e7c\u670d\u9970\u54c1\u724c\uff0c100%\u7eaf\u68c9\uff0c\u624b\u611f\u67d4\u8f6f\u5982\u5b9d\u5b9d\u7b2c\u4e8c\u5c42\u808c\u80a4\uff0c\u9762\u6599\u8212\u9002\u900f\u6c14\uff0c\u91c7\u7528\u73af\u4fdd\u5370\u67d3\u5de5\u827a\uff0c\u5475\u62a4\u5b9d\u5b9d\u3002\u5988\u5988\u653e\u5fc3\u4e70\uff0c\u5b9d\u5b9d\u653e\u5fc3\u7a7f~\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"34.80","quan_jine":"15.00","xiaoliang":"343","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"9660","jiage":"19.80"},{"paiqi":"2018-03-18 20:00:00","new_words":"\u591a\u6b3e\u591a\u8272\u53ef\u9009","tubiao":"0","id":"6240194","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2335868097\/TB2ZzUAdYSYBuNjSspfXXcZCpXa_!!2335868097.jpg","d_title":"\u3010\u6cd5\u62c9\u8499\u3011\u76ae\u8d28\u79d1\u76ee\u4f5c\u4e1a\u672c","title":"\u6cd5\u62c9\u8499\u5c0f\u5b66\u751f\u4f5c\u4e1a\u672c\u62fc\u97f3\u672c\u7530\u5b57\u683c\u6570\u5b66\u82f1\u8bed\u672c\u5b66\u4e60\u6587\u5177\u7ec3\u4e60\u672c\u5b50\u6279\u53d1","miaoshu":"\u7530\u5b57\u7c3f\uff0c\u62fc\u97f3\u7c3f\uff0c\u82f1\u8bed\u7c3f\uff0c\u4f5c\u6587\u7c3f\uff0c\u6570\u5b66\u7c3f\u7b49\u591a\u8272\u53ef\u9009\uff0c\u5410\u8840\u4e8f\u672c\u79d2\u6740\u4ec54.9\u5143\u5305\u90ae\uff0c\u6570\u91cf\u6709\u9650\uff0c\u901f\u5ea6\u62a2\uff5e","yuanjia":"9.90","quan_jine":"5.00","xiaoliang":"5557","huodong_type":"1","quan_time":"2018-03-19 23:59:59","quan_num":"8272","jiage":"4.90"}],"1821":[{"paiqi":"2018-03-18 21:00:00","new_words":"\u7eaf\u5929\u7136\u7eff\u8272\uff0c\u6e29\u548c\u914d\u65b9\uff0c\u6709\u6548\u6e05\u80a0\u901a\u4fbf\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6238856","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3242363773\/TB2qz2MlMvD8KJjSsplXXaIEFXa_!!3242363773.png","d_title":"\u3010\u6613\u751f\u7f8e\u3011\u6da6\u80a0\u901a\u4fbf\u82a6\u835f\u8f6f\u80f6\u56ca100\u7c92","title":"\u4e702\u90013 \u6613\u751f\u7f8e YISHENGMEI \u5e7f\u81b3\u6e90\u724c\u82a6\u835f\u8f6f\u80f6\u56ca 600mg\/\u7c92*100\u7c92","miaoshu":"\u56fd\u5bb6\u98df\u836f\u76d1\u5c40\u8ba4\u8bc1\uff0c\u7cbe\u9009\u4f18\u8d28\u82a6\u835f\u539f\u6599\uff0c\u7eaf\u5929\u7136\u7eff\u8272\uff0c\u6e29\u548c\u914d\u65b9\uff0c\u6709\u6548\u6e05\u80a0\u901a\u4fbf\uff0c\u6539\u5584\u4fbf\u79d8\u3001\u6392\u9664\u5bbf\u4fbf\u3001\u8c03\u6574\u80c3\u80a0\u529f\u80fd\u7d0a\u4e71\uff0c\u7f8e\u4e3d\u7ea4\u7626\u900f\u51fa\u6765\uff0c\u835f\u5403\u66f4\u5065\u5eb7\u3002\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"44.90","quan_jine":"35.00","xiaoliang":"15922","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"27540","jiage":"9.90"},{"paiqi":"2018-03-18 21:00:00","new_words":"\u3010\u524d200\u540d\u9001\u94c5\u7b14\u5957\u88c5\u3011\u3010\u9001\u62fc\u7248+\u5c0f\u5305\u6eb6\u8c46\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6192410","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2259664130\/TB2Cj.3ggMPMeJjy1XcXXXpppXa_!!2259664130.jpg","d_title":"\u3010\u754c\u754c\u4e50\u3011\u4e73\u9178\u83cc\u996e\u54c1\u9178\u597620\u74f6","title":"\u754c\u754c\u4e50\u4e73\u9178\u83cc\u996e\u54c1\u9178\u5976\u513f\u7ae5\u725b\u5976\u4e73\u996e\u6599\u76ca\u751f\u83cc\u9178\u725b\u59765\u6761\u88c5\u7f51\u7ea2","miaoshu":"\u3010\u524d200\u540d\u9001\u94c5\u7b14\u5957\u88c5\u30115\u67615\u79cd\u53e3\u5473\uff0c\u7f8e\u56fd\u54c1\u724c\uff0c\u8fdb\u53e3\u5976\u6e90\uff0c\u5927\u4eba\u5c0f\u5b69\u90fd\u80fd\u559d\u7684\u5976\uff0c\u6bcf\u5929\u4e00\u74f6\u5976\uff0c\u8ba9\u5b9d\u5b9d\u559d\u5f97\u5b89\u5168\u653e\u5fc3\uff0c\u5988\u5988\u5f53\u7136\u66f4\u5b89\u5fc3\u3002\u53e6\u9001\u62fc\u7248\u8ddf\u5c0f\u5305\u6eb6\u8c46\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"53.00","quan_jine":"10.00","xiaoliang":"1766","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"9300","jiage":"43.00"},{"paiqi":"2018-03-18 21:00:00","new_words":"\u8212\u9002\u6709\u8d28\u611f\uff0c\u67d4\u8f6f\u4eb2\u80a4\uff0c\u65f6\u5c1a\u4f11\u95f2","tubiao":"0","id":"6186980","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3010505020\/TB2xIpbaSOFJuJjSZFBXXaGxpXa_!!3010505020.jpg","d_title":"\u539f\u7d6e2018\u6625\u65b0\u6b3e\u8d85\u706bins\u5bbd\u677e\u4f11\u95f2\u88e4","title":"\u8fd0\u52a8\u4f11\u95f2\u88e4\u59732018\u6625\u65b0\u6b3e\u4f11\u95f2\u88e4\u5bbd\u677e\u6536\u53e3\u8fd0\u52a8\u88e4\u5916\u7a7f\u536b\u88e4\u8d85\u706b\u957f\u88e4\u5973","miaoshu":"\u4f18\u8d28\u68c9\u9762\u6599\uff0c\u8212\u9002\u6709\u8d28\u611f\uff0c\u67d4\u8f6f\u4eb2\u80a4\uff0c\u7cbe\u81f4\u505a\u5de5\uff0c\u4e0d\u6389\u8272\u4e0d\u6389\u6bdb\uff0c\u65f6\u5c1a\u4f11\u95f2\uff0c\u5bbd\u677e\u8fd0\u52a8\u98ce\uff0c2018\u8d85\u706bins\u4f11\u95f2\u88e4\uff01\u8f6c\u4e3a\u7f8e\u7709\u8bbe\u8ba1\u7684\u8fd0\u52a8\u88e4~","yuanjia":"79.00","quan_jine":"30.00","xiaoliang":"1591","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"27990","jiage":"49.00"}],"1900":[{"paiqi":"2018-03-19 00:00:00","new_words":"\u591a\u6b3e\u53ef\u9009\uff0c\u4fdd\u5bc6\u53d1\u8d27\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6257438","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2020499499\/TB2aP2McXgkyKJjSspfXXcj1XXa_!!2020499499.jpg","d_title":"\u3010\u540d\u6d41\u3011\u8d85\u8584\u5e26\u523a\u72fc\u7259\u68d2\u907f\u5b55\u595750\u53ea","title":"\u540d\u6d41\u907f\u5b55\u5957\u5e26\u523a\u72fc\u7259\u5957\u68d2\u5927\u9897\u7c92\u7537\u7528\u5973\u7528\u60c5\u8da3\u5b89\u5168\u5957\u8d85\u8584\u5f00\u5fc3\u6301\u4e45\u88c5","miaoshu":"\u540d\u6d41\u907f\u5b55\u5957\u8d85\u8584\uff0cG\u70b9\u5927\u9897\u7c92\uff0c\u7537\u5973\u7528\u72fc\u7259\u5e26\u523a\uff0c\u9634\u8482\u523a\u6fc0\u5b89\u5168\u5957\uff0c\u591a\u6b3e\u53ef\u9009\uff0c\u5b9e\u60e0\u7ec4\u5408\uff0c\u4fdd\u5bc6\u53d1\u8d27\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"39.90","quan_jine":"20.00","xiaoliang":"12785","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"2478","jiage":"19.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6255464","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1050131635\/TB21vKwbE1HTKJjSZFmXXXeYFXa_!!1050131635.jpg","d_title":"\u3010\u4e09\u67aa\u65d7\u8230\u5e97\u3011\u8fea\u58eb\u5c3c\u513f\u7ae5\u7eaf\u68c9\u5185\u8863\u5957\u88c5","title":"\u513f\u7ae5\u5185\u8863\u5957\u88c5\u7eaf\u68c9\u5973\u7ae5\u4e09\u67aa\u8fea\u58eb\u5c3c\u79cb\u8863\u79cb\u88e4\u4e2d\u5927\u7ae5\u7537\u7ae5\u8584\u6b3e\u4fdd\u6696\u5185\u8863","miaoshu":"\u4e09\u67aa\u5927\u54c1\u724c\u7684\uff01\u7ed9\u54b1\u5b9d\u6765\u5957\u7eaf\u68c9\u5185\u8863\u5427\uff0c\u7a7f\u8d77\u6765\u53c8\u8212\u670d\u53c8\u597d\u770b\uff0c\u7eaf\u68c9\u7684\uff01\u73b0\u572839.99\u5143\u4e00\u5957\uff01\u5546\u5bb6\u4f30\u8ba1\u4e8f\u7684\u8fde\u88e4\u5b50\u90fd\u6ca1\u5f97\u7a7f\u4e86\u5427\uff1f\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"49.99","quan_jine":"10.00","xiaoliang":"6475","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"19920","jiage":"39.99"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u6df1\u5ea6\u8865\u6c34\u4fdd\u6e7f\uff0c\u6ecb\u6da6\u8212\u7f13\u808c\u80a4","tubiao":"0","id":"6253688","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1871117401\/TB2qvbRcPgy_uJjSZKzXXb_jXXa_!!1871117401.jpg","d_title":"\u3010COM\u3011\u795e\u4ed9\u6c34\u8865\u6c34\u4fdd\u6e7f\u6536\u7f29\u6bdb\u5b54\u9762\u90e8\u7cbe\u534e\u6db2","title":"COM\u795e\u4ed9\u6c34\u6539\u5584\u6bdb\u5b54\u7c97\u5927\u9762\u90e8\u7cbe\u534e\u6db2\u8865\u6c34\u4fdd\u6e7f\u6ecb\u6da6\u63d0\u4eae\u80a4\u8272\u808c\u5e95\u6db2","miaoshu":"\u3010\u5927\u724cCOM\u3011\u5bcc\u542b\u6d77\u85fb\u7cd6\u3001\u6cdb\u9187\u3001\u900f\u660e\u8d28\u9178\u94a0\u7b49\u591a\u79cd\u4fdd\u6e7f\u5242\uff0c\u6df1\u5ea6\u8865\u6c34\u4fdd\u6e7f\u3002\u6dfb\u52a0\u4e86\u82a6\u835f\u63d0\u53d6\u7269\uff0c\u6ecb\u6da6\u8212\u7f13\u808c\u80a4\u3002","yuanjia":"109.90","quan_jine":"80.00","xiaoliang":"23263","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"99900","jiage":"29.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u56db\u9762\u5f39\u9762\u6599\uff0c\u5782\u611f\u5341\u8db3\uff0c\u4fee\u8eab\u663e\u7626","tubiao":"0","id":"6253388","pic":"\/\/img.alicdn.com\/imgextra\/i1\/3045898576\/TB2IROsb1ySBuNjy1zdXXXPxFXa_!!3045898576.jpg","d_title":"\u3010\u9177\u683c\u4e30\u3011\u663e\u7626\u767e\u642d\u54c8\u4f26\u88e4\u590f\u5b63\u8584\u6b3e\u5c0f\u811a\u88e4\u5973","title":"2018\u5e74\u6625\u6b3e\u8fd0\u52a8\u88e4\u4f11\u95f2\u88e4 \u4fa7\u70eb\u91d1\u663e\u7626\u767e\u642d\u54c8\u4f26\u88e4\u590f\u5b63\u8584\u6b3e\u5c0f\u811a\u88e4","miaoshu":"\u56db\u9762\u5f39\u9762\u6599\uff0c\u5782\u611f\u5341\u8db3\uff0c\u8d85\u7ea7\u663e\u7626\uff0c\u4eca\u5e74\u706b\u7206\u7684\u4fa7\u70eb\u91d1\u5143\u7d20\uff0c\u89c6\u89c9\u663e\u76265cm\uff0c\u4e0d\u6311\u8eab\u6750\uff0c\u600e\u4e48\u7a7f\u600e\u4e48\u597d\u770b\uff01","yuanjia":"59.90","quan_jine":"20.00","xiaoliang":"24315","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"18940","jiage":"39.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u63d0\u62c9\u7d27\u81f4\u808c\u80a4\uff0c\u6536\u7f29\u6bdb\u5b54\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6247766","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/3012913363\/TB2aJl4h_nI8KJjy0FfXXcdoVXa_!!3012913363.jpg","d_title":"\u3010ETT\u301124k\u7535\u52a8\u7f8e\u5bb9\u68d23D\u7626\u8138\u63d0\u62c9\u7d27\u5bb9\u4eea","title":"ETT24k\u8272\u9ec4\u91d1\u7535\u52a8\u7f8e\u5bb9\u68d23D\u7626\u8138\u795e\u5668\u63d0\u62c9\u7d27\u81f4\u7f8e\u5bb9\u4eea\u6dcb\u5df4\u8138\u90e8\u6309\u6469\u5668","miaoshu":"\u8212\u90023D\u7626\u8138\uff0c\u63d0\u62c9\u7d27\u81f4\u808c\u80a4\uff0c\u8f7b\u677e\u5bfc\u5165\u7cbe\u534e\uff0c\u5851\u9020\u5c0fV\u8138\uff0c\u67d4\u548c\u632f\u52a8\uff0c\u6536\u7f29\u6bdb\u5b54\uff0c\u62b5\u5fa1\u8870\u8001\u7b49\u4f5c\u7528\uff5e\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"58.00","quan_jine":"30.00","xiaoliang":"14705","huodong_type":"2","quan_time":"2018-03-21 23:59:59","quan_num":"9810","jiage":"28.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u4f18\u8d28\u7eaf\u68c9\uff0cA\u7c7b\u54c1\u8d28\uff0c\u67d4\u8f6f\u8212\u9002\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6242786","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2224064324\/TB2NzurdXXXXXaqXpXXXXXXXXXX_!!2224064324.jpg","d_title":"\u3010\u5357\u6781\u4eba\u65d7\u8230\u5e97\u3011\u513f\u7ae5\u5185\u88e44\u6761\u88c5","title":"\u5357\u6781\u4eba\u513f\u7ae5\u5185\u88e4\u7537\u7ae5\u5973\u7ae5\u4e2d\u5927\u7ae5\u7eaf\u68c9\u5e73\u89d2\u88e4\u5b9d\u5b9d\u5c0f\u5973\u5b69\u5b66\u751f\u4e09\u89d2\u77ed\u88e4","miaoshu":"\u3010\u7537\u5973\u7ae5\u53ef\u9009\u3011\u4f18\u8d28\u7eaf\u68c9\uff0cA\u7c7b\u54c1\u8d28\uff0c\u67d4\u8f6f\u8212\u9002\uff0c\u677e\u7d27\u9002\u5b9c\uff0c\u5b89\u5168\u5370\u67d3\uff0c\u5475\u62a4\u5b9d\u8d1d\u808c\u80a4\uff0c\u65d7\u8230\u5e97\u54c1\u8d28\uff0c\u5988\u5988\u653e\u5fc3\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"38.00","quan_jine":"15.00","xiaoliang":"11992","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"4000","jiage":"23.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u52a0\u539a\u9762\u6599\uff0c\u7ecf\u4e45\u8010\u7528\uff0c\u9632\u7f20\u7ed5\u9632\u53d8\u5f62\u3010\u9001\u6d17\u8863\u7403\u3011","tubiao":"0","id":"6241184","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2241319934\/TB26qAtdA5M.eBjSZFrXXXPgVXa_!!2241319934.jpg","d_title":"\u3010\u5c1a\u54c1\u683c\u5c1a\u3011\u62a4\u6d17\u888b\u6d17\u8863\u888b4\u4ef6\u5957\u88c5 \u9001\u6d17\u8863\u7403","title":"\u6d17\u8863\u888b\u62a4\u6d17\u888b\u7ec6\u7f51\u5957\u88c5\u52a0\u539a\u6587\u80f8\u888b\u8863\u670d\u62a4\u6d17\u5185\u8863\u888b\u6d17\u8863\u673a\u7f51\u888b\u9632\u62a4\u888b","miaoshu":"\u3010\u7279\u5927\u53f7+\u5927\u53f7+\u4e2d\u53f7+\u5c0f\u53f7\uff0c4\u4ef6\u5957\u3011\u52a0\u539a\u9762\u6599\uff0c\u7ecf\u4e45\u8010\u7528\uff0c\u9632\u7f20\u7ed5\u9632\u53d8\u5f62\uff0c\u7ec6\u81f4\u7f51\u9762\uff0c\u5475\u62a4\u4f60\u7684\u5b9d\u8d1d\u8863\u7269\uff0c\u60a8\u7684\u8863\u7269\u6d17\u62a4\u4e13\u5bb6\uff0c\u3010\u53e6\u9001\u6d17\u8863\u7403\u3011","yuanjia":"14.80","quan_jine":"5.00","xiaoliang":"74336","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"19800","jiage":"9.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u9650\u91cf\u7248\uff0c\u660e\u661f\u540c\u6b3e\uff0c\u53cc\u8272\u978b\u5e26\u642d\u914d","tubiao":"0","id":"6257237","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1060731704\/TB2W12jeeOSBuNjy0FdXXbDnVXa_!!1060731704.jpg","d_title":"\u3010\u56de\u529b\u3011\u767e\u4e8b\u53ef\u4e50\u5408\u4f5c\u9650\u91cf\u7248\u5e06\u5e03\u978b","title":"\u56de\u529b\u767e\u4e8b\u5408\u4f5c\u6b3e\u5e06\u5e03\u978b \u767e\u4e8b\u53ef\u4e50x\u56de\u529b\u8054\u540d\u7537\u978b\u5c0f\u767d\u978b\u767d\u84dd\u9650\u91cf\u677f\u978b","miaoshu":"\u660e\u661f\u540c\u6b3e\uff0c\u51b5\u4e14\u662f\u9650\u91cf\u7248\uff0c\u53cc\u8272\u978b\u5e26\uff0c\u968f\u4f60\u642d\u914d\uff0c\u5185\u589e\u9ad8\u8bbe\u8ba1\uff0c\u5e05\u6c14\u4e0d\u6b62\u4e00\u70b9\u70b9","yuanjia":"89.00","quan_jine":"20.00","xiaoliang":"503","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"29940","jiage":"69.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u4e00\u7ebf\u8fde\u63a5\uff0c\u9ad8\u89e3\u6790\u5ea6\uff0c\u539f\u58f0\u8fd8\u539f","tubiao":"0","id":"6257018","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/1665792953\/TB1hSREdfJNTKJjSspoXXc6mpXa_!!0-item_pic.jpg","d_title":"\u3010\u65b9\u732b\u3011\u5168\u6c11K\u6b4c\u76f4\u64ad\u795e\u5668\u5e26\u8033\u673a\u5c0f\u9ea6\u514b\u98ce","title":"\u65b9\u732b M2\u624b\u673a\u8bdd\u7b52\u8ff7\u4f60\u5c0f\u9ea6\u514b\u98ce\u7535\u5bb9\u9ea6\u82f9\u679c\u5168\u6c11K\u6b4c\u5531\u6b4c\u795e\u5668\u76f4\u64ad\u58f0\u5361","miaoshu":"\u3010\u7c7b\u76ee\u7b2c\u4e00\uff0c\u7d2f\u8ba1\u9500\u91cf75\u4e07\u3011\u7f51\u7ea2\u7206\u6b3e\uff0cK\u6b4c\u795e\u5668\uff0c\u517c\u5bb9\u7535\u8111PC\uff0c\u5b89\u5353\u82f9\u679c\u624b\u673aK\u6b4c\u8f6f\u4ef6\uff0c\u4e00\u7ebf\u8fde\u63a5\uff0c\u9ad8\u89e3\u6790\u5ea6\u539f\u58f0\u8fd8\u539f\uff0c\u52a0\u5f3a\u8033\u673a\u97f3\u8d28\uff0c\u5373\u63d2\u5373\u7528\uff0c\u56db\u8272\u53ef\u9009\uff0c\u968f\u65f6\u968f\u5730\u60f3\u5531\u5c31\u5531\uff0c\u901f\u5ea6\u62a2\uff01","yuanjia":"13.80","quan_jine":"5.00","xiaoliang":"41479","huodong_type":"1","quan_time":"2018-03-25 23:59:59","quan_num":"29940","jiage":"8.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u539f\u88c5\u8fdb\u53e3\uff0c\u597d\u5403\u4e0d\u817b\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6256856","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1048187520\/TB2b269cpHM8KJjSZFwXXcibXXa_!!1048187520.jpg","d_title":"\u4fc4\u7f57\u65af\u8fdb\u53e3\u65af\u62c9\u592b\u9178\u5976\u5a01\u5316\u7cd6500g","title":"\u4fc4\u7f57\u65af\u8fdb\u53e3\u7cd6\u679c\u65af\u62c9\u592b\u9178\u59761000g\u96f6\u98df\u5de7\u514b\u529b\u7cd6\u5976\u7f50\u7cd6\u6279\u53d1\u6563\u88c5\u98df\u54c1","miaoshu":"\u4fc4\u7f57\u65af\u539f\u88c5\u8fdb\u53e3\u7f8e\u5473\uff0c\u9999\u9187\u7684\u5976\u9999\u5473\u9053\uff0c\u88f9\u7740\u4e00\u5c42\u4e00\u5c42\u7684\u5939\u5fc3\uff0c\u597d\u5403\u800c\u4e0d\u817b\uff0c\u5f53\u725b\u5976\u9047\u4e0a\u5a01\u5316\uff0c\u6b63\u5982\u6211\u9047\u89c1\u4f60\uff0c\u4f60\u662f\u6211\u90a3\u8d34\u5fc3\u7684\u5473\u9053\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"19.90","quan_jine":"5.00","xiaoliang":"8898","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"14925","jiage":"14.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u901a\u7528iPhone5\/6\/7\u624b\u673a\uff0c\u5c0f\u5de7\u4fbf\u643a","tubiao":"0","id":"6256754","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/1747738609\/TB2l_7Vgu7JL1JjSZFKXXc4KXXa_!!1747738609.jpg","d_title":"\u5b89\u5353\u8f6ciphone6\/7\u6570\u636e\u7ebf\u8f6c\u63a5\u5934","title":"\u5b89\u5353\u8f6ciphone6\u8f6c\u63a5\u5934micro\u8f6ciPhone5s 6s plus 7\u8f6c\u6362\u5934\u6570\u636e\u7ebf","miaoshu":"\u901a\u7528iPhone5\/6\/7\u624b\u673a\uff0c\u63d2\u4e0a\u5b89\u5353\u6570\u636e\u7ebf\u5373\u53ef\u4f7f\u7528\uff0c\u5c0f\u5de7\u4fbf\u643a\u3002","yuanjia":"2.00","quan_jine":"1.00","xiaoliang":"21774","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"99900","jiage":"1.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u4e13\u67dc\u54c1\u8d28\uff0c\u6301\u4e45\u4e0d\u6389\u8272","tubiao":"0","id":"6256268","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/112594324\/TB2SPonXFooBKNjSZPhXXc2CXXa_!!112594324.jpg","d_title":"\u3010\u4e03\u6668\u3011\u9632\u6c34\u4e0d\u6389\u8272\u6307\u7532\u6cb9+1\u652f\u62a4\u624b\u971c","title":"[3\u74f69.9]\u53ef\u5265\u6307\u7532\u6cb9\u5957\u88c5\u53ef\u6495\u62c9\u6301\u4e45\u88f8\u8272\u65e0\u6bd2\u9632\u6c34\u5feb\u5e72\u7f8e\u7532\u7ec4\u540812\u8272","miaoshu":"\u5f69\u5986\u5927\u5496\uff0c\u4e13\u67dc\u54c1\u8d28\uff0c\u6301\u4e45\u4e0d\u6389\u8272\u53ef\u5265\u53ef\u6495\u62c9\uff0c\u56fd\u5bb6\u8d28\u68c0\u5408\u683c\uff0c\u5b89\u5168\u6709\u4fdd\u969c\uff0c\u7f24\u7eb7\u8272\u5f69\uff0c56\u6b3e\u53ef\u9009\uff01\u8272\u5f69\u9753\u4e3d\uff0c\u73a9\u8f6c\u6307\u5c16\u7f24\u7eb7\u9b54\u6cd5~","yuanjia":"3.90","quan_jine":"1.00","xiaoliang":"171223","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"46850","jiage":"2.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u901a\u4fbf\u6da6\u80a0\uff0c\u62a4\u809d\u89e3\u9152\uff0c\u964d\u4e09\u9ad8","tubiao":"0","id":"6255110","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/3012913363\/TB26IBAlf6H8KJjy0FjXXaXepXa_!!3012913363.jpg","d_title":"\u3010\u4e2d\u95fd\u98d8\u9999\u3011\u51c9\u5c71\u82e6\u835e\u8336250\u514b","title":"\u30102\u7f50\u88c5\u3011\u82e6\u835e\u8336\u56db\u5ddd\u51c9\u5c71\u9ed1\u82e6\u835e\u8336\u9ec4\u82e6\u835e\u9ea6\u8336\u6b63\u54c1\u82b1\u8336\u8336\u53f6\u642d\u5927\u9ea6","miaoshu":"\u964d\u4e09\u9ad8\uff0c\u901a\u4fbf\u6da6\u80a0\uff0c\u62a4\u809d\u89e3\u9152\uff0c\u6700\u4e3b\u8981\u7684\u662f\u6de1\u6de1\u7684\u9ea6\u9999\u597d\u597d\u559d~","yuanjia":"25.10","quan_jine":"20.00","xiaoliang":"43876","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"49800","jiage":"5.10"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u539f\u88c5\u8fdb\u53e3\uff0c\u98df\u54c1\u7ea7\u914d\u65b9\uff0c\u9632\u86c0\u62a4\u9f7f","tubiao":"0","id":"6255020","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1834056437\/TB20ReUrKJ8puFjy1XbXXagqVXa_!!1834056437.jpg","d_title":"\u3010pauldent\u3011\u5fb7\u56fd\u8fdb\u53e3\u5b9d\u5b9d\u9632\u86c0\u7259\u818f","title":"\u5fb7\u56fd\u8fdb\u53e3\u9632\u86c0\u5a74\u513f\u5a74\u5e7c\u513f\u7ae5\u8349\u8393\u7259\u818f1-2-3-6\u5c81\u5c0f\u5b69\u5b9d\u5b9d\u53ef\u541e\u54bd","miaoshu":"\u767e\u5e74\u5386\u53f2\u54c1\u724c\uff0c\u5fb7\u56fd\u539f\u88c5\u8fdb\u53e3\uff0c\u7eaf\u7eaf\u679c\u9999\uff0c\u4e30\u5bcc\u6ce1\u6ce1\uff0c\u98df\u54c1\u7ea7\u914d\u65b9\uff0c\u5b89\u5168\u53ef\u541e\u54bd\uff0c\u6e05\u6d01\u7259\u6e0d\uff0c\u9632\u86c0\u62a4\u9f7f\uff0c\u8ba9\u5b9d\u5b9d\u7231\u4e0a\u5237\u7259\uff0c\u7b11\u5bb9\u66f4\u707f\u70c2\uff01","yuanjia":"25.90","quan_jine":"15.00","xiaoliang":"7336","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"9623","jiage":"10.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u4e0d\u4f24\u7259\u9f88\uff0c\u53bb\u9664\u7259\u6e0d\u9884\u9632\u86c0\u7259\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6254957","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3012913363\/TB2nrDacbSYBuNjSspfXXcZCpXa_!!3012913363.jpg","d_title":"\u3010\u8212\u5ba2\u3011\u513f\u7ae5\u7535\u52a8\u7259\u5237+6\u5237\u5934+1\u652f\u7259\u818f","title":"Saky\/\u8212\u5ba2\u8212\u514b\u58f0\u6ce2\u513f\u7ae5\u7535\u52a8\u7259\u52372-7\u5c81\u67d4\u7ec6\u8f6f\u6bdb\u9632\u6c34\u5b9d\u5b9d\u81ea\u52a8\u7259\u5237","miaoshu":"\u3010\u58f0\u6ce2\u7535\u52a8\u7259\u5237+6\u4e2a\u66ff\u6362\u5237\u5934+1\u652f\u6db2\u4f53\u7259\u818f\u3011\u660e\u661f\u674e\u51b0\u51b0\u4ee3\u8a00\uff0c\u8fdb\u53e3\u7f8e\u56fd\u675c\u90a6\u8f7b\u67d4\u5237\u6bdb\uff0c\u9ad8\u9891\u5fae\u9707\u52a8\u9632\u6c34\uff0c\u8212\u9002\u4e0d\u4f24\u7259\u9f88\uff0c\u81ea\u52a8\u5237\u7259\u6e05\u9664\u6b7b\u89d2\uff0c\u53bb\u9664\u7259\u6e0d\u9884\u9632\u86c0\u7259\uff0c\u8ba9\u5b9d\u5b9d\u7231\u4e0a\u5237\u7259\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"89.00","quan_jine":"20.00","xiaoliang":"19708","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"100000","jiage":"69.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u820c\u5c16\u4e0a\u7684\u4e2d\u56fd\u63a8\u8350\uff0c\u6df1\u5c71\u98df\u6750\uff0c\u8425\u517b\u7f8e\u5473","tubiao":"0","id":"6254897","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3231415772\/TB2jscFelfM8KJjSZFOXXXr5XXa_!!3231415772.jpg","d_title":"\u5929\u76ee\u5c71\u96f7\u7b0b4\u65a4","title":"\u4e34\u5b89\u7279\u4ea7\u73b0\u6316\u73b0\u5356\u96f7\u7b0b4\u65a4\u88c5\u65b0\u9c9c\u519c\u4ea7\u54c1\u7af9\u7b0b\u814c\u7b03\u9c9c\u98df\u6750\u65b0\u9c9c\u852c\u83dc","miaoshu":"\u30104.9\u9ad8\u8bc4\u5206~\u3011\u6df1\u5c71\u98df\u6750\uff0c\u8425\u517b\u7f8e\u5473\uff0c\u5916\u58f3\u8584\uff0c\u8089\u8d28\u6d01\u767d\uff0c\u80a5\u5ae9\uff0c\u9c9c\u4e2d\u5e26\u751c\uff0c\u5c1d\u4e00\u53e3\uff0c\u6ee1\u5634\u6e05\u9999\uff01","yuanjia":"39.00","quan_jine":"15.00","xiaoliang":"3565","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"19720","jiage":"24.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u5929\u7136\u690d\u7269\u8403\u53d6\uff0c\u73af\u4fdd\u5b89\u5168\uff0c\u6301\u4e45\u7559\u9999","tubiao":"0","id":"6254522","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/3242591287\/TB2PXG3XKGSBuNjSspbXXciipXa_!!3242591287.jpg","d_title":"\u674e\u7ef4\u5609\u4ee3\u8a00\u53e4\u9f99\u9999\u6c34\u5bb6\u8f66\u4e24\u7528","title":"\u8f66\u8f7d\u9999\u6c34\u6c7d\u8f66\u9999\u818f\u8f66\u5185\u8f66\u7528\u54c1\u56fa\u4f53\u6301\u4e45\u6de1\u9999\u521b\u610f\u9999\u85b0\u5ea7\u5f0f\u6446\u4ef6\u9664\u5f02\u5473","miaoshu":"\u3010\u5386\u53f2\u6700\u4f4e\u4ef7\uff01\u9650\u91cf500\u5355\uff01\u591a\u5473\u53ef\u9009\u3011\u5065\u5eb7\u73af\u4fdd\uff0c\u5b89\u5168\u65f6\u5c1a\uff0c\u6301\u4e45\u6e05\u65b0\uff0c\u5bb6\u8f66\u4e24\u7528\uff0c\u4e00\u676f\u53ef\u7528\u4e24\u4e2a\u6708\uff0c5.8\u5305\u90ae\u5386\u53f2\u6700\u4f4e\u4ef7\uff01\u9519\u8fc7\u4eca\u5929\u540e\u60e0\u65e0\u671f\uff01\u901f\u5ea6\u5165\u624b\uff01","yuanjia":"25.80","quan_jine":"20.00","xiaoliang":"9630","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"19800","jiage":"5.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u8212\u9002\u4eb2\u80a4\uff0c\u7acb\u4f53\u88c1\u526a\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6254201","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/3277476734\/TB1DEpDaYSYBuNjSspfXXcZCpXa_!!0-item_pic.jpg","d_title":"\u3010\u5317\u6781\u7ed2\u301195%\u68c9\u7eaf\u8272\u4e2d\u8170\u5973\u58eb\u5185\u88e46\u6761\u88c5","title":"\u5317\u6781\u7ed2\u4e2d\u8170\u5185\u88e4\u5973\u7eaf\u68c9\u5973\u58eb\u5185\u88e4\u4e09\u89d2\u88e4\u5927\u7801\u7eaf\u8272\u65e0\u75d5100%\u5168\u68c9\u88c6\u6297\u83cc","miaoshu":"\u771f\u6b63\u7684\u4e2d\u8170\u5185\u88e4\uff01\uff0195%\u4f18\u8d28\u7eaf\u68c9\u9762\u6599\uff0c\u8212\u9002\u4eb2\u80a4\uff0c\u53cc\u5c42\u8170\u90e8\u6e29\u6696\u5c0f\u8179\uff0c\u5f39\u6027\u597d+\u7acb\u4f53\u88c1\u526a+\u81c0\u90e8\u52a0\u5bbd\u8bbe\u8ba1\u4e0d\u4e0b\u6ed1\uff0c\u5927\u54c1\u724c\u4e00\u6761\u4e0d\u52305\u5757\u94b1\uff0c\u7b80\u76f4\u9006\u5929\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"36.90","quan_jine":"10.00","xiaoliang":"7264","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"100000","jiage":"26.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u8212\u9002\u9762\u6599\uff0c\u4eb2\u80a4\u67d4\u8f6f\uff0c\u7ecf\u4e45\u8010\u7528","tubiao":"0","id":"6253928","pic":"\/\/img.alicdn.com\/bao\/uploaded\/i3\/2233006220\/TB24vfbmRfH8KJjy1XbXXbLdXXa_!!2233006220.jpg","d_title":"\u69bb\u69bb\u7c73\u57ab\u5b66\u751f\u6bdb\u7ed2\u6905\u57ab\u529e\u516c\u5ba4\u5ea7\u57ab","title":"\u52a0\u539a\u5750\u57ab\u529e\u516c\u5ba4\u6905\u57ab\u69bb\u69bb\u7c73\u5b66\u751f\u5706\u5f62\u8003\u9a7e\u7167\u6c7d\u8f66\u900f\u6c14\u5730\u677f\u6c99\u53d1\u9760\u57ab\u5b50","miaoshu":"\u8212\u9002\u9762\u6599\uff0c\u4fdd\u6696\u6027\u597d\uff0c\u4e0d\u6389\u6bdb\u3002\u53ef\u6c34\u6d17\uff0c\u4e0d\u6613\u53d8\u5f62\uff0c\u4eb2\u80a4\u67d4\u8f6f\uff0c\u53ef\u7f13\u89e3\u4e45\u5750\u4e0d\u9002\uff0c\u7ecf\u4e45\u8010\u7528\u3002","yuanjia":"14.90","quan_jine":"5.00","xiaoliang":"2823","huodong_type":"1","quan_time":"2018-03-25 23:59:59","quan_num":"41850","jiage":"9.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u8865\u6c34\u4fdd\u6e7f\uff0c\u6ecb\u6da6\u9c9c\u6d3b","tubiao":"0","id":"6253856","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3012913363\/TB2GSZbemtYBeNjSspaXXaOOFXa_!!3012913363.jpg","d_title":"\u3010\u59a4\u8d5b\u7490\u3011\u514d\u6d17\u6ecb\u6da6\u7ea2\u77f3\u69b4\u7761\u7720\u9762\u819c150g","title":"\u7ea2\u77f3\u69b4\u7761\u7720\u9762\u819c\u591c\u7528\u679c\u51bb\u6536\u7f29\u6bdb\u5b54\u8865\u6c34\u4fdd\u6e7f\u514d\u6d17\u6ecb\u6da6\u9c9c\u6d3b\u7d27\u81f4\u7537\u5973","miaoshu":"\u68a6\u5e7b\u5982\u679c\u51bb\u822c\u7684\u9762\u819c\uff0c\u7ea2\u77f3\u69b4\u7cbe\u534e\u8865\u6c34\u4fdd\u6e7f\uff0c\u6ecb\u6da6\u9c9c\u6d3b\u6bcf\u5bf8\u808c\u80a4\uff0c\u8fb9\u7761\u8fb9\u4fdd\u517b\uff0c\u665a\u4e0a\u6ecb\u6da6\u8865\u6c34\uff0c\u767d\u5929\u5149\u5f69\u7167\u4eba\uff01","yuanjia":"21.90","quan_jine":"15.00","xiaoliang":"8711","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"29970","jiage":"6.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u3010\u4e70\u4e00\u9001\u4e00\u5171\u4e24\u5757\u3011\u3010\u9001\u6253\u7f51\u6ce1\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6253736","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/1047922130\/TB2qwUulB0kpuFjSsziXXa.oVXa_!!1047922130.jpg","d_title":"\u3010\u4f3d\u4f18\u3011\u7af9\u70ad\u624b\u5de5\u9999\u7682\u4e701\u90011+\u9001\u6253\u7f51\u6ce1","title":"\u7af9\u70ad\u624b\u5de5\u9999\u7682\u80a5\u795b\u75d8\u63a7\u6cb9\u9ed1\u5934\u7eaf\u6d17\u8138\u6d01\u9762\u975e\u5929\u7136\u786b\u78fa\u5c71\u7f8a\u5976\u9a6c\u6cb9\u7cbe\u6cb9","miaoshu":"\u3010\u4e70\u4e00\u9001\u4e00\u5171\u4e24\u5757\uff0c\u9001\u6253\u7f51\u6ce1\uff0c\u52a05\u5143\u5f97\u786b\u78fa\u7682\u3011\u59b9\u7eb8\u4eec\u798f\u5229\uff0c\u7279\u522b\u8d5e\u7684\u624b\u5de5\u9999\u7682\uff01\u795b\u9ed1\u5934\u6d01\u9762\u9999\u7682\uff0c\u6df1\u5c42\u6e05\u6d01\u7ec6\u81f4\u6bdb\u5b54\uff0c\u771f\u6b63\u7684\u5929\u7136\u914d\u65b9\uff0c\u8fd8\u539f\u5065\u5eb7\u808c\u80a4\uff01100g*2\u4e2a\uff0c\u8d85\u7ea7\u5212\u7b97\u54e6\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"29.90","quan_jine":"10.00","xiaoliang":"14039","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"9990","jiage":"19.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u80a5\u539a\u7ec6\u817b\uff0c\u8272\u6cfd\u7ea2\u6da6\uff0c\u52b2\u9053\u5341\u8db3\uff0c","tubiao":"0","id":"6253559","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/3012913363\/TB2x0jCoDnI8KJjy0FfXXcdoVXa_!!3012913363.jpg","d_title":"\u3010\u5de7\u5a03\u3011\u6e56\u5357\u7279\u4ea7\u9ebb\u8fa3\u5c0f\u9c7c\u4ed450\u5305","title":"\u5de7\u5a03\u9c7c50\u5305\u6e56\u5357\u7279\u4ea7\u6bdb\u6bdb\u9c7c\u8fa3\u5473\u96f6\u98df\u5c0f\u5403\u6279\u53d1\u9999\u8fa3\u5c0f\u9c7c\u4ed4\u9ebb\u8fa3\u5c0f\u9c7c\u5e72","miaoshu":"\u4e13\u6ce8\u4f11\u95f2\u7f8e\u98df\uff0c\u9c9c\u9999\u6e58\u8fa3\u52b2\u9053\u5341\u8db3\uff0c\u6df1\u6d77\u9ad8\u54c1\u8d28\u5c0f\u9c7c\uff0c\u8089\u8d28\u80a5\u539a\u7ec6\u817b\uff0c\u8272\u6cfd\u7ea2\u6da6\u6676\u83b9\u9c9c\u4eae\uff0c\u5f15\u7206\u5473\u857e\uff0c\u597d\u5403\u4e0d\u4e0a\u706b\uff0c\u5403\u4e86\u8fd8\u60f3\u5403\uff01","yuanjia":"33.80","quan_jine":"5.00","xiaoliang":"18324","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"29880","jiage":"28.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u690d\u7269\u8403\u53d6\u914d\u65b9\uff0c\u6e29\u548c\u65e0\u523a\u6fc0\uff0c\u957f\u6548\u9a71\u868a","tubiao":"0","id":"6253232","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/3012913363\/TB27UxGekKWBuNjy1zjXXcOypXa_!!3012913363.jpg","d_title":"\u3010\u8d85\u503c5\u4ef6\u5957\u3011\u768e\u6d01\u5927\u724c\u5b55\u5a74\u7535\u70ed\u868a\u9999\u6db2","title":"\u768e\u6d01\u7535\u70ed\u868a\u9999\u6db2\u74f6\u65e0\u5473\u5957\u88c5\u9001\u52a0\u70ed\u5668\u63d2\u7535\u5f0f\u5bb6\u7528\u9a71\u868a\u868a\u5b50\u6c34\u706d\u868a\u6db2\u4f53","miaoshu":"\u3010\u8d85\u503c4+1=5\u4ef6\u5957\u3011\u690d\u7269\u8403\u53d6\u914d\u65b9\uff0c\u6e29\u548c\u65e0\u523a\u6fc0\uff0c\u768e\u6d01\u5927\u724c\u54c1\u8d28\uff0c\u957f\u6548\u9a71\u868a\uff0c\u8ba9\u4f60\u590f\u5b63\u5c3d\u4eab\u5b89\u7a33\u7f8e\u5bb9\u89c9\uff01","yuanjia":"22.90","quan_jine":"10.00","xiaoliang":"61214","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"29850","jiage":"12.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u5c3d\u4eab\u6c34\u6da6\u6ecb\u517b\uff0c\u8ba9\u808c\u80a4\u7115\u53d1\u9633\u5149\u529b\u91cf","tubiao":"0","id":"6252998","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/2453444433\/TB16LuPat9iQuJjSsphXXbMhpXa_!!0-item_pic.jpg","d_title":"\u3010\u6cca\u6cc9\u96c5\u3011\u8865\u6c34\u4fdd\u6e7f\u5a74\u513f\u8695\u4e1d\u9762\u819c10\u7247","title":"\u6cca\u6cc9\u96c5\u5a74\u513f\u9762\u819c\u8865\u6c34\u4fdd\u6e7f\u7f8e\u767d\u795b\u75d8\u8695\u4e1d\u63d0\u4eae\u80a4\u8272\u6536\u7f29\u6bdb\u5b54\u6b63\u54c1\u5973\u7537\u58eb","miaoshu":"\u300a\u7f8e\u4e3d\u4fcf\u4f73\u4eba\u300b\u8282\u76ee\u529b\u8350\uff0c\u67cf\u6cc9\u96c5\u5a74\u513f\u9762\u819c\uff0c\u5341\u7247\u88c5\uff01\u6a2a\u626b\u201c\u9965\u6e34\u201d\u8865\u6c34\uff0c\u5c3d\u4eab\u6c34\u6da6\u6ecb\u517b\uff0c\u8ba9\u808c\u80a4\u7115\u53d1\u9633\u5149\u529b\u91cf\uff0c\u8fd8\u4f60Q\u5f39\u7d27\u81f4\u5a74\u513f\u808c\uff01","yuanjia":"16.99","quan_jine":"10.00","xiaoliang":"19351","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"49650","jiage":"6.99"},{"paiqi":"2018-03-19 00:00:00","new_words":"8\u79cd\u642d\u914d25g*30\u888b\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6252572","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3021615864\/TB2ZiHVX9tYBeNjSspaXXaOOFXa_!!3021615864.jpg","d_title":"\u3010\u677e\u9f20\u94fa\u5b50\u65d7\u8230\u5e97\u3011\u6bcf\u65e5\u575a\u679c750g","title":"\u677e\u9f20\u94fa\u5b50\u6bcf\u65e5\u575a\u679c\u888b\u88c5\u5c0f\u5305\u5929\u5929\u5e72\u679c\u6df7\u5408\u679c\u4ec1\u7efc\u5408\u5927\u793c\u5305\u6210\u4eba\u513f\u7ae5","miaoshu":"\u677e\u9f20\u94fa\u5b50\u6bcf\u65e5\u575a\u679c8\u79cd\u642d\u914d25g*30\u888b\uff0c8\u79cd\u642d\u914d\uff0c\u6bcf\u59291\u5305\uff0c\u6df7\u5408\u575a\u679c\u871c\u996f\uff0c\u5e72\u793c\u76d2\u6210\u4eba\u513f\u7ae5\u6b3e\uff0c\u54c1\u5473\u5927\u81ea\u7136\u7684\u5473\u9053\u3002\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"99.00","quan_jine":"30.00","xiaoliang":"4827","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"50000","jiage":"69.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u4f18\u8d28\u5f39\u529b\u9762\u6599\uff0c\u4e0d\u8d77\u7403\u4e0d\u892a\u8272\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6252494","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2923248306\/TB2QaRHXoo09KJjSZFDXXb9npXa_!!2923248306.jpg","d_title":"\u3010\u9ed1\u95e8\u3011\u963f\u8fea\u8fbe\u65af\u540c\u6b3e\u4f11\u95f2\u88e4","title":"\u97e9\u7248\u6f6e\u6d41\u54c8\u4f26\u88e4\u7537\u4f11\u95f2\u88e4\u5c0f\u811a\u88e4\u7537\u8fd0\u52a8\u88e4\u7537\u957f\u88e4\u6536\u53e3\u88e4\u4fee\u8eab\u675f\u811a\u88e4\u7537","miaoshu":"\u7cbe\u9009\u4f18\u8d28\u5f39\u529b\u9762\u6599\uff0c\u4e0d\u8d77\u7403\u4e0d\u892a\u8272\uff0c\u5bbd\u677e\u88e4\u811a\uff0c\u7a7f\u7740\u65b9\u4fbf\uff0c\u9ad8\u7aef\u4e13\u67dc\u54c1\u8d28\uff0c\u963f\u8fea\u8fbe\u65af\u4e13\u67dc\u540c\u6b3e\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"79.00","quan_jine":"40.00","xiaoliang":"9062","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"49950","jiage":"39.00"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u660e\u661f\u6307\u5b9a\u7259\u818f","tubiao":"0","id":"6251021","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB1NqVOKVXXXXbDXFXXXXXXXXXX_!!0-item_pic.jpg","d_title":"\u3010\u5c0f\u5de8\u86cb\u3011\u5962\u4f88\u54c1\u7259\u818f230\u514b","title":"\u5de8\u661f\u63a8\u8350 \u5c0f\u5de8\u86cb\u6da6\u517b\u6e05\u65b0\u539f\u529b\u89c9\u9192\u57c3\u53ca\u7761\u83b2\u6e05\u65b0\u53e3\u6c14\u7259\u818f230g*1\u74f6","miaoshu":"\u5c0f\u5de8\u86cbLITTLEDOME\uff0c\u6da6\u517b\u6e05\u65b0\u7259\u818f230g*1\u74f6\uff0c\u6cf5\u5934\u5f0f\uff0c\u5927\u5bb9\u91cf\uff0c\u5957\u9910\u66f4\u4f18\u60e0\uff0c\u67d4\u8f6f\u7ef5\u5bc6\uff0c\u89e6\u9f7f\u53ef\u5316\uff0c","yuanjia":"119.90","quan_jine":"90.00","xiaoliang":"19028","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"49950","jiage":"29.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u65f6\u5c1a\u6613\u6d3b\uff0c\u51c0\u5316\u7a7a\u6c14\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6250937","pic":"\/\/img.alicdn.com\/bao\/uploaded\/i1\/2095246211\/TB2dWvIicrI8KJjy0FhXXbfnpXa_!!2095246211.jpg","d_title":"\u5ba4\u5185\u6c34\u57f9\u690d\u7269\u76c6\u683d","title":"L\u6800\u5b50\u82b1\u7eff\u841d\u6c34\u57f9\u690d\u7269\u76c6\u683d\u82b1\u5349\u5ba4\u5185\u76c6\u666f\u7eff\u690d\u540a\u5170\u529e\u516c\u5ba4\u76c6\u683d\u53d1\u8d22\u6811","miaoshu":"\u5168\u7f51\u9500\u91cf\u7b2c\u4e00\uff0c\u5168\u7f51\u9ad8\u54c1\u8d28\u6c34\u57f9\u6700\u4f4e\u4ef7\uff0c\u9650\u65f6\u62a2\u8d2d\uff0c\u65b0\u5e74\u65b0\u6c14\u8c61\uff0c\u61d2\u4eba\u76c6\u683d\uff0c\u65f6\u5c1a\u6613\u517b\u6d3b\uff0c\u51c0\u5316\u7a7a\u6c14\uff0c\u9676\u51b6\u60c5\u64cd\uff0c\u52a0\u539a\u73bb\u7483\u6c34\u57f9\u5bb9\u5668\uff0c\u5320\u5fc3\u6253\u9020\uff0c\u4e13\u6ce8\u7eff\u690d\u79cd\u690d\u9500\u552e\u4e09\u5341\u5e74\uff0c\u4e2d\u56fd\u7eff\u690d\u6c34\u57f9\u9886\u5bfc\u54c1\u724c\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"8.60","quan_jine":"1.00","xiaoliang":"74123","huodong_type":"1","quan_time":"2018-03-25 23:59:59","quan_num":"5000","jiage":"7.60"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u7504\u9009\u539f\u6599\uff0c\u8425\u517b\u4e30\u5bcc\uff0c\u65b9\u4fbf\u7f8e\u5473","tubiao":"0","id":"6250910","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3626047298\/TB2iboWoC_I8KJjy0FoXXaFnVXa_!!3626047298.jpg","d_title":"\u3010\u9ec4\u6c0f\u3011\u6b63\u5b97\u87ba\u86f3\u9762\u901f\u98df195g*2\u5927\u6876","title":"\u9ec4\u6c0f\u771f\u5473\u67f3\u5dde\u6b63\u5b97\u87ba\u86f3\u7c89\u51b2\u6ce1\u578b\u539f\u5473\u87ba\u72ee\u7ec6\u9762\u901f\u98df195g*1\u65b9\u4fbf\u9762\u6ce1\u9762","miaoshu":"\u4f60\u662f\u5426\u4e5f\u5403\u817b\u6ce1\u9762\u4e86\uff1f\u8bd5\u8bd5\u8fd9\u4e2a\u5427\u3002\u6b63\u5b97\u87ba\u86f3\u7c89\u7684\u5473\u9053\uff0c\u6bd4\u87ba\u86f3\u7c89\u66f4\u65b9\u4fbf\uff0c\u6bd4\u6ce1\u9762\u66f4\u7f8e\u5473\uff0c\u7504\u9009\u539f\u6599\uff0c\u87ba\u4e1d\u8089\u6253\u78e8\u6210\u7c89\uff0c\u6d53\u7f29\u9aa8\u6c64\uff0c\u8425\u517b\u4e30\u5bcc\uff0c\u820c\u5c16\u4e0a\u7684\u4e2d\u56fd\u529b\u8350\uff01\u61d2\u4eba\u9996\u9009~~","yuanjia":"14.90","quan_jine":"5.00","xiaoliang":"7448","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"99600","jiage":"9.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u514d\u8d39\u6362\u65b0\u3010\u9001\u96c6\u98ce\u5634\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6250682","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3012913363\/TB2FdFnnTnI8KJjy0FfXXcdoVXa_!!3012913363.jpg","d_title":"\u3010\u60e0\u80fd\u8fbe\u30112000w\u5927\u529f\u7387\u7535\u5439\u98ce","title":"\u60e0\u80fd\u8fbe\u5927\u529f\u7387\u5bb6\u7528\u5439\u98ce\u673a\u7406\u53d1\u5e97\u53d1\u5eca\u4e0d\u4f24\u53d1\u7535\u5439\u98ce\u9759\u97f3\u5bbf\u820d\u51b7\u70ed\u98ce\u7b52","miaoshu":"\u3010\u9001\u96c6\u98ce\u5634+\u514d\u8d39\u6362\u65b0\u3011\u4ed9\u5973\u4eec\uff0c\u5439\u98ce\u673a\u8fd8\u662f\u8981\u9009\u597d\u70b9\u7684\uff0c\u60e0\u80fd\u8fbe\u54c1\u724c\u7684\uff0c\u56fd\u5bb63C\u8ba4\u8bc1\u54c1\u8d28\uff012000W\u5927\u529f\u7387\uff0c\u591a\u6863\u7ec4\u5408\u8c03\u8282\uff0c\u518d\u4e5f\u4e0d\u7528\u7fa1\u6155\u7406\u53d1\u5e97\u7684\u5927\u51fa\u98ce\u53e3~\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"76.80","quan_jine":"50.00","xiaoliang":"71254","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"49450","jiage":"26.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u3010\u90012\u4e2a\u8d77\u6ce1\u7f51\u3011","tubiao":"0","id":"6250607","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2690919212\/TB2cF5cd3IlyKJjSZFqXXX9xpXa_!!2690919212.jpg","d_title":"\u6b63\u54c1\u9664\u87a8\u866b\u4e2d\u534e\u795e\u76822\u76d2\uff01","title":"\u6b63\u54c1\u4e2d\u534e\u795e\u7682\u786b\u78fa\u53bb\u87a8\u866b\u80a5\u7682\u9999\u7682\u9762\u90e8\u9664\u87a8\u866b\u7eaf\u624b\u5de5\u5929\u7136\u6d17\u8138\u836f\u7682\u56fd","miaoshu":"\u3010\u90012\u4e2a\u8d77\u6ce1\u7f51\u30112\u5757\uff012\u5757\uff01\u624d9\u57579\uff01\uff01\u5b98\u7f51\u6b63\u54c1\u9632\u4f2a\uff0c\u53ef\u67e5\u54e6~\u63a7\u6cb9\u3001\u795b\u75d8\u3001\u53bb\u9ed1\u5934\uff0c\u6d17\u8138\u6d17\u624b\u6d17\u811a\u811a~\u5565\u90fd\u884c\uff01\u88ab\u4eba\u5b89\u5229\u8fc7\u5427\uff1f\u5c31\u662f\u5b83\uff01\u4eca\u5929\u5c31\u4e70\u4e86\uff01","yuanjia":"49.90","quan_jine":"40.00","xiaoliang":"17600","huodong_type":"1","quan_time":"2018-03-19 23:59:59","quan_num":"2248","jiage":"9.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u3010\u9001\u7f8e\u5373\u9762\u819c3\u7247\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6250469","pic":"http:\/\/img.alicdn.com\/imgextra\/i1\/TB1_j91PVXXXXbKXFXXXXXXXXXX_!!0-item_pic.jpg","d_title":"\u3010\u6625\u7eaa\u3011\u5f39\u529b\u5a07\u5ae9\u7761\u7720\u514d\u6d17\u9762\u819c \u9001\u7f8e\u5373\u9762\u819c3\u7247","title":"\u6625\u7eaa\u5f39\u529b\u5a07\u5ae9\u7761\u7720\u9762\u819c\u514d\u6d17\u591c\u95f4\u8865\u6c34\u4fdd\u6e7f\u6536\u7f29\u6bdb\u5b54\u63d0\u4eae\u80a4\u8272\u6b63\u54c1","miaoshu":"\u3010\u9001\u7f8e\u5373\u9762\u819c3\u7247\u3011\u591c\u95f4\u4fdd\u6e7f\uff0c\u5a07\u5ae9\u5475\u62a4\uff0c\u8d28\u5730\u6e05\u723d\u4e0d\u6cb9\u817b\uff0c\u7f8e\u767d\u6c34\u6da6\u6ecb\u517b\uff0c\u5ae9\u6ed1\u4fee\u62a4\uff0c\u6df1\u5c42\u6e05\u6d01\uff0c\u4e00\u89c9\u517b\u6da6\u6c34\u5149\u808c\uff0c\u514d\u6e05\u6d17\uff0c\u6574\u591c\u5524\u9192\u808c\u80a4\u6d3b\u529b\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"29.90","quan_jine":"10.00","xiaoliang":"7106","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"19994","jiage":"19.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u9655\u897f\u7279\u8272\uff0c\u5730\u9053\u6cb9\u8fa3\u5b50","tubiao":"0","id":"6250328","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1845329997\/TB25XH0a77myKJjSZFIXXc0OVXa_!!1845329997.jpg","d_title":"\u3010\u79e6\u683c\u683c\u3011\u9ebb\u8fa3\u897f\u5b89\u7279\u4ea7\u51c9\u76ae6\u888b\u88c5","title":"\u79e6\u683c\u683c\u51c9\u76ae\u5b9d\u9e21\u5c90\u5c71\u64c0\u9762\u76ae\u9655\u897f\u897f\u5b89\u7279\u4ea7\u5c0f\u5403\u771f\u7a7a\u901f\u98df\u888b\u88c5\u52a0\u90011\u888b","miaoshu":"\u5929\u732b\u54c1\u8d28\u4fdd\u8bc1\uff0c5\u90011\u888b\u88c5\uff0c\u771f\u7a7a\u9999\u8fa3\u9762\u76ae\uff0c\u5f88\u6b63\u5b97\u7684\u9655\u897f\u5c90\u5c71\u51c9\u76ae\uff0c\u6cb9\u8fa3\u5b50\u975e\u5e38\u5730\u9053\uff0c\u4e0d\u6127\u662f\u6b63\u5b97\u9655\u897f\u7279\u8272\u5c0f\u5403\uff01","yuanjia":"24.80","quan_jine":"3.00","xiaoliang":"13629","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"5994","jiage":"21.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u81ea\u5e26USB\u7ebf\uff0c360\u5ea6\u8bf1\u868a\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6250262","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2005506561\/TB2cgJmd21TBuNjy0FjXXajyXXa_!!2005506561.jpg","d_title":"\u3010\u7ea2\u5fc3\u3011\u5149\u89e6\u5a92\u5bb6\u7528\u65e0\u8f90\u5c04\u706d\u868a\u5668","title":"\u7ea2\u5fc3\u5149\u89e6\u5a92\u706d\u868a\u706f\u5bb6\u7528\u5ba4\u5185\u65e0\u8f90\u5c04\u7535\u9a71\u868a\u5668\u9632\u706d\u868a\u795e\u5668\u5367\u5ba4\u6355\u868a\u5b50","miaoshu":"\u3010\u81ea\u5e26USB\u7ebf\u3011\u5149\u89e6\u5a92\u7269\u7406\u706d\u868a\u706f\uff01\u563f\u563f\uff0c\u8fd9\u79cd\u4e1c\u897f\uff0c\u65e9\u4e70\u6700\u5212\u7b97\u554a\uff0c\u522b\u7b49\u868a\u5b50\u54ac\u7684\u6ee1\u8eab\u5305\u7684\u65f6\u5019\uff0c\u624d\u540e\u6094\u6ca1\u6709\u4e70\uff01\u7ea2\u5fc3\u8001\u724c\u7684\uff0c\u54c1\u8d28\u4fdd\u969c\uff01LED\u7d2b\u5149\u706f\uff0c360\u5ea6\u8bf1\u868a\uff0c\u8ba9\u868a\u866b\u65e0\u5904\u53ef\u9003\uff01\uff01\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"39.90","quan_jine":"20.00","xiaoliang":"35935","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"49989","jiage":"19.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u30102\u652f\u88c5+\u5378\u5986\u819c\u3011\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6249149","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2917167763\/TB2xIhplL6H8KJjSspmXXb2WXXa_!!2917167763.jpg","d_title":"\u3010\u6c49\u838e\u7b80\u7814\u3011\u4fdd\u6e7f\u6ecb\u6da6\u65e0\u8272\u9632\u5e72\u88c2\u62a4\u5507\u818f2\u652f","title":"2\u652f\u88c5\u6da6\u5507\u818f\u4fdd\u6e7f\u6ecb\u6da6\u8865\u6c34\u65e0\u8272\u9632\u5e72\u88c2\u62a4\u5507\u818f\u5973\u7537\u58eb\u5507\u90e8\u6de1\u5316\u5507\u7eb9","miaoshu":"\u3010\u8d85\u503c2\u652f\u88c5+\u5378\u5986\u819c\u3011\u98df\u54c1\u7ea7\u6da6\u5507\u818f\uff0c\u6301\u4e45\u4fdd\u6e7f\u4e0d\u6613\u8131\u8272\uff0c\u6ecb\u6da6\u6e05\u723d\uff0c\u751c\u7f8e\u6da6\u5507\uff0c\u7ed9\u4f60\u60f3\u4e0d\u5230\u7684\u6ecb\u6da6\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"9.90","quan_jine":"1.00","xiaoliang":"10512","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"9990","jiage":"8.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u8865\u6c34\u4fdd\u6e7f\uff0c\u7d27\u81f4\u808c\u80a4\uff0c\u7537\u5973\u9002\u7528","tubiao":"0","id":"6247571","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1660116323\/TB2Bl.LdffM8KJjSZPfXXbklXXa_!!1660116323.jpg","d_title":"\u3010\u5343\u7ea4\u8349\u3011\u858f\u4ec1\u6c34\u7f8e\u767d\u4fdd\u6e7f\u723d\u80a4\u6c34500ml","title":"\u5343\u7ea4\u8349\u858f\u4ec1\u6c34\u723d\u80a4\u6c34500ml\u6536\u7f29\u6bdb\u5b54\u4fdd\u6e7f\u8865\u6c34\u55b7\u96fe\u63a7\u6cb9\u7cbe\u534e\u5316\u5986\u6c34\u5973","miaoshu":"\u8403\u53d6\u858f\u4ec1\u7cbe\u7cb9\uff0c\u6bdb\u5b54\u4fdd\u6e7f\uff0c\u8865\u6c34\u55b7\u96fe\uff0c\u63a7\u6cb9\u7cbe\u534e\uff0c\u67d4\u80a4\u8865\u6c34\u4fdd\u6e7f\uff0c\u7d27\u81f4\u808c\u80a4\uff0c\u7537\u5973\u9002\u7528\uff0c\u88c5\u55b7\u58f6\u91cc\u505a\u55b7\u96fe\uff0c\u65f6\u523b\u8865\u6c34\uff0c\u81ea\u7136\u539f\u6db2\uff0c\u6ef4\u6ef4\u539f\u6db2\uff0c\u4e0d\u505a\u8868\u9762\u529f\u592b","yuanjia":"29.90","quan_jine":"20.00","xiaoliang":"26738","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"29010","jiage":"9.90"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u9999\u751c\u8f6f\u7cef\uff0c\u5507\u9f7f\u7559\u9999\uff0c\u72ec\u7acb\u5c0f\u5305\u88c5\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6234365","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2859124588\/TB2729kc_lYBeNjSszcXXbwhFXa_!!2859124588.jpg","d_title":"\u3010\u83ab\u5c0f\u5e0c\u3011\u96ea\u8299\u9165\u725b\u8f67\u7cd6\u6c99\u742a\u739b3\u888b504g","title":"\u3010\u7b2c2\u4ef61\u5143\u7b2c3\u4ef60\u5143\u3011\u83ab\u5c0f\u5e0c\u96ea\u8299\u9165168g\u725b\u8f67\u6c99\u742a\u739b\u5976\u8299\u96f6\u98df\u5305\u90ae","miaoshu":"\u3010\u9650\u65f6\u7279\u4ef7\u3011\u5929\u732b\u65d7\u8230\u5e97\u54c1\u8d28\uff0c504g\u6c99\u742a\u739b\u5976\u8299\u8428\u8428\u7cd5\u70b9\uff0c\u65e0\u6dfb\u52a0\u9632\u8150\u5242\uff0c\u72ec\u7acb\u5c0f\u5305\u88c5\uff0c\u4fbf\u4e8e\u643a\u5e26\uff0c\u9999\u751c\u8f6f\u7cef\uff0c\u5507\u9f7f\u7559\u9999\uff01\u597d\u5403\u5065\u5eb7\uff0c\u65b0\u5305\u88c5\u65b0\u4f53\u9a8c\uff0c\u7f8e\u5473\u7684\u4e0d\u8981\u4e0d\u8981\u6ef4\uff01168g\/\u888b\uff0c\u4e0b\u5355\u62cd3\u4ef6\u54e6\uff01\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"26.80","quan_jine":"10.00","xiaoliang":"25428","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"99300","jiage":"16.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u8fdb\u53e3\u9999\u6599\uff0c\u9999\u6e2f\u6b63\u54c1\uff0c\u6e29\u548c\u65e0\u523a\u6fc0","tubiao":"0","id":"6196046","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2085695885\/TB2dMSad_TI8KJjSsphXXcFppXa_!!2085695885.png","d_title":"\u3010\u9047\u89c1\u9999\u82ac\u3011\u9999\u6e2f\u6b63\u54c1\u9999\u6c34\u6c90\u6d74\u9732750ML","title":"\u9047\u89c1\u9999\u82acCOCO\u6c90\u6d74\u9732\u6d17\u53d1\u6c34\u6d74\u5957\u88c5\u5973\u5b66\u751f\u8865\u6c34\u5bb6\u5ead\u88c5\u6301\u4e45\u7559\u9999\u975e\u7f8e\u767d","miaoshu":"\u9047\u89c1\u9999\u82ac\uff0c\u6b27\u6d32\u8fdb\u53e3\u9999\u6599\uff0c\u9999\u6e2f\u5546\u8d85\u54c1\u8d28\uff0c\u5165\u9a7b\u7ebf\u4e0b\u5404\u5927\u5546\u573a\uff0c\u6e29\u548c\u65e0\u523a\u6fc0\uff0c\u5927\u4eba\u3001\u5c0f\u5b69\u3001\u5b55\u5987\uff0c\u5747\u53ef\u4f7f\u7528\uff01\u6709\u6d3b\u52a8\uff0c\u6293\u7d27\u56e4\u8d27~","yuanjia":"34.80","quan_jine":"20.00","xiaoliang":"3614","huodong_type":"1","quan_time":"2018-03-19 23:59:59","quan_num":"29490","jiage":"14.80"},{"paiqi":"2018-03-19 00:00:00","new_words":"\u73af\u4fdd\u578b\uff0c\u7c98\u529b\u5f3a\uff0c\u4e0d\u4f24\u624b","tubiao":"0","id":"6195632","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1871117401\/TB2_FEKglcHL1JjSZJiXXcKcpXa_!!1871117401.jpg","d_title":"\u3010\u7c98\u529b\u8fbe\u3011\u6811\u8102\u5f3a\u529b\u9632\u6c34\u900f\u660e\u8f6f\u80f6\u978b\u80f6","title":"\u4e13\u7528\u8865\u978b\u80f6 \u7c98\u978b\u80f6\u6c34\u978b\u5382\u4e13\u7528 \u5f3a\u529b\u80f6\u9632\u6c34\u6cbe\u978b\u5b50\u76ae\u978b\u4fee\u978b\u5320\u8fd0\u52a8\u978b","miaoshu":"\u8f6f\u6027\u4e0d\u53d1\u786c,\u5f3a\u529b\u8865\u978b,\u7c98\u978b\u7528\u80f6,\u73af\u4fdd\u578b\uff0c\u7c98\u529b\u5f3a\uff0c\u4e0d\u4f24\u624b\uff0c\u9002\u7528\u5e7f\uff01","yuanjia":"8.80","quan_jine":"3.00","xiaoliang":"38903","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"19900","jiage":"5.80"}],"1908":[{"paiqi":"2018-03-19 08:00:00","new_words":"100%\u7eaf\u68c9\uff0c\u89e6\u611f\u8f7b\u67d4\uff0c\u5438\u6c57\u900f\u6c14","tubiao":"0","id":"6255842","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/878754353\/TB2qk5OeXuWBuNjSszbXXcS7FXa_!!878754353.jpg","d_title":"\u3010\u7ea2\u8c46\u3011\u5973100%\u7eaf\u68c9\u5973\u58eb\u5185\u88e44\u6761","title":"\u7ea2\u8c46\u5973\u58eb\u5185\u88e4\u5973\u7eaf\u68c9\u88c6\u4e2d\u8170\u5370\u82b1\u5927\u7801\u5168\u68c9\u8d28\u9762\u6599\u53ef\u7231\u5c11\u5973\u65e0\u75d5\u4e09\u89d2\u88e4","miaoshu":"\u7cbe\u9009\u8212\u9002\u68c9\u8d28100%\u7eaf\u68c9\uff0c\u89e6\u611f\u8f7b\u67d4\uff0c\u5438\u6c57\u900f\u6c14\uff0c\u5f39\u529b\u88e4\u8170\uff0c\u4eb2\u80a4\u4e0d\u52d2\u4eba\uff0c\u7ed9\u4f60\u6700\u8d34\u5fc3\u7684\u5475\u62a4\uff01\u591a\u6b3e\u53ef\u9009\uff01","yuanjia":"39.80","quan_jine":"5.00","xiaoliang":"3492","huodong_type":"3","quan_time":"2018-03-19 23:59:59","quan_num":"10000","jiage":"34.80"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u67d4\u8f6f\u4eb2\u80a4\uff0c\u8fd0\u52a8\u7248\u578b","tubiao":"0","id":"6252911","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2154413808\/TB2f.F3XTdYBeNkSmLyXXXfnVXa_!!2154413808.jpg","d_title":"\u3010\u6770\u745e\u4e50\u5496\u3011\u6625\u88c5\u65b0\u6b3e\u7537\u7ae5\u4f11\u95f2\u675f\u811a\u536b\u88e4","title":"\u6770\u745e\u4e50\u54962018\u6625\u88c5\u65b0\u6b3e\u7537\u7ae5\u4f11\u95f2\u536b\u88e4 \u513f\u7ae5\u88e4\u5b50\u7537\u675f\u811a\u8fd0\u52a8\u88e4\u957f\u88e4","miaoshu":"\u67d4\u8f6f\u4eb2\u80a4\uff0c\u8fd0\u52a8\u7248\u578b\uff0c\u590d\u53e4\u97f5\u5473\uff0c\u81ea\u7531\u6d3b\u6cfc\uff0c\u5b9a\u5236\u7f57\u7eb9\uff0c\u5de5\u827a\u7cbe\u6e5b\u3002","yuanjia":"59.00","quan_jine":"10.00","xiaoliang":"437","huodong_type":"2","quan_time":"2018-03-19 23:59:59","quan_num":"10000","jiage":"49.00"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u7eaf\u68c9\u6750\u8d28\uff0c\u5f39\u8f6f\u900f\u6c14\uff0c\u8212\u9002\u8d34\u8eab","tubiao":"0","id":"6249470","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1024204508\/TB22mz9XsjI8KJjSsppXXXbyVXa_!!1024204508.jpg","d_title":"\u3010\u5317\u6781\u7ed2\u3011\u7eaf\u68c9\u79cb\u8863\u79cb\u88e4\u60c5\u4fa3\u5957\u88c5","title":"\u5317\u6781\u7ed2\u7537\u58eb\u79cb\u8863\u79cb\u88e4\u7eaf\u68c9\u6bdb\u886b\u5973\u58eb\u8584\u6b3e\u4fdd\u6696\u5185\u8863\u52a0\u5927\u7801\u6253\u5e95\u60c5\u4fa3\u5957\u88c5","miaoshu":"\u7eaf\u68c9\u4fdd\u6696\u5185\u8863\u5957\u88c5\uff0c\u4e13\u4e1a\u8d28\u68c0\u7eaf\u68c9\u6750\u8d28\uff0c\u5f39\u8f6f\u900f\u6c14\uff0c\u8212\u9002\u8d34\u8eab\uff0c\u4eb2\u80a4\u66f4\u8f7b\u677e\uff0c\u592b\u59bb\u60c5\u4fa3\u6b3e\uff0c\u8ba9\u7a7f\u8863\u4e0d\u518d\u81c3\u80bf\uff01","yuanjia":"29.80","quan_jine":"5.00","xiaoliang":"31446","huodong_type":"2","quan_time":"2018-03-25 23:59:59","quan_num":"100000","jiage":"24.80"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u6301\u4e45\u7559\u9999\uff0c\u6ecb\u6da6\u808c\u80a4\uff0c\u8865\u6c34\u4fdd\u6e7f\uff0c\u6539\u5584\u80a4\u8d28","tubiao":"0","id":"6204728","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/376078138\/TB2ilVRjKEJL1JjSZFGXXa6OXXa_!!376078138.jpg","d_title":"\u3010\u4e1c\u65b9\u5b9d\u77f3\u3011\u6301\u4e45\u7559\u9999\u4fdd\u6e7f\u6ecb\u6da6\u6c90\u6d74\u9732","title":"\u4e1c\u65b9\u5b9d\u77f3\u6c90\u6d74\u9732\u6301\u4e45\u7559\u9999\u4fdd\u6e7f\u6ecb\u6da6\u6c90\u6d74\u4e73\u6db2\u5bb6\u5ead\u88c5\u7537\u5973\u610f\u5927\u5229\u8fdb\u53e3","miaoshu":"\u5929\u7136\u8fdb\u53e3\uff0c\u6301\u4e45\u7559\u9999\uff0c\u6ecb\u6da6\u808c\u80a4\uff0c\u8865\u6c34\u4fdd\u6e7f\uff0c\u6539\u5584\u80a4\u8d28\u3002\u808c\u80a4\u4ece\u6b64\u9999\uff0c\u6da6\uff0c\u6ed1\u3002","yuanjia":"29.00","quan_jine":"10.00","xiaoliang":"20681","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"19993","jiage":"19.00"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u6c14\u8d28\u4f18\u96c5\uff0c\u906e\u9633\u907f\u7f72","tubiao":"0","id":"6255662","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1yRq8IVXXXXbpXpXXXXXXXXXX_!!0-item_pic.jpg","d_title":"\u65f6\u5c1a\u592a\u9633\u5e3d\u906e\u9633\u5e3d\u53ef\u6298\u53e0\u5927\u6a90\u8349\u5e3d","title":"\u5e3d\u5b50\u5973\u590f\u5929\u6d77\u6ee9\u5ea6\u5047\u5927\u6a90\u8349\u5e3d\u53ef\u6298\u53e0\u65f6\u5c1a\u767e\u642d\u6c99\u6ee9\u9632\u6652\u592a\u9633\u5e3d\u906e\u9633\u5e3d","miaoshu":"\u5927\u8fb9\u5e3d\u6a90\uff0c\u8774\u8776\u7ed3\u98d8\u5e26\uff0c\u6c14\u8d28\u4f18\u96c5\uff0c\u906e\u9633\u907f\u7f72\uff0c\u591a\u8272\u53ef\u9009\uff0c\u5916\u51fa\u5fc5\u5907\u795e\u5668\uff0c\u4eca\u5e74\u65b0\u65f6\u5c1a\u3002","yuanjia":"29.90","quan_jine":"10.00","xiaoliang":"3772","huodong_type":"1","quan_time":"2018-03-23 23:59:59","quan_num":"5000","jiage":"19.90"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u8d85\u5927\u5bb9\u91cf\uff0c\u9632\u6454\u89d2\u4fdd\u62a4","tubiao":"0","id":"6251642","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2104979870\/TB2oiGobhWYBuNjy1zkXXXGGpXa-2104979870.jpg","d_title":"\u82f9\u679c6S\/7\/8\u80cc\u5939\u5145\u7535\u5b9d\u624b\u673a\u58f3","title":"\u82f9\u679c6s\/7P\u80cc\u5939\u5145\u7535\u5b9d2\u4e07\u6beb\u5b89 iphone7\/8\u7535\u6c60\u4e13\u75286plus\u624b\u673a\u58f3\u8d85\u8584","miaoshu":"\u5305\u88c5\u7cbe\u81f4\uff0c\u65b9\u4fbf\u643a\u5e26\uff0c\u624b\u611f\u6781\u4f73\uff0c\u8f7b\u8584\u65e0\u4e0b\u5df4\uff0c\u8d85\u5927\u5bb9\u91cf\uff0c\u9632\u6454\u89d2\u4fdd\u62a4\uff0c\u5929\u732b\u6b63\u54c1\uff0c\u54c1\u8d28\u4fdd\u8bc1","yuanjia":"108.90","quan_jine":"80.00","xiaoliang":"5939","huodong_type":"1","quan_time":"2018-03-23 23:59:59","quan_num":"9910","jiage":"28.90"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u65f6\u5c1a\u767e\u5854\uff0c\u6e05\u723d\u8212\u9002\uff0c\u8010\u78e8\u8010\u810f\uff0c\u591a\u8272\u53ef\u9009","tubiao":"0","id":"6251573","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/3077343071\/TB2vw73hY0kpuFjy0FjXXcBbVXa_!!3077343071.jpg","d_title":"\u3010\u73d1\u8431\u3011\u590f\u5b63\u5973\u77ed\u88e4\u5bbd\u677e\u8fd0\u52a8\u9614\u817f\u88e4","title":"\u5973\u77ed\u88e4\u590f\u5b63\u4fee\u8eab\u97e9\u7248\u5bbd\u677e\u5916\u7a7f\u8fd0\u52a8\u5c45\u5bb6\u4f11\u95f2\u88e4\u5b50\u677e\u7d27\u8170\u9614\u817f\u5927\u7801\u70ed\u88e4","miaoshu":"\u65b0\u6b3e\u5c0f\u70ed\u88e4\uff0c\u65f6\u5c1a\u767e\u5854\uff0c\u6e05\u723d\u8212\u9002\uff0c\u8010\u78e8\u8010\u810f\u4e0d\u892a\u8272\uff0c\u591a\u8272\u53ef\u9009\uff0c\u8fd0\u52a8\u5c45\u5bb6\u7684\u597d\u9009\u62e9\u3010\u590f\u5b63\u5fc5\u5907\u3011","yuanjia":"19.80","quan_jine":"5.00","xiaoliang":"235","huodong_type":"1","quan_time":"2018-03-23 23:59:59","quan_num":"20000","jiage":"14.80"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u7528\u5fc3\u9009\u6599\uff0c\u7cbe\u5fc3\u5236\u4f5c\uff0c\u7f8e\u5473\u8425\u517b\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6242108","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2596602764\/TB2rAO6aGLN8KJjSZFGXXbjrVXa_!!2596602764.jpg","d_title":"\u3010\u91d1\u9523\u4f18\u7ea7\u3011\u91d1\u9523\u738b\u4e2d\u738b400g*3\u888b","title":"\u4f18\u7ea7\u91d1\u9523\u706b\u817f\u80a0\u91d1\u9523\u738b\u4e2d\u738b400g*3\u888b \u9999\u80a0\u914d\u65b9\u4fbf\u9762\u96f6\u98df\u5c0f\u5403","miaoshu":"\u91d1\u9523\u4f18\u7ea7\uff0c\u65b0\u65e5\u671f\u7f8e\u5473\u8425\u517b\uff0c\u7528\u5fc3\u9009\u6599\u7cbe\u5fc3\u5236\u4f5c\uff0c\u968f\u5fc3\u642d\u914d\u591a\u91cd\u5403\u6cd5\uff0c\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"38.80","quan_jine":"10.00","xiaoliang":"129","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"28.80"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u65f6\u5c1a\u767e\u642d\uff0c\u7acb\u4f53\u6709\u578b","tubiao":"0","id":"6239918","pic":"https:\/\/gd2.alicdn.com\/imgextra\/i2\/341393797\/TB2y.WycJhvOuFjSZFBXXcZgFXa_!!341393797.jpg","d_title":"\u97e9\u7248\u523a\u7ee3\u6811\u53f6\u68d2\u7403\u9e2d\u820c\u5e3d\u563b\u54c8\u5e3d\u5b50\u6f6e\u4eba\u7537\u5973","title":"\u97e9\u7248\u523a\u7ee3\u6811\u53f6\u68d2\u7403\u5e3d\u767e\u642d\u9ed1\u8272\u563b\u54c8\u5e3d\u5b50\u6f6e\u4eba\u7537\u5973\u58eb\u590f\u5929\u906e\u9633\u5e3d\u9e2d\u820c\u5e3d","miaoshu":"\u6811\u53f6\u523a\u7ee3\uff0c\u5e05\u6c14\u8857\u62cd\uff0c\u7537\u5973\u901a\u7528\uff0c\u65f6\u5c1a\u767e\u642d\uff0c\u7acb\u4f53\u6709\u578b\uff0c\u53ef\u81ea\u7531\u8c03\u8282\u5e3d\u56f4\uff0c\u9ed1\u767d\u53cc\u8272\u53ef\u9009\uff0c\u6f6e\u7537\u6f6e\u5973\u5fc5\u5165\uff0c\u4f60\u503c\u5f97\u62e5\u6709~~","yuanjia":"15.00","quan_jine":"5.00","xiaoliang":"1254","huodong_type":"1","quan_time":"2018-03-26 23:59:59","quan_num":"20000","jiage":"10.00"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u690d\u7269\u7cbe\u534e\uff0c\u4e2d\u6027\u65e0\u6cea\u914d\u65b9\uff0c\u4e13\u4e3a\u513f\u7ae5\u7814\u5236","tubiao":"0","id":"6239555","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/578160524\/TB2.DNgcgaTBuNjSszfXXXgfpXa_!!578160524.png","d_title":"\u3010\u52a0\u83f2\u732b\u3011\u5a74\u513f\u4e8c\u5408\u4e00\u6d17\u53d1\u6c90\u6d74\u9732300g","title":"\u52a0\u83f2\u732b\u5a74\u513f\u6c90\u6d74\u9732\u4e8c\u5408\u4e00\u5b9d\u5b9d\u6c90\u6d74\u4e732\u54081\u65b0\u751f\u513f\u6d17\u53d1\u6c34\u513f\u7ae5\u6d17\u62a4\u6b63\u54c1","miaoshu":"\u4e2d\u6027\u65e0\u6cea\u914d\u65b9\uff0c\u4e0d\u635f\u4f24\u773c\u775b\uff0c\u690d\u7269\u7cbe\u534e\uff0c\u4e0d\u542b\u4eba\u5de5\u9999\u7cbe\uff0c\u6ecb\u517b\u5ae9\u80a4\uff0c\u67d4\u987a\u5065\u5eb7\uff0c\u878d\u5408\u6d17\u53d1\u6c90\u6d74\u53cc\u91cd\u529f\u6548\uff0c\u808c\u80a4\u67d4\u5ae9\u7ec6\u6ed1\uff0c\u4e13\u4e3a\u513f\u7ae5\u7cbe\u5fc3\u7814\u5236~","yuanjia":"28.80","quan_jine":"15.00","xiaoliang":"691","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"13.80"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u795b\u9ec4\u795b\u6e0d\uff0c\u6301\u4e45\u6e05\u65b0\u53e3\u6c14","tubiao":"0","id":"6233924","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3010514956\/TB2v1O6l46I8KJjSszfXXaZVXXa_!!3010514956.jpg","d_title":"\u3010\u8212\u6bd4\u62d3\u65d7\u8230\u5e97\u3011\u8fdb\u53e3\u6309\u538b\u5f0f\u7259\u818f250g","title":"\u8212\u6bd4\u62d3 \u8fdb\u53e3\u6309\u538b\u5f0f\u7259\u818f \u7f8e\u767d\u53bb\u53e3\u81ed\u53bb\u7259\u6e0d\u6e05\u65b0\u53e3\u6c14\u6210\u4eba\u7259\u818f\u5305\u90ae","miaoshu":"\u8212\u6bd4\u62d3\u8fdb\u53e3\u5927\u724c\uff0c\u4e13\u7814\u53e3\u8154\u5065\u5eb756\u5e74\uff0c\u52b2\u767d\u7259\u9f7f\uff0c\u795b\u9ec4\u795b\u6e0d\uff0c\u6301\u4e45\u6e05\u65b0\u53e3\u6c14\uff0c\u5929\u5929\u7f8e\u767d\uff01\u52b2\u7206\u5927\u5bb9\u91cf250g\/\u8d85\u503c\u4fbf\u5b9c\uff0c1\u652f\u76f8\u5f53\u4e8e\u666e\u901a\u7259\u818f3\u652f\uff0c1\u74f6\u8db3\u591f\u75283\u4e2a\u6708\uff01","yuanjia":"39.90","quan_jine":"20.00","xiaoliang":"10509","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"20000","jiage":"19.90"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u9759\u7535\u5438\u9644\uff0c\u4f7f\u7528\u65b9\u4fbf\uff0c\u53ef\u6298\u53e0\u6536\u7eb3","tubiao":"0","id":"6231716","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1950213856\/TB2LSFknwFkpuFjSspnXXb4qFXa_!!1950213856.jpg","d_title":"\u8f66\u592a\u6c7d\u8f66\u906e\u9633\u677f\u9632\u6652\u9694\u70ed\u906e\u9633\u6321","title":"\u6c7d\u8f66\u906e\u9633\u677f\u9632\u6652\u9694\u70ed\u906e\u9633\u6321\u524d\u6321\u4fa7\u7a97\u7f51\u7eb1\u9759\u7535\u8d34\u8f66\u7a97\u906e\u9633\u5e18\u6c7d\u8f66\u7528\u54c1","miaoshu":"18\u6700\u65b0\u6b3e\u906e\u9633\u6863\uff0c\u9759\u7535\u5438\u9644\uff0c\u4f7f\u7528\u65b9\u4fbf\uff0c\u53ef\u6298\u53e0\u6536\u7eb3\u3002\u590f\u5b63\u907f\u514d\u5f3a\u70c8\u9633\u5149\u523a\u6fc0\uff0c\u907f\u514d\u8f66\u5185\u6e29\u5ea6\u8fc7\u9ad8\uff0c\u907f\u514d\u8f66\u5185\u9970\u54c1\u8001\u5316\uff01","yuanjia":"16.80","quan_jine":"10.00","xiaoliang":"3057","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"9800","jiage":"6.80"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u81ea\u5e26\u4e50\u666e\uff0c\u81ea\u7531\u7ec4\u88c5\uff0c\u8d28\u91cf\u53ef\u9760","tubiao":"0","id":"6198938","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2698336233\/TB2EdLtq80kpuFjSsppXXcGTXXa_!!2698336233.jpg","d_title":"\u3010\u4fcf\u5a03\u65d7\u8230\u5e97\u3011\u513f\u7ae5\u67b6\u5b50\u9f13\u97f3\u4e50\u73a9\u5177\u6253\u51fb\u4e50\u5668","title":"\u4fcf\u5a03\u5b9d\u8d1d\u513f\u7ae5\u67b6\u5b50\u9f13\u7235\u58eb\u9f13\u97f3\u4e50\u73a9\u5177\u6253\u51fb\u4e50\u5668\u7537\u5b9d\u5b9d\u65e9\u6559\u76ca\u667a3-6\u5c811","miaoshu":"\u3010\u4fcf\u5a03\u5b9d\u8d1d\u30115\u9f13\u4e00\u9572\u7ec4\u5408\uff0cpvc\u52a0\u539a\u53cc\u9762\u9f13\u819c\uff0c\u81ea\u5e26\u4e50\u666e\uff0c\u81ea\u7531\u7ec4\u88c5\uff0c\u590d\u5408\u538b\u819c\uff0c\u8d28\u91cf\u53ef\u9760\uff0c\u7ec4\u88c5\u7b80\u5355\uff0c\u968f\u610f\u73a9\u800d\u3002","yuanjia":"58.00","quan_jine":"10.00","xiaoliang":"5162","huodong_type":"1","quan_time":"2018-03-23 23:59:59","quan_num":"20000","jiage":"48.00"},{"paiqi":"2018-03-19 08:00:00","new_words":"\u539f\u88c5\u8fdb\u53e3\uff0c\u7eaf\u68c9\u6750\u8d28\uff0c0\u6dfb\u52a0\u4e0d\u81f4\u654f","tubiao":"0","id":"6191837","pic":"http:\/\/img.alicdn.com\/imgextra\/i3\/2841149202\/TB2pychbmtkpuFjy0FhXXXQzFXa_!!2841149202.jpg","d_title":"\u3010\u5a1c\u65e5\u8212\u3011\u539f\u88c5\u8fdb\u53e3\u65e0\u8367\u5149\u5242\u59e8\u5988\u5dfe7\u76d2","title":"NARSIA\/\u5a1c\u65e5\u8212\u97e9\u56fd\u8fdb\u53e3\u65e0\u8367\u5149\u5242\u536b\u751f\u5dfe\u6279\u53d1\u65e5\u591c\u7528\u7ec4\u5408\u88c5\u59e8\u5988\u5dfe7\u76d2","miaoshu":"\u539f\u88c5\u8fdb\u53e3\uff0c\u8d85\u503c7\u76d2\u88c5\u3002\u7eaf\u68c9\u6750\u8d28\uff0c0\u6dfb\u52a0\u4e0d\u81f4\u654f\uff0c\u6e05\u723d\u4e0d\u9ecf\u817b\uff0c\u597d\u7528\u5230\u5e7f\u544a\u6cd5\u4e0d\u8ba9\u5f62\u5bb9\uff0c\u5973\u795e\u4e13\u5c5e\u5fa1\u7528~","yuanjia":"99.90","quan_jine":"60.00","xiaoliang":"6697","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"9995","jiage":"39.90"}],"1910":[{"paiqi":"2018-03-19 10:00:00","new_words":"\u5438\u6e7f\u6392\u6c57\uff0c\u67d4\u8f6f\u900f\u6c14\uff0c\u8f7b\u76c8\u7f13\u9707","tubiao":"0","id":"6255221","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/349740505\/TB2kvHvmDnI8KJjSszbXXb4KFXa_!!349740505.jpg","d_title":"\u3010\u9e3f\u661f\u5c14\u514b\u3011\u6625\u5b63\u7537\u5973\u7efc\u5408\u8bad\u7ec3\u8fd0\u52a8\u8dd1\u978b","title":"\u9e3f\u661f\u5c14\u514b\u5b98\u65b92018\u6625\u5b63\u65b0\u6b3e\u7537\u978b\u5973\u978b\u8dd1\u6b65\u978b\u7efc\u5408\u8bad\u7ec3\u8fd0\u52a8\u978b\u7537\u5973\u8dd1\u978b","miaoshu":"\u9e3f\u661f\u5c14\u514b\u5927\u54c1\u724c\uff0c\u901f\u5e72\u6280\u672f\u5438\u6e7f\u6392\u6c57\uff0c\u9632\u6c61\u6297\u6c61\uff0c\u8212\u9002\u978b\u5185\u91cc\u67d4\u8f6f\u900f\u6c14\uff0c\u4e2d\u5e95\u6750\u6599\u8f7b\u76c8\u7f13\u9707\uff0c\u8ba9\u811a\u90e8\u4fdd\u6301\u5e72\u723d\uff0c\u8fd0\u52a8\u66f4\u81ea\u5982\u3002","yuanjia":"159.00","quan_jine":"20.00","xiaoliang":"5486","huodong_type":"3","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"139.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u6df1\u5ea6\u6d01\u51c0\uff0c\u9192\u80a4\u8865\u6c34\uff0c\u7115\u6d3b\u4fdd\u6e7f\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6253430","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/804608843\/TB2gIqseXuWBuNjSszbXXcS7FXa_!!804608843.jpg","d_title":"\u3010\u5927\u5b9d\u3011\u7537\u58eb\u63a7\u6cb9\u7115\u6d3b\u8865\u6c34\u4fdd\u6e7f3\u4ef6\u5957","title":"\u5927\u5b9d\u7537\u58eb\u6d17\u9762\u5976\u62a4\u80a4\u54c1\u5957\u88c5\u8865\u6c34\u4fdd\u6e7f\u63a7\u6cb9\u723d\u80a4\u6c34\u4e73\u6db2\u5316\u5986\u54c1\u5957\u88c5\u7537\u751f","miaoshu":"\u4e70\u5c31\u9001\u6d01\u9762\u818f\u4e00\u652f\uff0c\u5927\u5b9d\u5173\u7231\u770b\u5f97\u89c1\uff0c\u4fdd\u6e7f\u6d01\u9762\u5496\u55b1+\u9192\u80a4\u6c34+\u6d3b\u80a4\u9732\u4e09\u4ef6\u5957\uff0c\u56fd\u6c11\u7ecf\u5178\uff0c\u6df1\u5ea6\u6d01\u51c0\uff0c\u9192\u80a4\u8865\u6c34\uff0c\u7115\u6d3b\u4fdd\u6e7f\uff0c\u8d60\u8fd0\u8d39\u9669\uff01","yuanjia":"89.90","quan_jine":"30.00","xiaoliang":"3546","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"20000","jiage":"59.90"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u3010\u62cd3\u4ef6\u5171240g\u3011","tubiao":"0","id":"6253325","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1060731704\/TB2PcFTjDnI8KJjSszbXXb4KFXa_!!1060731704.jpg","d_title":"\u3010\u661f\u4ed4\u5c9b\u3011\u5373\u98df\u9ec4\u9c7c\u9165\u9c7c\u5e72\u62cd3\u4ef6\u5171240g","title":"\u661f\u4ed4\u5c9b\u9ec4\u9c7c\u9165\u5e72\u9999\u9165\u5c0f\u9ec4\u9c7c\u9c7c\u5e72\u5373\u98df\u96f6\u98df\u5c0f\u9c7c\u4ed4\u6d77\u9c9c\u6c34\u4ea7\u5e72\u8d27\u6ee1\u5305\u90ae","miaoshu":"\u3010\u62cd3\u4ef6\u5171240g\u3011\u3010\u5434\u5b5f\u8fbe\u4ee3\u8a00\u3011\u9165\u82e5\u65e0\u9aa8\u7684\u9c7c\u4ed4\uff0c\u9c7c\u9999\u56db\u6ea2\uff0c\u6df1\u6d77\u91ce\u751f\u5c0f\u9ec4\u9c7c\uff0c\u770b\u770b\u5c31\u60f3\u5403\uff01~","yuanjia":"29.90","quan_jine":"5.00","xiaoliang":"28502","huodong_type":"3","quan_time":"2018-03-20 23:59:59","quan_num":"10000","jiage":"24.90"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u8574\u542b\u5341\u500d\u6c34\u7cbe\u534e\uff0c\u4e3a\u808c\u80a4\u8865\u5145\u6c34\u5206","tubiao":"0","id":"6248294","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/647714043\/TB26JMJf3MPMeJjy1XbXXcwxVXa_!!647714043.jpg","d_title":"beely\u65d7\u8230\u5e97 \u82a6\u835f\u6d77\u85fb\u4fdd\u6e7f\u9762\u819c16\u7247","title":"BEELY\u82a6\u835f\u6d77\u85fb\u8865\u6c34\u9501\u6c34\u9762\u819c\u8d34\u500d\u6c34\u6da6 \u4fdd\u6e7f\u63a7\u6cb9\u6536\u7f29\u7d27\u81f4\u6bdb\u5b54\u514d\u6d17\u6b3e","miaoshu":"\u8574\u542b\u9ad8\u4e8e\u672c\u8eab\u5341\u500d\u7684\u6c34\u7cbe\u534e\uff0c\u8fc5\u901f\u4e3a\u808c\u80a4\u8865\u5145\u6c34\u5206\u3002\u5f25\u6f2b\u7740\u6de1\u6de1\u7684\u9999\u6c1b\uff0c\u8ba9\u4eba\u653e\u677e\u3002\u6577\u4e8e\u9762\u90e8\u65f6\u5b9b\u82e5\u65e0\u7269\uff0c\u690d\u7269\u62a4\u80a4\u9009beely~","yuanjia":"29.00","quan_jine":"10.00","xiaoliang":"7720","huodong_type":"3","quan_time":"2018-03-21 23:59:59","quan_num":"20000","jiage":"19.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6245657","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2468637192\/TB2y8_CdxSYBuNjSspjXXX73VXa_!!2468637192.jpg","d_title":"\u3010\u7bad\u724c\u3011\u5168\u94dc\u6dcb\u6d74\u82b1\u6d12\u5957\u88c5","title":"\u7bad\u724c\u536b\u6d74 \u6dcb\u6d74\u82b1\u6d12\u5957\u88c5 \u5168\u94dc\u9f99\u5934\u6dcb\u6d74\u5668\u6052\u6e29\u82b1\u6d12\u6c90\u6d74\u6dcb\u96e8\u55b7\u5934\u5957\u88c5","miaoshu":"\u3010\u6b63\u54c1\u4fdd\u8bc1\u3011\u540d\u724c\u536b\u6d74\uff0c\u5168\u94dc\u4e3b\u4f53\uff0c\u7535\u55b7\u4e94\u529f\u80fd\uff0c304\u4e0d\u9508\u94a2\u6dcb\u6d74\u7ba1\uff0cABC\u4f18\u8d28\u9876\u55b7\uff0cABC\u4f18\u8d28\u9876\u55b7\uff0cABC\u4f18\u8d28\u55b7\u67aa\uff0c\u65b0\u5347\u7ea7\uff0c\u56db\u6863\u7545\u4eab\u6dcb\u6d74\uff0c\u9ad8\u989c\u503c\u9ad8\u54c1\u8d28\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"599.00","quan_jine":"150.00","xiaoliang":"3727","huodong_type":"3","quan_time":"2018-03-21 23:59:59","quan_num":"3000","jiage":"449.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u5929\u7136\u5f31\u78b1\u6027\uff0c\u5bcc\u542b\u591a\u79cd\u77ff\u7269\u8d28\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6241988","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2510084801\/TB2KAQJdhPI8KJjSspoXXX6MFXa_!!2510084801.jpg","d_title":"\u3010\u5929\u5730\u7cbe\u534e\u3011\u77ff\u6cc9\u6c34550ml*20\u74f6\u6574\u7bb1","title":"\u5929\u5730\u7cbe\u534e\u5929\u7136\u77ff\u6cc9\u6c34\u5c0f\u74f6550ml*20\u74f6\u5f31\u78b1\u6027\u6c34\u996e\u7528\u6c34PK\u7eaf\u51c0\u6c34\u6574\u7bb1","miaoshu":"\u5929\u5730\u7cbe\u534e\u77ff\u6cc9\u6c34\uff0c\u5929\u7136\u5f31\u78b1\u6027\uff0c\u6765\u81ea\u957f\u5bff\u6751\uff0c\u5bcc\u542b\u591a\u79cd\u77ff\u7269\u8d28\uff0c\u62e5\u6709\u56fd\u5bb6\u91c7\u77ff\u8bc1\u7684\u771f\u77ff\u6cc9\uff0c\u901a\u8fc7\u7eff\u8272\u5b89\u5168\u8ba4\u8bc1\uff0c\u627f\u8bfa\u4e0d\u4f7f\u7528\u4e00\u6ef4\u5730\u8868\u6c34\u3002550ml*20\u74f6*\u6574\u7bb1\uff0c\u8d60\u8fd0\u8d39\u9669","yuanjia":"34.90","quan_jine":"10.00","xiaoliang":"12511","huodong_type":"3","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"24.90"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u5929\u7136\u690d\u7269\u9999\u6599\uff0c\u65e0\u9152\u7cbe\u6dfb\u52a0\uff0c\u5b89\u5168\u65e0\u523a\u6fc0","tubiao":"0","id":"6231491","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/775499732\/TB2yTqMcyERMeJjy0FcXXc7opXa_!!775499732.jpg","d_title":"\u53e4\u9f99\u9999\u85b0\u8f66\u7528\u8f66\u5185\u9999\u6c34\u74f6\u9664\u5f02\u5473","title":"\u9999\u767e\u5e74\u8f66\u8f7d\u9999\u6c34\u6446\u4ef6\u6c7d\u8f66\u7528\u5ea7\u5f0f\u53e4\u9f99\u9ad8\u6863\u8f66\u5185\u7537\u9970\u54c1\u6301\u4e45\u6de1\u9999\u9664\u5f02\u5473","miaoshu":"\u674e\u6668\u5f81\u670d\u5973\u795e\u7528\u7684\u4ec0\u4e48\u9999\u6c34\uff1a\u5347\u7ea7\u7248\u9999\u767e\u5e74\u5927\u5bb9\u91cf\u8f66\u7528\u9999\u6c34\u56fd\u8fdb\u53e3\u5929\u7136\u690d\u7269\u9999\u6599\uff0c\u65e0\u9152\u7cbe\u6dfb\u52a0\uff0c\u5b89\u5168\u65e0\u523a\u6fc0\u5bb6\u8f66\u4e24\u7528\u9999\u6c34\u5ea7\uff0c\u5b55\u5987\uff0c\u513f\u7ae5\u90fd\u53ef\u4ee5\u4f7f\u7528\u3002","yuanjia":"62.00","quan_jine":"25.00","xiaoliang":"7385","huodong_type":"3","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"37.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u3010\u7b2c2\u652f5\u5143\u3011","tubiao":"0","id":"6219326","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/1578624441\/TB2BCBKab9GJuJjSZFNXXaIkXXa_!!1578624441.jpg","d_title":"\u3010\u5de7\u8fea\u5c1a\u60e0\u65d7\u8230\u5e97\u3011\u76c8\u5f69\u9b45\u60d1\u5507\u818f \u7b2c2\u652f5\u5143","title":"\u5de7\u8fea\u5c1a\u60e0\u53e3\u7ea2\u6301\u4e45\u4fdd\u6e7f\u4e0d\u8131\u8272\u54ac\u5507\u5986\u5b66\u751f\u6b3e\u6ecb\u6da6\u59e8\u5988\u6a58\u8272\u5507\u818f\u6b63\u54c1","miaoshu":"\u3010\u7b2c2\u652f5\u5143\u3011\u62cd2\u652f\u53ea\u898118\u5143\u3002\u9632\u6c34\u4e0d\u6cbe\u676f\uff0c\u4e0d\u8131\u8272\uff0c\u6c34\u5ae9\u4e1d\u6ed1\u6ecb\u517b\uff0c\u8ba9\u53cc\u5507\u4e00\u6574\u5929\u5a07\u5ae9\u6b32\u6ef4\uff0c\u8ba9\u7537\u795e\u4e00\u6574\u5929\u5fc3\u733f\u610f\u9a6c~~\u591a\u8272\u53ef\u9009\uff0c\u5973\u795e\u5fc5\u5907\uff01\u7ebf\u4e0b\u4e13\u67dc48\u5143\u540c\u6b65\u70ed\u9500\u3002","yuanjia":"18.00","quan_jine":"5.00","xiaoliang":"18152","huodong_type":"3","quan_time":"2018-03-21 23:59:59","quan_num":"100000","jiage":"13.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u4eb2\u80a4\u67d4\u68c9\uff0c\u8212\u9002\u6297\u8d77\u7403\u3010\u4e70\u4e00\u9001\u4e00\u3011","tubiao":"0","id":"6203372","pic":"http:\/\/img.alicdn.com\/imgextra\/i3\/TB1QuiGPFXXXXbCXVXXXXXXXXXX_!!0-item_pic.jpg","d_title":"\u3010\u9038\u83b2\u3011\u5149\u6cfd\u6253\u5e95\u88e4\u5916\u7a7f\u8584\u6b3e\u5973\u88e42\u6761","title":"\u8584\u6b3e\u5149\u6cfd\u88e4\u6253\u5e95\u88e4\u5973\u5916\u7a7f\u8e29\u811a\u52a0\u539a\u52a0\u7ed2\u9ed1\u9ad8\u8170\u6625\u79cb\u51ac\u5b632018\u65b0\u6b3e\u88e4\u5b50","miaoshu":"\u3010\u805a\u5212\u7b97\u62a2\u8d2d\u3011\u9ad8\u8170\u8e29\u811a\u8584\u6b3e\u5149\u6cfd\u88e4\uff0c\u4e0d\u7c98\u6bdb\uff0c\u4e0d\u53d1\u7ebf\uff0c\u9ad8\u5f39\u529b\u3002\u4eb2\u80a4\u67d4\u68c9\uff0c\u8212\u9002\u6297\u8d77\u7403\uff0c\u591a\u79cd\u539a\u5ea6\uff0c\u8fde\u889c\u8e29\u811a\uff0c\u5b9e\u7528\u767e\u642d\uff0c\u4f60\u7684\u7f8e\u4f60\u505a\u4e3b\uff01","yuanjia":"32.00","quan_jine":"5.00","xiaoliang":"20037","huodong_type":"3","quan_time":"2018-03-22 23:59:59","quan_num":"10000","jiage":"27.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u3010\u4e13\u67dc\u540c\u6b3e\uff0c\u54c1\u724c\u7ae5\u978b\u3011\u7a7f\u8131\u4fbf\u6377\uff0c\u8f7b\u4fbf\u6709\u5f39\u529b","tubiao":"1","id":"6260474","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1848876123\/TB2KPt9eDJYBeNjy1zeXXahzVXa_!!1848876123.jpg","d_title":"\u3010\u6728\u6728\u5c4b\u65d7\u8230\u5e97\u3011\u6625\u65b0\u6b3e\u513f\u7ae5\u6bdb\u6bdb\u866b\u7ae5\u978b","title":"\u6728\u6728\u5c4b\u513f\u7ae5\u6bdb\u6bdb\u866b\u978b\u7537\u7ae5\u8fd0\u52a8\u978b\u5973\u7ae5\u5355\u978b2018\u6625\u5b63\u65b0\u6b3e\u4e2d\u5927\u7ae5\u8dd1\u978b\u6f6e","miaoshu":"\u3010\u4e13\u67dc\u540c\u6b3e\uff0c\u5168\u7f51\u9500\u91cf\u7b2c\u4e00\u7ae5\u978b\u54c1\u724c\u3011\u8212\u9002\u5185\u91cc\uff0c\u67d4\u8f6f\u6613\u5f2f\u66f2\uff0c\u52a9\u529b\u5b9d\u5b9d\u53d1\u80b2\uff0c\u7a7f\u8131\u4fbf\u6377\uff0c\u8f7b\u4fbf\u6709\u5f39\u529b\uff0c\u591a\u8272\u53ef\u9009\uff0c\u5988\u5988\u5171\u540c\u7684\u9009\u62e9~","yuanjia":"69.00","quan_jine":"20.00","xiaoliang":"8453","huodong_type":"2","quan_time":"2018-03-21 23:59:59","quan_num":"30000","jiage":"49.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u6536\u7f29\u6bdb\u5b54\uff0c\u63a7\u6cb9\u51c0\u989c\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6224156","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1603692347\/TB2RbUwaPgy_uJjSZR0XXaK5pXa_!!1603692347.jpg","d_title":"\u3010\u6e29\u78a7\u6cc9\u3011\u900f\u82af\u51c0\u63a7\u6cb9\u6d01\u9762\u4e73120g","title":"\u6e29\u78a7\u6cc9\u6d17\u9762\u5976\u5973\u7537\u6536\u7f29\u6bdb\u5b54\u5b66\u751f\u8865\u6c34\u4fdd\u6e7f\u6e05\u6d01\u6ce1\u6cab\u6d01\u9762\u4e73\u4e0d\u7d27\u7ef7\u6b63\u54c1","miaoshu":"\u544a\u522b\u75d8\u75d8\u808c\uff01\u56fd\u9645\u5de8\u661f\u5218\u4ea6\u83f2\u63a8\u8350\uff0c\u6536\u7f29\u6bdb\u5b54\uff0c\u63a7\u6cb9\u51c0\u989c\uff0c\u4e24\u6b3e\u53ef\u9009\uff0c\u65f6\u523b\u4fdd\u6301\u4e1d\u6ed1\u6c34\u5ae9\u76ae\u80a4\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"29.90","quan_jine":"20.00","xiaoliang":"15252","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"60000","jiage":"9.90"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u9ad8\u4fdd\u771f\u5168\u9891\u5587\u53ed\uff0c\u9707\u64bc\u52b2\u7206\u4f4e\u97f3\uff0c30\u5929\u4e0d\u6ee1\u610f\u5305\u9000\u6362","tubiao":"0","id":"6261812","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1638199451\/TB2deyHXZnI8KJjSspeXXcwIpXa_!!1638199451.png","d_title":"\u3010\u65b0\u79d1\u3011\u53f0\u5f0f\u591a\u5a92\u4f53\u8ff7\u4f60\u4f4e\u97f3\u70ae\u5c0f\u97f3\u7bb1","title":"Shinco\/\u65b0\u79d1 HC-807\u7535\u8111\u97f3\u54cd\u53f0\u5f0f\u5bb6\u7528\u5c0f\u97f3\u7bb1\u7b14\u8bb0\u672c\u8ff7\u4f60\u4f4e\u97f3\u70ae\u5f71\u54cd","miaoshu":"\u9ad8\u4fdd\u771f\u5168\u9891\u5587\u53ed\uff0c\u9707\u64bc\u52b2\u7206\u4f4e\u97f3\uff0c3D\u73af\u7ed5\u7acb\u4f53\u58f0\uff0c\u8eab\u4e34\u5176\u5883\uff0c\u968f\u5fc3\u6240\u6b32\u7545\u4eab\u52a8\u542c\u97f3\u4e50\uff0c5\u5e74\u514d\u8d39\u6362\u65b0\uff0c30\u5929\u4e0d\u6ee1\u610f\u5305\u9000\u6362\uff01","yuanjia":"69.90","quan_jine":"30.00","xiaoliang":"22786","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"10000","jiage":"39.90"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u65f6\u5c1a\u767e\u642d\uff0c\u591a\u6b3e\u591a\u8272\u53ef\u9009\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6257294","pic":"\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1UrvjLpXXXXb0XVXXXXXXXXXX_!!0-item_pic.jpg","d_title":"\u97e9\u7248\u7537\u58eb\u6f6e\u6d41\u4fee\u8eab\u77ed\u8896t\u6064","title":"\u590f\u5b63\u7537\u58eb\u77ed\u8896T\u6064\u5706\u9886\u7eaf\u8272\u4f53\u6064\u6253\u5e95\u886b\u97e9\u7248\u534a\u8896\u4e0a\u8863\u590f\u88c5\u7537\u88c5\u9ed1\u767d\u6f6e","miaoshu":"\u5168\u7f51\u6700\u4f4e\u4ef7\uff01\u89e6\u611f\u4e30\u6da6\uff0c\u8f7b\u67d4\u5475\u62a4\u808c\u80a4\uff0c\u8272\u6cfd\u81ea\u7136\uff0c\u4e0d\u7f29\u6c34\uff0c\u4e0d\u892a\u8272\uff0c\u65f6\u5c1a\u767e\u642d\uff0c\u6210\u529f\u7537\u4eba\u5fc5\u5907\uff0c\u591a\u6b3e\u591a\u8272\u53ef\u9009\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"12.80","quan_jine":"3.00","xiaoliang":"48688","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"9.80"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u4f18\u8d28\u9762\u6599\uff0c\u67d4\u8f6f\u4eb2\u80a4\uff0c\u65f6\u5c1a\u767e\u642d","tubiao":"0","id":"6253739","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/TB1UGIRMpXXXXXFXpXXXXXXXXXX_!!0-item_pic.jpg","d_title":"\u3010\u6155\u7a95\u3011\u97e9\u7248\u6625\u79cb\u9542\u7a7a\u4e2d\u957f\u6b3e\u9488\u7ec7\u886b\u5916\u5957","title":"2018\u6625\u79cb\u5973\u88c5\u65b0\u6b3e\u97e9\u7248\u5973\u88c5\u9542\u7a7a\u9488\u7ec7\u5927\u7801\u8fde\u8863\u88d9\u5973\u4e2d\u957f\u6b3e\u5bbd\u677e\u5916\u5957\u5973","miaoshu":"\u7cbe\u9009\u4f18\u8d28\u9762\u6599\uff0c\u67d4\u8f6f\u4eb2\u80a4\uff0c\u6297\u76b1\u4e0d\u6613\u8d77\u7403\uff0c\u52a8\u611f\u6d41\u82cf\uff0c\u65f6\u5c1a\u6f6e\u6d41\uff0c\u767e\u642d\uff0c\u62ab\u80a9\u5728\u624b\uff0c\u751f\u6d3b\u65e0\u5fe7\uff0c\u4e0d\u6311\u8eab\u6750\uff0c\u767e\u642d\u795e\u5668\uff0c\u5973\u795e\u5fc5\u5907\uff01","yuanjia":"29.00","quan_jine":"10.00","xiaoliang":"6191","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"19.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u81ea\u7136\u6447\u6446\uff0c\u8f7b\u677e\u6298\u53e0\uff0c\u4fbf\u4e8e\u643a\u5e26","tubiao":"0","id":"6251084","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/3175605937\/TB2ObgeXU6FK1Jjy0FpXXbFqVXa_!!3175605937.jpg","d_title":"\u5a74\u513f\u6447\u6905\u6447\u7bee\u5b9d\u5b9d\u5b89\u629a\u8eba\u6905\u6447\u6447\u6905","title":"\u5a74\u513f\u6447\u6905\u6447\u7bee\u5b9d\u5b9d\u5b89\u629a\u8eba\u6905\u6447\u6447\u6905\u54c4\u7761\u6447\u7bee\u5e8a\u513f\u7ae5\u54c4\u5b9d\u54c4\u7761\u54c4\u5a03\u795e\u5668","miaoshu":"\u65b0\u751f\u513f\u5373\u53ef\u4f7f\u7528\uff0c\u65e0\u9700\u63d2\u7535\uff0c\u81ea\u7136\u6447\u6446\uff0c\u8f7b\u677e\u6298\u53e0\uff0c\u4fbf\u4e8e\u643a\u5e26\u3002\u54c4\u5a03\u6447\u6905\uff0c\u89e3\u653e\u5988\u5988\u53cc\u624b\u3002","yuanjia":"69.00","quan_jine":"10.00","xiaoliang":"10613","huodong_type":"1","quan_time":"2018-03-21 23:59:59","quan_num":"10000","jiage":"59.00"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u539f\u8272\u65e0\u6f02\u767d\uff0c\u9897\u7c92\u9971\u6ee1\uff0c\u5065\u5eb7\u7f8e\u5473","tubiao":"0","id":"6239042","pic":"\/\/img.alicdn.com\/imgextra\/i1\/358484020\/TB2PJQcenSPY1JjSZPcXXXIwpXa_!!358484020.jpg","d_title":"\u3010\u5929\u5594\u65d7\u8230\u5e97\u3011\u65e0\u6f02\u767d\u5f00\u5fc3\u679c168g","title":"\u3010\u5929\u5594\u3011\u5f00\u5fc3\u679c168g \u4f11\u95f2\u96f6\u98df\u65e0\u6f02\u767d\u5e72\u679c\u7092\u8d27\u7279\u4ea7 \u6dd8","miaoshu":"\u539f\u8272\u65e0\u6f02\u767d\uff0c\u9897\u7c92\u9971\u6ee1\uff0c\u81ea\u7136\u5f00\u53e3\uff0c\u5065\u5eb7\u7f8e\u5473\uff0c\u597d\u5403\u4e0d\u8d35\uff0c\u6bcf\u9897\u7cbe\u9009\uff0c\u54c1\u8d28\u4fdd\u8bc1\uff0c\u5e26\u6765\u81ea\u7136\u597d\u6c14\u606f\uff01","yuanjia":"23.80","quan_jine":"5.00","xiaoliang":"622","huodong_type":"1","quan_time":"2018-03-19 23:59:59","quan_num":"10000","jiage":"18.80"},{"paiqi":"2018-03-19 10:00:00","new_words":"\u5b89\u5168\u73af\u4fdd\uff0c\u76ca\u667a\u8003\u8111\uff0c\u5bd3\u6559\u4e8e\u4e50","tubiao":"0","id":"6216185","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/817767474\/TB2oUQBaACWBuNjy0FaXXXUlXXa_!!817767474.jpg","d_title":"\u3010\u5de7\u4e4b\u6728\u3011\u98de\u884c\u68cb\u8df3\u68cb\u8c61\u68cb\u4e94\u5b50\u68cb\u7b49\u76ca\u667a\u73a9\u5177","title":"\u98de\u884c\u68cb\u8df3\u68cb\u8c61\u68cb\u4e94\u5b50\u68cb\u6597\u517d\u68cb\u591a\u529f\u80fd\u6e38\u620f\u6210\u4eba\u5927\u53f7\u4eb2\u5b50\u513f\u7ae5\u76ca\u667a\u73a9\u5177","miaoshu":"\u3010\u5de7\u4e4b\u6728\u3011\u4eb2\u5b50\u76ca\u667a\u6e38\u620f\u68cb\u76d8\uff0c\u667a\u529b\u73a9\u5177\uff0c\u76ca\u667a\u8003\u8111\uff0c\u5bd3\u6559\u4e8e\u4e50\uff0c\u76ca\u667a\u4f53\u9a8c\uff0c\u5b89\u5168\u73af\u4fdd\uff0c\u591a\u529f\u80fd\u68cb\u76d8\uff0c\u82b1\u6837\u66f4\u591a\uff01","yuanjia":"32.90","quan_jine":"15.00","xiaoliang":"416","huodong_type":"1","quan_time":"2018-03-22 23:59:59","quan_num":"2831","jiage":"17.90"}],"1913":[{"paiqi":"2018-03-19 13:00:00","new_words":"\u8d85\u539a\u500d\u67d4\uff0c\u5929\u7136\u690d\u7269\u6728\u7cd6\u9187\uff0c\u6e29\u67d4\u5475\u62a4","tubiao":"0","id":"6239837","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2454549209\/TB2bVGyaAfb_uJkSmRyXXbWxVXa_!!2454549209.jpg","d_title":"\u3010\u6021\u6069\u8d1d\u3011\u5a74\u513f\u6e7f\u5dfe\u7eb880\u62bd*5\u5305\u88c5","title":"\u6021\u6069\u8d1d\u5a74\u513f\u6e7f\u5dfe\u65b0\u751f\u5b9d\u5b9d\u5c41\u6e7f\u7eb8\u5dfe\u5e7c\u513f\u624b\u53e3\u4e13\u752880\u62bd5\u5305100\u6279\u53d1\u5e26\u76d6","miaoshu":"\u3010\u6708\u950016W+~\u597d\u8bc440W+\u3011\u8d85\u539a\u500d\u67d4\uff0c\u5929\u7136\u690d\u7269\u6728\u7cd6\u9187\uff0c\u5f31\u9178\u6027PH\u503c\uff0c\u4fdd\u62a4\u5b9d\u5b9d\u5929\u7136\u76ae\u8d28\uff0c\u7ed9\u5b9d\u5b9d\u6e29\u67d4\u5475\u62a4\u7684\u6e05\u6d01\u4f53\u9a8c\uff01","yuanjia":"18.90","quan_jine":"3.00","xiaoliang":"164490","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"10000","jiage":"15.90"}],"1915":[{"paiqi":"2018-03-19 15:00:00","new_words":"\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6245702","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/1044190178\/TB1sXh8j_nI8KJjSszbXXb4KFXa_!!0-item_pic.jpg","d_title":"\u3010\u798f\u4e1c\u6d77\u3011\u4eba\u53c2\u6842\u5706\u7ea2\u67a3\u67b8\u675e\u8336 \u4e70\u4e8c\u9001\u4e00","title":"\u4e702\u90011\u4eba\u53c2\u67b8\u675e\u6842\u5706\u7ea2\u67a3\u8336\u516b\u5b9d\u8336\u73ab\u7470\u6c14\u8840\u8336\u5973\u4eba\u8336\u517b\u751f\u8336\u4e94\u5b9d\u8336","miaoshu":"\u4e25\u51ac\u6765\u4e34\uff0c\u7231\u81ea\u5df1\uff0c\u5c31\u8ba9\u81ea\u5df1\u6696\u6696\u7684\uff0c\u54b1\u4eec\u4f18\u9009\u4eba\u53c2\u6842\u5706\u67b8\u675e\uff0c\u7ed9\u5973\u4eba\u5e26\u6765\u5434\u51b2\u5475\u62a4\uff0c\u8ba9\u4f60\u9762\u82e5\u6843\u82b1\u597d\u6c14\u8840\uff0c\u4e0d\u5316\u5986\u4e5f\u66f4\u7f8e\u4e3d\u6696\u4eba\uff01\u3010\u8d60\u8fd0\u8d39\u9669","yuanjia":"49.80","quan_jine":"30.00","xiaoliang":"4212","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"10000","jiage":"19.80"},{"paiqi":"2018-03-19 15:00:00","new_words":"\u5f39\u6027\u5927\u66f4\u8212\u9002\uff0c\u52a0\u7ed2\u52a0\u539a","tubiao":"0","id":"6242270","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/1605181282\/TB2swu.ivBNTKJjSszcXXbO2VXa_!!1605181282.jpg","d_title":"\u3010\u82ad\u83f2\u9e7f\u3011\u5973\u7ae5\u6625\u79cb\u8fde\u88e4\u889c3\u6761\u88c5","title":"\u513f\u7ae5\u8fde\u88e4\u889c\u6625\u79cb\u5973\u7ae5\u6253\u5e95\u88e4\u8584\u6b3e\u5b9d\u5b9d\u767d\u8272\u4e1d\u889c\u7ec3\u529f\u889c\u590f\u5b63\u889c\u5b50\u821e\u8e48\u889c","miaoshu":"\u82ad\u83f2\u9e7f-\u7cbe\u9009\u4e1d\u6ed1\u5929\u9e45\u7ed2\uff0c\u5343\u4e07\u5b9d\u5988\u7684\u4fe1\u8d56\u4e4b\u9009\uff0c\u65b0\u4e00\u4ee3\u9762\u6599\uff0c4.5\u7ea7\u6297\u8d77\u7403\uff0c\u56db\u9488\u516d\u7ebf\uff0c\u5f39\u6027\u5927\u66f4\u8212\u9002\uff0c\u52a0\u7ed2\u52a0\u539a\uff0c\u4e0d\u6015\u51b7\uff0c3\u53cc\u88c5\u66f4\u5b9e\u60e0~","yuanjia":"26.80","quan_jine":"10.00","xiaoliang":"58419","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"30000","jiage":"16.80"},{"paiqi":"2018-03-19 15:00:00","new_words":"\u690d\u7269\u914d\u65b9\uff0c\u6c34\u6da6\u4fdd\u6e7f\u3010\u8d60\u8fd0\u8d39\u9669\u3011","tubiao":"0","id":"6203984","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/822561570\/TB2d4ERbVGWBuNjy0FbXXb4sXXa_!!822561570.jpg","d_title":"\u3010COCOVEL\u3011\u8eab\u4f53\u4e73\u4e70\u4e00\u9001\u4e00","title":"COCOVEL\u8eab\u4f53\u4e73\u4fdd\u6e7f\u6ecb\u6da6\u8865\u6c34\u5168\u8eab\u6de1\u9999\u5473\u6301\u4e45\u4f53\u6da6\u80a4\u4e73\u9732\u5973\u5e72\u6027\u80a4\u8d28","miaoshu":"COCOVEL\u8eab\u4f53\u4e73\u6c90\u6d74\u9732\u5957\u88c5\uff0c250ml\uff0c\u9547\u5e97\u7206\u6b3e\uff0c12\u4e07\u591a\u597d\u8bc4\u5982\u6f6e\uff01\u5929\u7136\u690d\u7269\u914d\u65b9\uff0c\u8fdb\u53e3\u9999\u6599\u8c03\u5236\uff0c\u6c34\u6da6\u4fdd\u6e7f\u4e0d\u6cb9\u817b\uff0c\u6d53\u90c1\u9999\u6c1b\u6301\u4e45\u64a9\u4eba\uff0c\u6536\u7f29\u6bdb\u5b54\uff0c\u7f13\u548c\u9e21\u76ae\uff0c\u808c\u80a4\u968f\u65f6\u6c34\u5ae9\u5ae9\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","yuanjia":"36.90","quan_jine":"20.00","xiaoliang":"16947","huodong_type":"1","quan_time":"2018-03-20 23:59:59","quan_num":"50000","jiage":"16.90"}],"1917":[{"paiqi":"2018-03-19 17:00:00","new_words":"\u4f18\u8d28PU\uff0c\uff0c\u8212\u9002\u5185\u91cc\uff0c\u900f\u6c14\u978b\u57ab","tubiao":"0","id":"6243227","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1964133643\/TB24IVLtpXXXXXIXXXXXXXXXXXX_!!1964133643.jpg","d_title":"2018\u5973\u7ae5\u978b\u5b50\u6625\u79cb\u65b0\u6b3e\u900f\u6c14\u513f\u7ae5\u7f51\u978b","title":"\u5973\u7ae5\u978b\u5b502018\u6625\u79cb\u65b0\u6b3e\u900f\u6c14\u513f\u7ae5\u7f51\u978b\u6f6e\u8fd0\u52a8\u677f\u978b\u97e9\u7248\u767e\u642d\u7537\u7ae5\u5c0f\u767d\u978b","miaoshu":"\u91c7\u7528\u4f18\u8d28PU\uff0c\u6613\u64e6\u6d17\uff0c\u9632\u6c34\u9632\u70ed\u53c8\u9632\u8e22\uff0c\u6709\u6548\u4fdd\u62a4\u5b9d\u8d1d\u811a\u4e2b\uff0c\u8212\u9002\u5185\u91cc\u900f\u6c14\u978b\u57ab\uff0c\u6b3e\u5f0f\u65b0\u9896\uff0c\u6f6e\u6d41\u65f6\u5c1a\uff01","yuanjia":"49.00","quan_jine":"10.00","xiaoliang":"3168","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"20000","jiage":"39.00"}],"1919":[],"1920":[],"1921":[{"paiqi":"2018-03-19 21:00:00","new_words":"\u8f6f\u97e7\u8212\u9002\uff0c\u6e05\u723d\u900f\u6c14\uff0c\u65f6\u5c1a\u767e\u642d","tubiao":"0","id":"6217922","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2354033665\/TB2ejLSfTwKL1JjSZFgXXb6aVXa_!!2354033665.jpg","d_title":"\u3010\u7279\u6b65\u3011\u65b0\u6b3e\u76ae\u9762\u4f11\u95f2\u978b\u677f\u978b","title":"\u7279\u6b65\u7537\u978b\u6625\u5b63\u65b0\u6b3e\u6b63\u54c1\u677f\u978b\u7537\u58eb\u76ae\u9762\u8dd1\u6b65\u4f11\u95f2\u978b\u6625\u6b3e\u8fd0\u52a8\u978b\u7537\u978b\u5b50","miaoshu":"\u7279\u6b65\u6b63\u54c1\uff0c\u8f6f\u97e7\u8212\u9002\uff0c\u8d28\u611f\u7ec6\u817b\u5149\u6cfd\uff0c\u7ecf\u4e45\u8010\u7a7f\uff0c\u65f6\u5c1a\u767e\u642d\uff0c\u4eca\u590f\u5fc5\u5907\u6b3e\uff0c\u6e05\u723d\u900f\u6c14\uff0c\u5e73\u8861\u7a33\u56fa\uff0c\u8fd0\u52a8\u6c38\u4e0d\u6b62\u6b65\uff01","yuanjia":"139.00","quan_jine":"30.00","xiaoliang":"2320","huodong_type":"2","quan_time":"2018-03-20 23:59:59","quan_num":"10000","jiage":"109.00"}]},
+        goodsUrl= '/tb.php?r=l/d&nav_wrap=ddq&id=',
+        nowTimeS = new Date('2018-03-19 09:25:03'),
+        nowTimeC = new Date(),
+        $today = '2018-03-19 00:00:00',
+        newTimeDelay = nowTimeC - nowTimeS;//时间差
+
+</script></div>
+
+<div id="footer" class="theme-border-top-color-1" style="background-color: #373737;padding-bottom: 30px;width: 100%;border-top: 3px solid #ff3366;">
+    <div class="footer-wrapper " style="width: 1200px;margin: 0 auto;position: relative;text-align: center">
+        <div class="bt">
+            “感谢有你，我们的坚持才更有意义”
+        </div>
+        <div class="author" style="    position: absolute;
+    top: 67px;
+    left: 990px;
+    color: #FFFFFF;
+    font-size: 18px;">by &nbsp;&nbsp;天天优惠券</div>
+        <div class="text" style="color: #a2a2a2; font-size: 16px; margin-top: 33px;">
+            &copy; CopyRight&nbsp;2018            &nbsp;
+            <a href="http://mp.0-22.net" target="_blank" rel="nofollow" style="color:#a2a2a2;">
+                天天优惠券            </a>
+            &nbsp;http://mp.0-22.net&nbsp;&nbsp;
+            <a class="miitbeian" href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow" style="color:#a2a2a2;">
+                津ICP备16007084号-1            </a>
+            &nbsp;&nbsp;                <a target="_blank" class="footer_service" href="http://wpa.qq.com/msgrd?v=3&uin=2233253209&site=qq&menu=yes" style="color: #8da7cb" title="联系我帮你解答">^_^亲遇到问题，联系我帮你处理哈</a>
+            
+            <p style="text-algin:center;margin-top:30px;"></p>
+        </div>
+    </div>
+</div>
+
+<div class="toTop" style="display: none" onclick=" $('body,html').animate({scrollTop:0},1000);"> &#xe60c;</div>
+
+
+<script type="text/javascript">
+
+    
+    //xc statistics
+        ;!(function(window, document) {
+            "use strict"
+            try {
+                var space = "xctj";
+
+                // 创建队列
+                window["xckj"] = space;
+                window[space] = window[space] || function () {
+                        (window[space].list = window[space].list || new Array()).push(arguments)
+                    };
+                window[space].time = window[space].time || 1 * new Date();
+
+                // 创建元素
+                var script = document.createElement("script");
+
+                // 设置元素
+                script.type = "text/javascript";
+                script.src = "https://tj.ffquan.com/satc.js?z=20170801" ; /* 配置satc.js路径 */
+                script.async = 1;
+
+                // 添加元素
+                var node = document.getElementsByTagName("script")[0];
+                node.parentNode.insertBefore(script, node)
+            } catch (error) { }
+        })(window, document);
+
+        //xc statistics 必填项
+        xctj("tid=xc-dtk-cms-358126", "at=pageview","ds=web","in=1");
+
+        var coutData =[{"page":"0","event_name":"index_search","page_event":"click","page_class":"#search button","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"app_download_hover","page_event":"mouseenter","page_class":".app_download","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"record_number","page_event":"click","page_class":".miitbeian","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"service_bottom","page_event":"click","page_class":".footer_service","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"service_top","page_event":"click","page_class":".header_service","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"logo","page_event":"click","page_class":"#header .header_logo","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"home_set","page_event":"click","page_class":".set_home","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"collect_set","page_event":"click","page_class":".add_favorite","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"index_banner ","page_event":"click","page_class":".swiper-slide a","is_data":"gid","is_posting_events":"0","is_num":"0","is_param":""},{"page":"r=ddq","event_name":"ddq_goods_pic","page_event":"click","page_class":".goods-item .goods-img a","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"r=ddq","event_name":"ddq_goods_describe","page_event":"click","page_class":".descript-tag-item a","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"r=ddq","event_name":"ddq_goods_buy","page_event":"click","page_class":".goods-buy a","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"r=ddq","event_name":"ddq_goods_brand","page_event":"click","page_class":".goods-brand","is_data":"","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"index_left_cid","page_event":"click","page_class":"#banner .list li a","is_data":"catid","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"index_qlist_goods","page_event":"click","page_class":".live .goods-list li a","is_data":"gid","is_posting_events":"0","is_num":"0","is_param":""},{"page":"0","event_name":"index_search_fixed","page_event":"click","page_class":".floatNav .srcBtn","is_data":"","is_posting_events":"0","is_num":"0","is_param":""}],
+            pageR =window.location.href.split('r=').length>1?"r="+window.location.href.split('r=')[1].split('&')[0]:'noR';
+            for(var i = 0 ; i < coutData.length ; i++){
+                if(coutData[i].page == pageR || coutData[i].page=="0"){//事件触发页面
+                    (function(s){
+                        var paramBoole =true;
+                        for(var a = 0 ;a < coutData[s].is_param.split(',').length ; a ++){
+                            var paramKey = coutData[s].is_param.split(',')[a]+"=";
+                            if(coutData[s].is_param.split(',')[a] != ''){
+                                if( window.location.href.split(paramKey).length<2){
+                                    paramBoole = false;
+                                    return false;
+                                }
+                            }
+                        }
+
+                        if(paramBoole ==false){//如果有参数，是否满足参数条件
+                            return false
+                        }
+
+                        var isData = coutData[s].is_data !=""?(($(coutData[s].page_class).data(coutData[s].is_data)!='' && $(coutData[s].page_class).data(coutData[s].is_data)!=undefined)?',"'+coutData[s].is_data+'='+$(coutData[s].page_class).data(coutData[s].is_data)+'"':''):'',//是否获取元素自定义数据
+                            xcStr = '"tid=xc-dtk-cms-358126","ds=web","ec='+coutData[s].page_event+'","in=1"'+isData;
+
+                        if(coutData[s].is_posting_events == 0){//是否事件代理
+                            $(coutData[s].page_class).on(coutData[s].page_event,function(){
+                                var eventName = coutData[s].is_num==1?',"ea='+coutData[s].event_name+'_'+($(this).index()+1)+'"':',"ea='+coutData[s].event_name+'"';//是否添加序号
+                                eval('xctj('+xcStr+eventName+')');
+                            });
+                        }else{
+                            $('body').on(coutData[s].page_event,coutData[s].page_class,function(){
+                                var eventName = coutData[s].is_num==1?',"ea='+coutData[s].event_name+'_'+($(this).index()+1)+'"':',"ea='+coutData[s].event_name+'"';//是否添加序号
+                                eval('xctj('+xcStr+eventName+')');
+                            })
+                        }
+                    })(i)
+                }
+            }
+
+        // 设置为主页
+    function SetHome(obj, vrl) {
+        try {
+            obj.style.behavior = 'url(#default#homepage)';
+            obj.setHomePage(vrl);
+        }
+        catch (e) {
+            if (window.netscape) {
+                try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                }
+                catch (e) {
+                    alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+                }
+                var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                prefs.setCharPref('browser.startup.homepage', vrl);
+            } else {
+                alert("您的浏览器不支持，请按照下面步骤操作：1.打开浏览器设置。2.点击设置首页。3.输入：" + vrl + "点击确定。");
+            }
+        }
+    }
+    // 加入收藏 兼容360和IE6
+    function shoucang(sTitle, sURL) {
+        try {
+            window.external.addFavorite(sURL, sTitle);
+        }
+        catch (e) {
+            try {
+                window.sidebar.addPanel(sTitle, sURL, "");
+            }
+            catch (e) {
+                alert("加入收藏失败，请使用Ctrl+D进行添加");
+            }
+        }
+    }
+
+    var ok = '';
+    $(function () {
+        $('#search button').click(function () {
+            if($('#search input[name="kw"]').val().length > 16){
+                layer.msg("您搜索的关键词过长！",{
+                    timer: 2500
+                });
+                return false;
+            }
+        });
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > 500) {
+                $(".toTop").fadeIn(1000);
+            }
+            else {
+                $(".toTop").fadeOut(1000);
+            }
+        });
+    });
+
+    $(window).scroll(function(){
+
+        var _scroll = $(window).scrollTop();
+
+        if(_scroll>130){
+            $(".floatNav").fadeIn();
+            $('.search-land').eq(0).fadeOut();
+        }else{
+            $(".floatNav").fadeOut();
+        }
+
+    });
+
+    //候选词
+    var bind_name = 'input';
+    if (navigator.userAgent.indexOf("MSIE") != -1){
+        bind_name = 'propertychange';
+    }
+
+//    $(".my-src-input").bind(bind_name, function(){
+    $(".my-src-input").keyup(function(){
+
+        const _sl = $(this).parents('form').siblings('.search-land');
+        $('.search-land').find('p').remove();
+        $('.search-land').find('li').remove();
+        $('.search-land').css('border','none');
+
+        const _value = $(this).val();
+        var content = "";
+        content = _value.replace(/\s+/g, "");
+        if(content.length == 0){
+            $('.src-close-btn').hide();
+            _sl.hide();
+        }else{
+            $('.src-close-btn').show();
+        }
+
+        var _url = "/tb.php?r=index/kwarr";
+
+        $.ajax({
+            url: _url,
+            type: 'get',
+            dataType: 'json',
+            data: {
+                kw: _value
+            },
+            success: function (data) {
+                if (data.status == '1') {
+                    $('.search-land').find('li').remove();
+                    $('.search-land').find('p').remove();
+                    if(data.data.length>0){
+                        for (var i = 0; i < data.data.length; i++) {
+                            var str = "<li>" + data.data[i] + "</li>";
+                            $('.search-land').append(str);
+                            _sl.show();
+                        }
+                        $('.search-land').css('border','1px solid #ccc');
+                        $('.search-land').append('<p>关闭</p>');
+                    }else {
+                        $('.search-land').find('p').remove();
+                    }
+                }else{
+                }
+
+            }
+        })
+
+    });
+
+
+    $(".search-land").on('click','li',function(){
+        $(".my-src-input").val($(this).text());
+
+        $('.my-src-btn').trigger('click');
+    });
+    $(".search-land").on('click','p',function(){
+        $(".search-land").hide();
+    });
+    $(".my-src-input").focus(function(){
+        if($(this).val()==''){
+
+        }else {
+            $(this).parents('form').siblings('.search-land').show();
+        }
+    });
+    $(".my-src-input").focusout(function(){
+//        $(this).parents('form').siblings('.search-land').hide();
+    });
+    $('.my-src-input').keyup(function(){
+        $('.my-src-input').val($(this).val());
+    });
+    $('.src-close-btn').click(function(){
+        $('.src-close-btn').hide();
+        $('.search-land').hide();
+        $(".my-src-input").val('');
+    });
+
+    var kw_url = "/tb.php?r=l&kw=%E5%A5%B3%E8%A3%85%E6%98%A5";
+
+    $('#search button').on('click',function(){
+        var _this = $(this);
+        if($(this).siblings('input[name="kw"]').val()==''&& kw_url != ""){
+            window.location.href=$("#m_url").val();
+            return false;
+        }else{
+            _this.parents('form').attr('action',$("#h_url").val())
+        }
+    })
+
+    $('.floatNav .srcBtn').on('click',function(){
+        var _this = $(this);
+        if($('input[name="kw"]').val()==''&& kw_url != "" ){
+            window.location.href=$("#m_url").val();
+            return false;
+        }else{
+            _this.parents('form').attr('action',$("#h_url").val())
+        }
+    });
+
+</script>
+
+<script type="text/javascript" src="http://cmsstatic.dataoke.com//web/js/ddq.js?v=201803121434"></script>
+<script type="text/javascript" src="http://cmsstatic.dataoke.com//js/scrollTop2.js?v=201803121434"></script>
+</body>
+</html>
+";}

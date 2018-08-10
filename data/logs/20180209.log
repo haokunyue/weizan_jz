@@ -1,0 +1,120 @@
+2018-02-09 17:23:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwNiPRc0EhZarJ2lTGysUDNs]]></FromUserName>
+<CreateTime>1518168195</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463725203</MenuId>
+</xml>
+
+2018-02-09 17:23:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'createtime' => '1518168195',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463725203',
+    'from' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1518168195',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-02-09 17:23:17 response :
+------------
+
+2018-02-09 17:23:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwNiPRc0EhZarJ2lTGysUDNs]]></FromUserName>
+<CreateTime>1518168220</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463725203</MenuId>
+</xml>
+
+2018-02-09 17:23:41 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'createtime' => '1518168220',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463725203',
+    'from' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1518168220',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-02-09 17:23:41 response :
+------------
+
+2018-02-09 17:24:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1518168249</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463725203</MenuId>
+</xml>
+
+2018-02-09 17:24:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1518168249',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463725203',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1518168249',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-02-09 17:24:10 response :
+------------
+

@@ -1,0 +1,160 @@
+2018-05-29 14:36:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1527575767</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-29 14:36:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1527575767',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1527575767',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-29 14:36:08 response :
+------------
+
+2018-05-29 14:41:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1527576064</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-05-29 14:41:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1527576064',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1527576064',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-29 14:41:05 response :
+------------
+
+2018-05-29 14:55:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1527576914</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>479023295</MenuId>
+</xml>
+
+2018-05-29 14:55:14 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1527576914',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '479023295',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1527576914',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-29 14:55:14 response :
+------------
+
+2018-05-29 14:57:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1527577022</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>479023295</MenuId>
+</xml>
+
+2018-05-29 14:57:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1527577022',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '479023295',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1527577022',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-29 14:57:02 response :
+------------
+

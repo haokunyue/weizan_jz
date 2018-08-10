@@ -1,0 +1,461 @@
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_ad` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `title` varchar(250) DEFAULT '0',  `pic` varchar(250) DEFAULT '0',  `url` varchar(250) DEFAULT '0',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_ad' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_cdtype` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `px` int(10) NOT NULL DEFAULT '0',  `title` varchar(50) NOT NULL,  `fftype` int(3) NOT NULL DEFAULT '0' COMMENT '分类',  `picurl` varchar(255) NOT NULL COMMENT '封面',  `wlurl` varchar(255) NOT NULL COMMENT '外链',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`),  KEY `weid` (`weid`),  KEY `fftype` (`fftype`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_cdtype' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_ck` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `data` text,  `createtime` varchar(255) NOT NULL,  PRIMARY KEY (`id`),  KEY `idx_weid` (`weid`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_ck' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_dborder` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `uniacid` int(11) DEFAULT '0',  `uid` int(10) NOT NULL COMMENT '用户ID',  `bizId` varchar(30) NOT NULL COMMENT '订单号',  `orderNum` varchar(255) NOT NULL COMMENT '兑吧订单号',  `credits` int(20) NOT NULL COMMENT '积分',  `params` varchar(255) NOT NULL,  `type` varchar(50) NOT NULL,  `ip` varchar(15) NOT NULL COMMENT '客户端ip',  `starttimestamp` int(10) DEFAULT NULL COMMENT '下单时间',  `endtimestamp` int(10) DEFAULT NULL COMMENT '成功时间',  `waitAudit` int(8) DEFAULT '0' COMMENT '是否审核',  `Audit` int(1) DEFAULT '0' COMMENT '审核状态',  `actualPrice` int(11) DEFAULT '0' COMMENT '扣除费用',  `description` varchar(255) NOT NULL COMMENT '描述',  `facePrice` int(11) DEFAULT '0' COMMENT '市场价值',  `itemCode` varchar(255) NOT NULL COMMENT '商品编码',  `Audituser` varchar(255) NOT NULL COMMENT '审核员',  `status` int(1) DEFAULT '0' COMMENT '订单状态',  `createtime` int(10) DEFAULT '0' COMMENT '时间',  PRIMARY KEY (`id`),  KEY `indx_uniacid` (`uniacid`),  KEY `indx_bizId` (`bizId`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_dborder' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_dbrecord` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `uid` int(11) DEFAULT '0',  `nickname` varchar(200) NOT NULL,  `openid` varchar(50) NOT NULL,  `orderNum` varchar(200) NOT NULL,  `credits` varchar(200) NOT NULL,  `params` varchar(255) NOT NULL,  `type` varchar(200) NOT NULL,  `ip` varchar(200) NOT NULL,  `sign` varchar(255) NOT NULL,  `timestamp` int(11) DEFAULT '0',  `waitAudit` varchar(255) NOT NULL,  `actualPrice` varchar(255) NOT NULL,  `description` varchar(255) NOT NULL,  `paramsTest4` varchar(255) NOT NULL,  `facePrice` varchar(255) NOT NULL,  `appKey` varchar(255) NOT NULL,  `status` int(11) DEFAULT '0',  PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_dbrecord' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_dianyuan` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `openid` varchar(50) DEFAULT '0',  `nickname` varchar(50) DEFAULT '0',  `ename` varchar(50) DEFAULT '0',  `tel` varchar(50) DEFAULT '0',  `password` varchar(50) DEFAULT '0',  `companyname` varchar(200) DEFAULT '0',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_dianyuan' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_fztype` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `px` int(10) NOT NULL DEFAULT '0',  `title` varchar(50) NOT NULL,  `fftype` int(3) NOT NULL DEFAULT '0' COMMENT '分类',  `dtkcid` varchar(10) NOT NULL COMMENT '大淘客分类',  `hlcid` varchar(10) NOT NULL COMMENT '互力分类',  `picurl` varchar(255) NOT NULL COMMENT '封面',  `wlurl` varchar(255) NOT NULL COMMENT '外链',  `tag` varchar(250) NOT NULL COMMENT '男装 衬衫|男装 裤',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`),  KEY `weid` (`weid`),  KEY `fftype` (`fftype`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_fztype' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_gfhuodong` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `px` int(10) NOT NULL DEFAULT '0',  `title` varchar(50) NOT NULL,  `type` int(3) NOT NULL DEFAULT '0' COMMENT '分类',  `picurl` varchar(255) NOT NULL COMMENT '图片',  `turl` varchar(255) NOT NULL COMMENT '外链',  `kouling` varchar(255) NOT NULL COMMENT '口令',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`),  KEY `weid` (`weid`),  KEY `type` (`type`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_gfhuodong' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_goods` (  `goods_id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `px` int(10) NOT NULL DEFAULT '0',  `shtype` int(2) NOT NULL DEFAULT '0',  `title` varchar(50) NOT NULL,  `hot` varchar(50) NOT NULL,  `hotcolor` varchar(50) NOT NULL,  `leibei` varchar(10) NOT NULL,  `logo` varchar(255) NOT NULL,  `appurl` varchar(300) DEFAULT '0',  `amount` int(11) NOT NULL DEFAULT '0',  `day_sum` int(11) NOT NULL DEFAULT '0',  `cardid` varchar(200) NOT NULL,  `taokouling` varchar(200) NOT NULL,  `deadline` datetime NOT NULL,  `per_user_limit` int(11) NOT NULL DEFAULT '0',  `starttime` varchar(12) DEFAULT NULL,  `endtime` varchar(12) DEFAULT NULL,  `cost` int(11) NOT NULL DEFAULT '0',  `cost_type` int(11) NOT NULL DEFAULT '1' COMMENT '1系统积分 2会员积分 4,8等留作扩展',  `price` decimal(10,2) NOT NULL DEFAULT '0.10' COMMENT '商品价格',  `fxprice` decimal(10,2) NOT NULL DEFAULT '0.00' COMMENT '返现',  `vip_require` int(10) NOT NULL DEFAULT '0' COMMENT '兑换最低VIP级别',  `content` text NOT NULL,  `type` int(11) NOT NULL DEFAULT '0' COMMENT '是否需要填写收货地址,1,实物需要填写地址,0虚拟物品不需要填写地址',  `dj_link` varchar(255) NOT NULL,  `wl_link` varchar(255) NOT NULL,  `createtime` int(10) NOT NULL,  PRIMARY KEY (`goods_id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_goods' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_hexiao` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `dianyanid` int(11) DEFAULT '0',  `openid` varchar(50) DEFAULT '0',  `nickname` varchar(50) DEFAULT '0',  `ename` varchar(50) DEFAULT '0',  `companyname` varchar(200) DEFAULT '0',  `goodname` varchar(200) DEFAULT '0',  `goodid` int(11) DEFAULT '0',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_hexiao' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_member` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) NOT NULL,  `from_user` varchar(100) NOT NULL,  `openid` varchar(100) NOT NULL,  `helpid` int(11) NOT NULL,  `unionid` varchar(100) NOT NULL,  `nickname` varchar(100) NOT NULL,  `sex` tinyint(1) NOT NULL DEFAULT '0',  `follow` tinyint(1) NOT NULL DEFAULT '0',  `headimgurl` varchar(255) NOT NULL,  `city` varchar(100) NOT NULL,  `province` varchar(100) NOT NULL,  `country` varchar(100) NOT NULL,  `time` int(13) DEFAULT NULL,  `enable` tinyint(1) NOT NULL DEFAULT '0',  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_member' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_mobanmsg` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `title` varchar(250) DEFAULT NULL COMMENT '模版标题',  `mbid` varchar(250) DEFAULT NULL COMMENT '模版ID',  `first` varchar(250) DEFAULT NULL COMMENT '头部内容',  `firstcolor` varchar(100) DEFAULT NULL COMMENT '头部颜色',  `zjvalue` text COMMENT '中间内容',  `zjcolor` text COMMENT '中间颜色',  `remark` varchar(250) DEFAULT NULL COMMENT '尾部内容',  `remarkcolor` varchar(100) DEFAULT NULL COMMENT '尾部颜色',  `turl` varchar(250) DEFAULT NULL COMMENT '模版链接',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`),  KEY `weid` (`weid`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_mobanmsg' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_msg` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `title` varchar(50) NOT NULL,  `content` varchar(200) NOT NULL,  `picurl` varchar(255) NOT NULL COMMENT '封面',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`),  KEY `weid` (`weid`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_msg' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_order` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `openid` varchar(255) DEFAULT '0',  `nickname` varchar(255) DEFAULT '0',  `avatar` varchar(255) DEFAULT '0',  `jlnickname` varchar(255) DEFAULT '0' COMMENT '订单所有人',  `jlavatar` varchar(255) DEFAULT '0' COMMENT '订单所有人',  `memberid` varchar(255) DEFAULT '0' COMMENT '会员编号',  `orderid` varchar(255) DEFAULT '0' COMMENT '订单编号',  `price` varchar(255) DEFAULT '0' COMMENT '奖励金额',  `yongjin` varchar(255) DEFAULT '0' COMMENT '佣金',  `type` varchar(255) DEFAULT '0' COMMENT '类型 0 自有  1级奖励 2级奖励',  `sh` varchar(255) DEFAULT '0' COMMENT '是否审核 0  1待返 2已返 3审核 4失效',  `msg` varchar(255) DEFAULT '0' COMMENT '留言',  `createtime` varchar(255) NOT NULL,  PRIMARY KEY (`id`),  KEY `indx_weid` (`weid`),  KEY `indx_orderid` (`orderid`),  KEY `indx_openid` (`openid`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_order' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_paylog` (  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,  `uniacid` int(11) DEFAULT NULL,  `dwnick` varchar(255) DEFAULT NULL COMMENT '微信用户昵称',  `dopenid` varchar(255) DEFAULT NULL COMMENT '微信用户openid',  `dtime` int(11) DEFAULT NULL COMMENT '打款时间',  `dcredit` int(11) DEFAULT NULL COMMENT '消耗积分',  `dtotal_amount` int(11) DEFAULT NULL COMMENT '金额，分为单位',  `dmch_billno` varchar(50) DEFAULT NULL COMMENT '生成的商户订单号',  `dissuccess` tinyint(1) DEFAULT NULL COMMENT '是否打款成功',  `dresult` varchar(255) DEFAULT NULL COMMENT '失败提示',  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_paylog' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_poster` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT NULL,  `title` varchar(100) DEFAULT NULL,  `type` int(1) DEFAULT NULL,  `data` text,  `createtime` varchar(12) DEFAULT NULL,  `bg` varchar(200) DEFAULT NULL,  `tzurl` varchar(250) DEFAULT NULL,  `city` varchar(200) DEFAULT NULL,  `doneurl` varchar(200) DEFAULT NULL,  `tipsurl` varchar(200) DEFAULT NULL,  `score` int(11) DEFAULT '0',  `score2` int(11) DEFAULT '0',  `cscore` int(11) DEFAULT '0',  `cscore2` int(11) DEFAULT '0',  `pscore` int(11) DEFAULT '0',  `pscore2` int(11) DEFAULT '0',  `scorehb` float DEFAULT '0',  `cscorehb` float DEFAULT '0',  `pscorehb` float DEFAULT '0',  `mbfont` varchar(50) DEFAULT NULL,  `gid` int(11) DEFAULT '0',  `kdtype` tinyint(1) NOT NULL DEFAULT '0',  `kword` varchar(20) DEFAULT NULL,  `mtips` varchar(200) DEFAULT NULL,  `sliders` text,  `slideH` int(11) DEFAULT '0',  `credit` int(1) DEFAULT '0',  `winfo1` varchar(200) DEFAULT NULL,  `winfo2` varchar(200) DEFAULT NULL,  `winfo3` varchar(200) DEFAULT NULL,  `sharekg` int(11) DEFAULT '0',  `sharetitle` varchar(200) DEFAULT NULL,  `sharegzurl` varchar(200) DEFAULT NULL,  `sharedesc` varchar(200) DEFAULT NULL,  `sharethumb` varchar(200) DEFAULT NULL,  `stitle` text,  `sthumb` text,  `sdesc` text,  `surl` text,  `questions` text,  `rid` int(11) DEFAULT '0',  `rtype` int(1) DEFAULT '0',  `ftips` text,  `utips` text,  `utips2` text,  `wtips` text,  `starttime` varchar(12) DEFAULT NULL,  `endtime` varchar(12) DEFAULT NULL,  `mbstyle` varchar(50) DEFAULT NULL,  `mbcolor` varchar(50) DEFAULT NULL,  `nostarttips` text,  `endtips` text,  `grouptips` text,  `tztype` tinyint(1) NOT NULL DEFAULT '0',  `groups` text,  `rscore` int(11) DEFAULT '0',  `rtips` text,  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_poster' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_record` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT NULL,  `pid` int(11) DEFAULT NULL,  `openid` varchar(200) DEFAULT NULL,  `score` int(11) DEFAULT '0',  `surplus` int(11) DEFAULT '0',  `createtime` varchar(20) DEFAULT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_record' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_request` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `from_user_realname` varchar(50) NOT NULL,  `from_user` varchar(50) NOT NULL,  `openid` varchar(50) NOT NULL,  `image` varchar(300) DEFAULT '0',  `realname` varchar(200) NOT NULL,  `mobile` varchar(200) NOT NULL,  `residedist` varchar(200) NOT NULL,  `alipay` varchar(200) NOT NULL,  `note` varchar(200) NOT NULL,  `tborder` varchar(200) NOT NULL,  `goods_id` int(10) unsigned NOT NULL,  `createtime` int(10) unsigned NOT NULL DEFAULT '0',  `cost` decimal(10,2) NOT NULL DEFAULT '0.00',  `price` decimal(10,2) NOT NULL DEFAULT '0.00',  `fxprice` decimal(10,2) NOT NULL DEFAULT '0.00',  `status` varchar(20) NOT NULL,  `kuaidi` varchar(200) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_request' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_sdorder` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `nickname` varchar(100) NOT NULL,  `from_user` varchar(50) NOT NULL,  `avatar` varchar(200) NOT NULL,  `openid` varchar(50) NOT NULL,  `image` varchar(300) DEFAULT '0',  `order` varchar(100) NOT NULL,  `price` decimal(10,2) NOT NULL DEFAULT '0.00',  `createtime` int(10) unsigned NOT NULL DEFAULT '0',  `evaluation` varchar(250) NOT NULL,  `pf` varchar(50) NOT NULL,  `status` varchar(20) NOT NULL,  `jljf` varchar(200) NOT NULL,  `sjjl` varchar(200) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_sdorder' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_set` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `hbsum` int(1) DEFAULT NULL COMMENT '红包总金额',  `hbtext` varchar(200) DEFAULT NULL COMMENT '红包兑换结束提示',  PRIMARY KEY (`id`),  KEY `idx_weid` (`weid`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_set' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_share` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `openid` varchar(50) DEFAULT '0',  `tel` varchar(15) DEFAULT NULL,  `type` varchar(15) DEFAULT '0',  `dltype` varchar(10) NOT NULL COMMENT '0 不是代理  1 是代理',  `dlsh` varchar(10) NOT NULL COMMENT '0 审核中 1通过',  `dlbl` varchar(110) NOT NULL COMMENT '代理佣金比例-一级自购',  `dlbl2` varchar(110) NOT NULL COMMENT '代理佣金比例-二级自购',  `dlbl3` varchar(110) NOT NULL COMMENT '代理佣金比例-三级自购',  `tgwid` varchar(250) NOT NULL COMMENT '渠道推广位ID',  `dlqqpid` varchar(110) NOT NULL COMMENT '代理鹊桥PID',  `dlptpid` varchar(110) NOT NULL COMMENT '代理普通',  `dlmsg` varchar(250) NOT NULL COMMENT '代理申请理由',  `zfbuid` varchar(250) NOT NULL COMMENT '支付宝帐号',  `pclogo` varchar(250) NOT NULL COMMENT 'PCLOGO',  `pctitle` varchar(250) NOT NULL COMMENT 'PC网站标题',  `pckeywords` varchar(250) NOT NULL COMMENT 'PC网站关键词',  `pcdescription` varchar(250) NOT NULL COMMENT 'PC网站描述',  `pcsearchkey` varchar(250) NOT NULL COMMENT 'PC网站搜索框下面关键词',  `pcewm1` varchar(250) NOT NULL COMMENT 'PC二维码1',  `pcewm2` varchar(250) NOT NULL COMMENT 'PC二维码2',  `pcbottom1` varchar(250) NOT NULL COMMENT 'PC网站底部1',  `pcbottom2` varchar(250) NOT NULL COMMENT 'PC网站底部2',  `pcuser` varchar(250) NOT NULL COMMENT '登录帐号',  `pcpasswords` varchar(250) NOT NULL COMMENT '登录密码',  `pcurl` varchar(250) NOT NULL COMMENT '代理独立域名',  `weixin` varchar(100) DEFAULT NULL,  `from_user` varchar(100) NOT NULL,  `jqfrom_user` varchar(100) NOT NULL,  `nickname` varchar(50) DEFAULT '0',  `avatar` varchar(200) DEFAULT NULL,  `score` int(11) DEFAULT '0',  `cscore` int(11) DEFAULT '0',  `pscore` int(11) DEFAULT '0',  `pid` int(11) DEFAULT '0',  `sceneid` int(11) DEFAULT '0',  `ticketid` varchar(200) DEFAULT NULL,  `url` varchar(200) DEFAULT NULL,  `parentid` int(11) DEFAULT '0',  `helpid` int(11) DEFAULT '0',  `follow` tinyint(1) NOT NULL DEFAULT '0',  `status` int(1) DEFAULT '0',  `hasdel` int(1) DEFAULT '0',  `createtime` varchar(50) DEFAULT NULL,  `updatetime` varchar(50) DEFAULT '0',  `province` varchar(50) DEFAULT NULL,  `city` varchar(50) DEFAULT NULL,  `tname` varchar(50) NOT NULL,  `qunname` varchar(100) NOT NULL,  PRIMARY KEY (`id`),  UNIQUE KEY `openid` (`weid`,`openid`),  KEY `pid` (`pid`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_share' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_shoucang` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `title` varchar(150) DEFAULT '0',  `goodsid` varchar(50) DEFAULT '0',  `picurl` varchar(250) DEFAULT '0',  `openid` varchar(50) DEFAULT '0',  `uid` varchar(50) DEFAULT '0',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_shoucang' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_tbgoods` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(10) unsigned NOT NULL,  `px` int(10) NOT NULL DEFAULT '0',  `zy` int(10) NOT NULL DEFAULT '0' COMMENT '1 大淘客  2互力 3鹊桥库',  `tj` int(10) NOT NULL DEFAULT '0' COMMENT '秒杀 1  人气2',  `zd` int(10) NOT NULL DEFAULT '0' COMMENT '0不置顶  1置顶',  `qf` int(10) NOT NULL DEFAULT '0' COMMENT '0不群发  1群发库',  `type` int(2) NOT NULL DEFAULT '0' COMMENT '分类',  `lxtype` int(2) NOT NULL DEFAULT '0' COMMENT '佣金类别0普通  1定向  2鹊桥 用这个',  `yjtype` int(2) NOT NULL DEFAULT '0' COMMENT '佣金类别0普通  1定向  2鹊桥',  `show_type` int(2) NOT NULL DEFAULT '0' COMMENT '前台是否展示 0 展示  1不展示',  `title` varchar(250) NOT NULL COMMENT '商品名称',  `istmall` varchar(5) NOT NULL COMMENT '0不是  1是天猫',  `dsr` varchar(20) NOT NULL COMMENT 'dsr评分',  `quan_id` varchar(100) NOT NULL COMMENT '优惠券ID',  `quan_condition` varchar(200) NOT NULL COMMENT '优惠券使用条件',  `org_price` varchar(50) NOT NULL COMMENT '商品原价',  `dingxianurl` varchar(300) NOT NULL COMMENT '定向计划链接',  `num_iid` varchar(50) NOT NULL COMMENT '商品ID',  `pic_url` varchar(250) NOT NULL COMMENT '商品主图',  `small_images` varchar(1000) NOT NULL COMMENT '商品多个小图',  `item_url` varchar(250) NOT NULL COMMENT '商品详情页链接地址',  `shop_title` varchar(250) NOT NULL COMMENT '店铺名称',  `yprice` decimal(10,2) NOT NULL DEFAULT '0.00' COMMENT '商品原价格',  `price` decimal(10,2) NOT NULL DEFAULT '0.00' COMMENT '商品价格',  `tk_rate` decimal(10,2) NOT NULL DEFAULT '0.00' COMMENT '收入比率%',  `yongjin` decimal(10,2) NOT NULL DEFAULT '0.00' COMMENT '佣金',  `goods_sale` varchar(100) NOT NULL COMMENT '商品月销售',  `nick` varchar(50) NOT NULL COMMENT '卖家旺旺',  `tk_durl` varchar(250) NOT NULL COMMENT '淘宝客短链接300天',  `click_url` varchar(250) NOT NULL COMMENT '淘宝客长链接',  `taokouling` varchar(100) NOT NULL COMMENT '淘口令 300天有效',  `coupons_total` varchar(50) NOT NULL COMMENT '优惠券总量',  `coupons_take` varchar(50) NOT NULL COMMENT '优惠券乘余',  `coupons_price` varchar(100) NOT NULL COMMENT '优惠券面额',  `coupons_start` varchar(50) NOT NULL COMMENT '优惠券开始时间',  `coupons_end` varchar(50) NOT NULL COMMENT '优惠券结束时间',  `coupons_url` varchar(500) NOT NULL COMMENT '优惠券链接',  `coupons_tkl` varchar(150) NOT NULL COMMENT '优惠券淘口令',  `provcity` varchar(100) NOT NULL COMMENT '广东 广州',  `tjcontent` varchar(250) NOT NULL COMMENT '推荐内容',  `event_end_time` varchar(100) NOT NULL COMMENT '活动结束时间',  `event_start_time` varchar(100) NOT NULL COMMENT '活动开始时间',  `event_zt` varchar(50) NOT NULL COMMENT '活动状态 推广中',  `event_yjbl` varchar(50) NOT NULL COMMENT '活动佣金比例',  `event_yj` varchar(50) NOT NULL COMMENT '活动佣金',  `uptime` varchar(100) NOT NULL COMMENT '更新时间',  `hot` varchar(50) NOT NULL,  `hit` varchar(50) NOT NULL,  `hotcolor` varchar(50) NOT NULL,  `starttime` varchar(12) DEFAULT NULL,  `endtime` varchar(12) DEFAULT NULL,  `status` varchar(20) NOT NULL,  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`),  UNIQUE KEY `indx_num_iid` (`weid`,`num_iid`),  KEY `indx_weid` (`weid`),  KEY `num_iid` (`num_iid`),  KEY `indx_tj` (`tj`),  KEY `indx_status` (`status`),  KEY `indx_type` (`type`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_tbgoods' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_ticket` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `ticket` varchar(255) DEFAULT '0',  `createtime` int(10) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_ticket' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_tixianlog` (  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,  `uniacid` int(11) DEFAULT NULL,  `dwnick` varchar(255) DEFAULT NULL COMMENT '微信用户昵称',  `dopenid` varchar(255) DEFAULT NULL COMMENT '微信用户openid',  `dtime` int(11) DEFAULT NULL COMMENT '打款时间',  `dcredit` int(11) DEFAULT NULL COMMENT '消耗积分',  `dtotal_amount` int(11) DEFAULT NULL COMMENT '金额，分为单位',  `dmch_billno` varchar(50) DEFAULT NULL COMMENT '生成的商户订单号',  `zfbuid` varchar(100) DEFAULT NULL COMMENT '支付宝帐号',  `dissuccess` tinyint(1) DEFAULT NULL COMMENT '是否打款成功',  `dresult` varchar(255) DEFAULT NULL COMMENT '失败提示',  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_tixianlog' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_tkorder` (  `id` int(11) NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT '0',  `addtime` varchar(255) DEFAULT '0' COMMENT '创建时间',  `orderid` varchar(255) DEFAULT '0' COMMENT '订单编号',  `numid` varchar(255) DEFAULT '0' COMMENT '商品ID',  `shopname` varchar(255) DEFAULT '0' COMMENT '店铺名称',  `title` varchar(255) DEFAULT '0' COMMENT '商品标题',  `orderzt` varchar(255) DEFAULT '0' COMMENT '订单状态',  `srbl` varchar(255) DEFAULT '0' COMMENT '收入比例',  `fcbl` varchar(255) DEFAULT '0' COMMENT '分成比例',  `fkprice` varchar(255) DEFAULT '0' COMMENT '付款金额',  `xgyg` varchar(255) DEFAULT '0' COMMENT '效果预估',  `jstime` varchar(255) DEFAULT '0' COMMENT '结算时间',  `pt` varchar(255) DEFAULT '0' COMMENT '平台',  `type` varchar(20) DEFAULT '0' COMMENT '状态 0未奖励 1已奖励',  `mtid` varchar(150) DEFAULT '0' COMMENT '媒体ID',  `mttitle` varchar(150) DEFAULT '0' COMMENT '媒体名称',  `tgwid` varchar(150) DEFAULT '0' COMMENT '推广ID',  `tgwtitle` varchar(150) DEFAULT '0' COMMENT '推广位名称',  `createtime` varchar(255) NOT NULL,  PRIMARY KEY (`id`),  UNIQUE KEY `orderid` (`weid`,`orderid`),  KEY `indx_weid` (`weid`),  KEY `indx_orderid` (`orderid`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_tkorder' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:13:51 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_tiger_taoke_txlog` (  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,  `weid` int(11) DEFAULT NULL,  `nickname` varchar(255) DEFAULT NULL COMMENT '微信用户昵称',  `openid` varchar(255) DEFAULT NULL COMMENT '微信用户openid',  `avatar` varchar(255) DEFAULT '0',  `addtime` int(11) DEFAULT NULL COMMENT '打款时间',  `credit1` int(11) DEFAULT NULL COMMENT '消耗积分',  `credit2` varchar(100) DEFAULT NULL COMMENT '金额，分为单位',  `zfbuid` varchar(100) DEFAULT NULL COMMENT '支付宝帐号',  `dmch_billno` varchar(50) DEFAULT NULL COMMENT '生成的商户订单号',  `sh` tinyint(1) DEFAULT NULL COMMENT '是否打款成功',  `dresult` varchar(255) DEFAULT NULL COMMENT '失败提示',  `createtime` varchar(255) NOT NULL,  PRIMARY KEY (`id`)) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_tiger_taoke_txlog' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /addons/tiger_taoke/install.php; line: 585; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:03 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_stonefish_redenvelope_token` (  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,  `uniacid` int(10) NOT NULL,  `access_token` varchar(1000) NOT NULL ,  `expires_in` INT(11),  `createtime` int(10) unsigned NOT NULL COMMENT '日期',  PRIMARY KEY (`id`),  KEY `indx_uniacid` (`uniacid`)) ENGINE=MyISAM  DEFAULT CHARSET=utf8;<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_stonefish_redenvelope_token' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /web/source/extension/module.ctrl.php; line: 114; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_meepo_fen_basic` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `uniacid` int(11) unsigned NOT NULL,
+  `content` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=8 DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/function/pdo.func.php; line: 31; <br />file: /addons/meepo_fen/install.php; line: 9; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_click'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 12; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_click'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 12; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_ip_log'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 29; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_ip_log'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 29; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_reply'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 44; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_reply'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 44; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_set'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 55; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_set'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 55; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_user'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 68; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>SHOW TABLES LIKE 'ims_meepo_fen_user'<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 415; <br />file: /framework/function/pdo.func.php; line: 130; <br />file: /addons/meepo_fen/install.php; line: 68; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>DESCRIBE `ims_meepo_fen_set` `set`<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 328; <br />file: /framework/function/pdo.func.php; line: 110; <br />file: /addons/meepo_fen/install.php; line: 82; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:14:48 SQL Error :
+------------
+String:
+SQL: <br/>DESCRIBE `ims_meepo_fen_set` `set`<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_meepo_fen_basic' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 328; <br />file: /framework/function/pdo.func.php; line: 110; <br />file: /addons/meepo_fen/install.php; line: 82; <br />file: /web/source/extension/module.ctrl.php; line: 111; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:16:16 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_czt_wechat_visitor_visitors` (		  `listid` int(11) unsigned NOT NULL,		  `fanid` int(11) unsigned NOT NULL,		  `create_time` int(10) unsigned NOT NULL		) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_czt_wechat_visitor_visitors' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /web/source/extension/module.ctrl.php; line: 114; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:16:16 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_czt_wechat_visitor_lists` (		  `listid` int(11) unsigned NOT NULL AUTO_INCREMENT,		  `uniacid` int(11) unsigned NOT NULL,		  `fanid` int(11) unsigned NOT NULL,		  `topic` varchar(256) NOT NULL DEFAULT '',		  `create_time` int(10) unsigned NOT NULL,		  `zan` int(11) unsigned NOT NULL DEFAULT '0',		  PRIMARY KEY (`listid`)		) ENGINE=MyISAM DEFAULT CHARSET=utf8<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_czt_wechat_visitor_lists' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /web/source/extension/module.ctrl.php; line: 114; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:16:16 SQL Error :
+------------
+String:
+SQL: <br/>CREATE TABLE `ims_czt_wechat_visitor_fans` (		  `fanid` int(11) unsigned NOT NULL AUTO_INCREMENT,		  `uniacid` int(11) unsigned NOT NULL,		  `openid` varchar(50) NOT NULL DEFAULT '',		  `nickname` varchar(50) NOT NULL DEFAULT '',		  `headimgurl` varchar(256) NOT NULL DEFAULT '',		  `sex` tinyint(1) DEFAULT NULL,		  `city` varchar(20) NOT NULL DEFAULT '',		  `country` varchar(20) NOT NULL DEFAULT '',		  `province` varchar(20) NOT NULL DEFAULT '',		  `create_time` int(10) unsigned NOT NULL,		  PRIMARY KEY (`fanid`)		) ENGINE=MyISAM DEFAULT CHARSET=utf8;<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'ims_czt_wechat_visitor_fans' already exists<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /web/source/extension/module.ctrl.php; line: 114; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:16:39 SQL Error :
+------------
+String:
+SQL: <br/>ALTER TABLE ims_fans CHANGE `avatar` `avatar` varchar(255) NOT NULL DEFAULT '';<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Table 'mp.ims_fans' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 321; <br />file: /framework/function/pdo.func.php; line: 105; <br />file: /web/source/extension/module.ctrl.php; line: 114; <br />file: /web/index.php; line: 280; <br />
+
+2018-01-17 20:22:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516191722</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[逗比]]></Content>
+<MsgId>6511993860919442493</MsgId>
+</xml>
+
+2018-01-17 20:22:03 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516191722',
+    'msgtype' => 'text',
+    'content' => '逗比',
+    'msgid' => '6511993860919442493',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516191722',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'msyou_facedoubi',
+  'rule' => '133',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '47',
+    'rid' => '133',
+    'uniacid' => '4',
+    'module' => 'msyou_facedoubi',
+    'content' => '逗比',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-17 20:22:03 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-17 20:38:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516192681</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[访客]]></Content>
+<MsgId>6511997979793079517</MsgId>
+</xml>
+
+2018-01-17 20:38:02 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516192681',
+    'msgtype' => 'text',
+    'content' => '访客',
+    'msgid' => '6511997979793079517',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516192681',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '134',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '48',
+    'rid' => '134',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '访客',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-17 20:38:02 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-17 20:43:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1516193011</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[土豪]]></Content>
+<MsgId>6511999397132287241</MsgId>
+</xml>
+
+2018-01-17 20:43:32 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1516193011',
+    'msgtype' => 'text',
+    'content' => '土豪',
+    'msgid' => '6511999397132287241',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1516193011',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'weisrc_friend',
+  'rule' => '136',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '50',
+    'rid' => '136',
+    'uniacid' => '4',
+    'module' => 'weisrc_friend',
+    'content' => '土豪',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-17 20:43:32 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

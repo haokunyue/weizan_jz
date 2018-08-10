@@ -1,0 +1,197 @@
+2018-04-29 11:57:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wwQNJtPuVK_1ydyWrDiEhB8]]></FromUserName>
+<CreateTime>1524974234</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-29 11:57:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'createtime' => '1524974234',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524974234',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-04-29 11:57:20 response :
+------------
+
+2018-04-29 11:58:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wwQNJtPuVK_1ydyWrDiEhB8]]></FromUserName>
+<CreateTime>1524974314</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-29 11:58:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'createtime' => '1524974314',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524974314',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-29 11:58:35 response :
+------------
+
+2018-04-29 11:58:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wwQNJtPuVK_1ydyWrDiEhB8]]></FromUserName>
+<CreateTime>1524974317</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-29 11:58:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'createtime' => '1524974317',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524974317',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-29 11:58:38 response :
+------------
+
+2018-04-29 11:58:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wwQNJtPuVK_1ydyWrDiEhB8]]></FromUserName>
+<CreateTime>1524974317</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://tj.122.gov.cn/views/inquiry.html]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-29 11:58:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'createtime' => '1524974317',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://tj.122.gov.cn/views/inquiry.html',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8wwQNJtPuVK_1ydyWrDiEhB8',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524974317',
+    'type' => 'text',
+    'content' => 'http://tj.122.gov.cn/views/inquiry.html',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-29 11:58:38 response :
+------------
+
+2018-04-29 13:32:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1524979932</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-29 13:32:13 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1524979932',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524979932',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-29 13:32:13 response :
+------------
+

@@ -1,0 +1,74 @@
+2018-02-03 07:48:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1WL_Q-VSbj0VCs3hJvShb0o]]></FromUserName>
+<CreateTime>1517615300</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-03 19:54:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwOJrXnfZDwA126KAEjj8Dl0]]></FromUserName>
+<CreateTime>1517658877</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[999]]></Content>
+<MsgId>6518295243662827686</MsgId>
+</xml>
+
+2018-02-03 19:54:39 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwOJrXnfZDwA126KAEjj8Dl0',
+    'createtime' => '1517658877',
+    'msgtype' => 'text',
+    'content' => '999',
+    'msgid' => '6518295243662827686',
+    'from' => 'oRRBhwOJrXnfZDwA126KAEjj8Dl0',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517658877',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'reply',
+  'rule' => '168',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '101',
+    'rid' => '168',
+    'uniacid' => '4',
+    'module' => 'reply',
+    'content' => '999',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+  ),
+)
+
+2018-02-03 19:54:39 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwOJrXnfZDwA126KAEjj8Dl0 ;
+MsgType : text ;
+Content : <a href="http://audio.xmcdn.com/group38/M01/32/3E/wKgJolpuEJKzMiUjAAa6u5rMnWs129.mp3" style="color:red;">内</a> ;
+

@@ -1,0 +1,422 @@
+2018-01-31 19:14:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517397276</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6517171675923192059</MsgId>
+</xml>
+
+2018-01-31 19:14:37 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517397276',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6517171675923192059',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517397276',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '121',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '35',
+    'rid' => '121',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-31 19:14:37 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-31 20:31:52 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:31:55 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:31:58 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:33:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517401985</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6517191900924189714</MsgId>
+</xml>
+
+2018-01-31 20:33:07 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517401985',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6517191900924189714',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517401985',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '121',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '35',
+    'rid' => '121',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-31 20:33:07 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-31 20:34:49 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:34:52 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:34:56 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:06 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:10 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:14 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:17 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:20 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:45 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:48 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 20:35:51 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-31 21:05:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a68baea05e76]]></ToUserName>
+<FromUserName><![CDATA[od3Vu0aJS5ANLfrDQAPYTdcxjpFo]]></FromUserName>
+<CreateTime>1517403908</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数钱]]></Content>
+<MsgId>6517200160108259284</MsgId>
+</xml>
+
+2018-01-31 21:05:10 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_a68baea05e76',
+    'fromusername' => 'od3Vu0aJS5ANLfrDQAPYTdcxjpFo',
+    'createtime' => '1517403908',
+    'msgtype' => 'text',
+    'content' => '数钱',
+    'msgid' => '6517200160108259284',
+    'from' => 'od3Vu0aJS5ANLfrDQAPYTdcxjpFo',
+    'to' => 'gh_a68baea05e76',
+    'time' => '1517403908',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ewei_money',
+  'rule' => '163',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '96',
+    'rid' => '163',
+    'uniacid' => '9',
+    'module' => 'ewei_money',
+    'content' => '数钱',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-31 21:05:10 response :
+------------
+Array:
+FromUserName : gh_a68baea05e76 ;
+ToUserName : od3Vu0aJS5ANLfrDQAPYTdcxjpFo ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-31 22:40:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a68baea05e76]]></ToUserName>
+<FromUserName><![CDATA[od3Vu0aJS5ANLfrDQAPYTdcxjpFo]]></FromUserName>
+<CreateTime>1517409603</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[课程]]></Content>
+<MsgId>6517224619947016060</MsgId>
+</xml>
+
+2018-01-31 22:40:04 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_a68baea05e76',
+    'fromusername' => 'od3Vu0aJS5ANLfrDQAPYTdcxjpFo',
+    'createtime' => '1517409603',
+    'msgtype' => 'text',
+    'content' => '课程',
+    'msgid' => '6517224619947016060',
+    'from' => 'od3Vu0aJS5ANLfrDQAPYTdcxjpFo',
+    'to' => 'gh_a68baea05e76',
+    'time' => '1517409603',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '164',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '97',
+    'rid' => '164',
+    'uniacid' => '9',
+    'module' => 'cover',
+    'content' => '课程',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-31 22:40:04 response :
+------------
+Array:
+FromUserName : gh_a68baea05e76 ;
+ToUserName : od3Vu0aJS5ANLfrDQAPYTdcxjpFo ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-31 22:40:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a68baea05e76]]></ToUserName>
+<FromUserName><![CDATA[od3Vu0aJS5ANLfrDQAPYTdcxjpFo]]></FromUserName>
+<CreateTime>1517409618</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[内容]]></Content>
+<MsgId>6517224684371525530</MsgId>
+</xml>
+
+2018-01-31 22:40:20 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_a68baea05e76',
+    'fromusername' => 'od3Vu0aJS5ANLfrDQAPYTdcxjpFo',
+    'createtime' => '1517409618',
+    'msgtype' => 'text',
+    'content' => '内容',
+    'msgid' => '6517224684371525530',
+    'from' => 'od3Vu0aJS5ANLfrDQAPYTdcxjpFo',
+    'to' => 'gh_a68baea05e76',
+    'time' => '1517409618',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '165',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '98',
+    'rid' => '165',
+    'uniacid' => '9',
+    'module' => 'cover',
+    'content' => '内容',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-31 22:40:20 response :
+------------
+Array:
+FromUserName : gh_a68baea05e76 ;
+ToUserName : od3Vu0aJS5ANLfrDQAPYTdcxjpFo ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

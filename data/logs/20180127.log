@@ -1,0 +1,338 @@
+2018-01-27 09:21:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwG5H6GVN9Gb4ZhffgjWiMmE]]></FromUserName>
+<CreateTime>1517016067</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[砍价]]></Content>
+<MsgId>6515534395694385384</MsgId>
+</xml>
+
+2018-01-27 09:21:09 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwG5H6GVN9Gb4ZhffgjWiMmE',
+    'createtime' => '1517016067',
+    'msgtype' => 'text',
+    'content' => '砍价',
+    'msgid' => '6515534395694385384',
+    'from' => 'omsmfwG5H6GVN9Gb4ZhffgjWiMmE',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1517016067',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '142',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '56',
+    'rid' => '142',
+    'uniacid' => '8',
+    'module' => 'cover',
+    'content' => '砍价',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-27 09:21:09 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwG5H6GVN9Gb4ZhffgjWiMmE ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-27 10:45:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwJdsC5O_ARwUXjoAEgoOuYs]]></FromUserName>
+<CreateTime>1517021155</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-27 10:45:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwJdsC5O_ARwUXjoAEgoOuYs',
+    'createtime' => '1517021155',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oRRBhwJdsC5O_ARwUXjoAEgoOuYs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517021155',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '关注',
+  ),
+)
+
+2018-01-27 10:45:56 response :
+------------
+
+2018-01-27 10:45:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwJdsC5O_ARwUXjoAEgoOuYs]]></FromUserName>
+<CreateTime>1517021158</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-27 10:46:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwJdsC5O_ARwUXjoAEgoOuYs',
+    'createtime' => '1517021158',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwJdsC5O_ARwUXjoAEgoOuYs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517021158',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-27 10:46:00 response :
+------------
+
+2018-01-27 11:29:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517023744</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-27 11:29:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517023744',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517023744',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-27 11:29:06 response :
+------------
+
+2018-01-27 15:24:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1517037844</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.amsix.cn/]]></EventKey>
+<MenuId>422596769</MenuId>
+</xml>
+
+2018-01-27 15:24:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1517037844',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.amsix.cn/',
+    'menuid' => '422596769',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1517037844',
+    'type' => 'text',
+    'content' => 'http://www.amsix.cn/',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-27 15:24:06 response :
+------------
+
+2018-01-27 15:24:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1517037850</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://help.amsix.cn]]></EventKey>
+<MenuId>422596769</MenuId>
+</xml>
+
+2018-01-27 15:24:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1517037850',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://help.amsix.cn',
+    'menuid' => '422596769',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1517037850',
+    'type' => 'text',
+    'content' => 'http://help.amsix.cn',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-27 15:24:12 response :
+------------
+
+2018-01-27 15:24:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1517037868</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[V1001_UPDATE_GIFT]]></EventKey>
+</xml>
+
+2018-01-27 15:24:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1517037868',
+    'msgtype' => 'event',
+    'event' => 'CLICK',
+    'eventkey' => 'V1001_UPDATE_GIFT',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1517037868',
+    'type' => 'text',
+    'content' => 'V1001_UPDATE_GIFT',
+    'redirection' => true,
+    'source' => 'click',
+  ),
+)
+
+2018-01-27 15:24:30 response :
+------------
+
+2018-01-27 15:24:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1517037872</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://c.amsix.cn/index/activities/wish2]]></EventKey>
+<MenuId>422596769</MenuId>
+</xml>
+
+2018-01-27 15:24:34 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1517037872',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://c.amsix.cn/index/activities/wish2',
+    'menuid' => '422596769',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1517037872',
+    'type' => 'text',
+    'content' => 'http://c.amsix.cn/index/activities/wish2',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-27 15:24:34 response :
+------------
+

@@ -1,0 +1,111 @@
+2018-02-08 11:37:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1WekjPYUYAIU4rQl2RA-0wk]]></FromUserName>
+<CreateTime>1518061062</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-08 11:37:43 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1WekjPYUYAIU4rQl2RA-0wk',
+    'createtime' => '1518061062',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1WekjPYUYAIU4rQl2RA-0wk',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1518061062',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-08 11:37:43 response :
+------------
+
+2018-02-08 12:15:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Sj3gJfaiJgS1W1FkUzDbL0]]></FromUserName>
+<CreateTime>1518063328</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-08 12:15:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Sj3gJfaiJgS1W1FkUzDbL0',
+    'createtime' => '1518063328',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1Sj3gJfaiJgS1W1FkUzDbL0',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1518063328',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-08 12:15:29 response :
+------------
+
+2018-02-08 13:07:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1c26tmw-ejcV7NbYbY3mPpQ]]></FromUserName>
+<CreateTime>1518066426</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-08 13:07:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1c26tmw-ejcV7NbYbY3mPpQ',
+    'createtime' => '1518066426',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1c26tmw-ejcV7NbYbY3mPpQ',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1518066426',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-08 13:07:07 response :
+------------
+

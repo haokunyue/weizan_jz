@@ -1,0 +1,657 @@
+2018-04-18 11:22:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1524021740</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>464313590</MenuId>
+</xml>
+
+2018-04-18 11:22:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1524021740',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '464313590',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1524021740',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 11:22:21 response :
+------------
+
+2018-04-18 17:26:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1524043576</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 17:26:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1524043576',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524043576',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 17:26:17 response :
+------------
+
+2018-04-18 17:40:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524044403</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-18 17:40:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524044403',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524044403',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-04-18 17:40:04 response :
+------------
+
+2018-04-18 17:40:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524044442</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 17:40:43 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524044442',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524044442',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 17:40:43 response :
+------------
+
+2018-04-18 17:46:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524044769</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 17:46:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524044769',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524044769',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 17:46:10 response :
+------------
+
+2018-04-18 17:46:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524044792</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 17:46:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524044792',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524044792',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=15&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 17:46:33 response :
+------------
+
+2018-04-18 17:59:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524045567</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 17:59:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524045567',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524045567',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 17:59:28 response :
+------------
+
+2018-04-18 18:02:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w24g5URMTBEVoKvltBbhzSs]]></FromUserName>
+<CreateTime>1524045759</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 18:02:40 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'createtime' => '1524045759',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w24g5URMTBEVoKvltBbhzSs',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524045759',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 18:02:40 response :
+------------
+
+2018-04-18 18:10:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524046243</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 18:10:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524046243',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524046243',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 18:10:44 response :
+------------
+
+2018-04-18 18:16:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w6g3Nf-38flEkxYE9v1jV64]]></FromUserName>
+<CreateTime>1524046602</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>477705747</MenuId>
+</xml>
+
+2018-04-18 18:16:43 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'createtime' => '1524046602',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '477705747',
+    'from' => 'oGSJ8w6g3Nf-38flEkxYE9v1jV64',
+    'to' => 'gh_7281c5520903',
+    'time' => '1524046602',
+    'type' => 'text',
+    'content' => 'https://mp.0-22.net/app/index.php?i=15&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-04-18 18:16:43 response :
+------------
+
+2018-04-18 20:17:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1524053872</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[助力]]></Content>
+<MsgId>6545761538046850624</MsgId>
+</xml>
+
+2018-04-18 20:17:53 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1524053872',
+    'msgtype' => 'text',
+    'content' => '助力',
+    'msgid' => '6545761538046850624',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1524053872',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'youfan_zhuli',
+  'rule' => '170',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '122',
+    'rid' => '170',
+    'uniacid' => '4',
+    'module' => 'youfan_zhuli',
+    'content' => '助力',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-04-18 20:17:53 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-04-18 20:26:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1524054405</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[土豪]]></Content>
+<MsgId>6545763827264419650</MsgId>
+</xml>
+
+2018-04-18 20:26:46 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1524054405',
+    'msgtype' => 'text',
+    'content' => '土豪',
+    'msgid' => '6545763827264419650',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1524054405',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'weisrc_friend',
+  'rule' => '136',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '123',
+    'rid' => '136',
+    'uniacid' => '4',
+    'module' => 'weisrc_friend',
+    'content' => '土豪',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-04-18 20:26:46 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_ajy_user` SET vip = 0 WHERE acid=4 AND vip_time<1524054746<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/function/pdo.func.php; line: 31; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 16; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/> SELECT `show_default` FROM `ims_ajy_config` WHERE `acid` = :__acid_254  LIMIT 1<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 126; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/> SELECT `show_default` FROM `ims_ajy_config` WHERE `acid` = :__acid_254  LIMIT 1<hr/>Params: <br/>array (
+  ':__acid_254' => '4',
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/class/db.class.php; line: 195; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 126; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_ajy_user` WHERE uid = 2<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 139; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_ajy_user` WHERE uid = 2<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 139; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT COUNT(*) FROM `ims_ajy_user` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 114; <br />file: /framework/function/pdo.func.php; line: 36; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 147; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT COUNT(*) FROM `ims_ajy_user` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 117; <br />file: /framework/function/pdo.func.php; line: 36; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 147; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_ajy_config` SET `user_count` = :user_count_255 WHERE `acid` = :__acid_256<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 93; <br />file: /framework/class/db.class.php; line: 246; <br />file: /framework/function/pdo.func.php; line: 66; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 148; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_ajy_config` SET `user_count` = :user_count_255 WHERE `acid` = :__acid_256<hr/>Params: <br/>array (
+  ':user_count_255' => '1',
+  ':__acid_256' => '4',
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 96; <br />file: /framework/class/db.class.php; line: 246; <br />file: /framework/function/pdo.func.php; line: 66; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 148; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT view FROM `ims_ajy_config` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 149; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT view FROM `ims_ajy_config` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 149; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_ajy_config` SET `view` = :view_257 WHERE `acid` = :__acid_258<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 93; <br />file: /framework/class/db.class.php; line: 246; <br />file: /framework/function/pdo.func.php; line: 66; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 152; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>UPDATE `ims_ajy_config` SET `view` = :view_257 WHERE `acid` = :__acid_258<hr/>Params: <br/>array (
+  ':view_257' => 1,
+  ':__acid_258' => '4',
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 96; <br />file: /framework/class/db.class.php; line: 246; <br />file: /framework/function/pdo.func.php; line: 66; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 152; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 19; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_ajy_config` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 104; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 24; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_ajy_config` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/Common/Public/Function.php; line: 104; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 24; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_ajy_tubiao` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 25; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_ajy_tubiao` WHERE acid = 4<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 25; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT a.*,b.avatar,b.user_name,b.phone,b.sex FROM `ims_ajy_article` AS a LEFT JOIN `ims_ajy_user` AS b ON a.uid = b.uid WHERE a.acid = 4 AND a.status = 1 ORDER BY time DESC LIMIT 0,2<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 159; <br />file: /framework/function/pdo.func.php; line: 44; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 30; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>SELECT a.*,b.avatar,b.user_name,b.phone,b.sex FROM `ims_ajy_article` AS a LEFT JOIN `ims_ajy_user` AS b ON a.uid = b.uid WHERE a.acid = 4 AND a.status = 1 ORDER BY time DESC LIMIT 0,2<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 162; <br />file: /framework/function/pdo.func.php; line: 44; <br />file: /addons/tjtjtjtj_jiaoyou/inc/app/Index.inc.php; line: 30; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 245; <br />file: /addons/tjtjtjtj_jiaoyou/site.php; line: 14; <br />file: /app/source/entry/site.ctrl.php; line: 12; <br />file: /app/index.php; line: 115; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>REPLACE INTO `ims_core_sessions` SET `sid` = :sid_259 , `uniacid` = :uniacid_260 , `openid` = :openid_261 , `data` = :data_262 , `expiretime` = :expiretime_263<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 93; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /framework/class/wesession.class.php; line: 167; <br />file: ; line: ; <br />file: ; line: ; <br />
+
+2018-04-18 20:32:26 SQL Error :
+------------
+String:
+SQL: <br/>REPLACE INTO `ims_core_sessions` SET `sid` = :sid_259 , `uniacid` = :uniacid_260 , `openid` = :openid_261 , `data` = :data_262 , `expiretime` = :expiretime_263<hr/>Params: <br/>array (
+  ':sid_259' => 'f321533a6e0fb3492bec3a2704c83e04',
+  ':uniacid_260' => 4,
+  ':openid_261' => '112.253.35.50',
+  ':data_262' => 'acid|s:1:"4";uniacid|i:4;token|a:6:{s:4:"Ltgf";i:1524054657;s:4:"K7HB";i:1524054658;s:4:"Btn2";i:1524054659;s:4:"AZug";i:1524054662;s:4:"c4I2";i:1524054664;s:4:"wW0C";i:1524054746;}dest_url|s:75:"http%3A%2F%2Fmp.0-22.net%2Fapp%2Findex.php%3Fi%3D4%26c%3Dentry%26eid%3D3475";oauth_openid|s:28:"oRRBhwKnQZavQkGEAoGOddJEOh5Y";oauth_acid|s:1:"4";openid|s:28:"oRRBhwKnQZavQkGEAoGOddJEOh5Y";uid|s:1:"2";serviceOpenid|s:28:"oRRBhwKnQZavQkGEAoGOddJEOh5Y";existtime|i:1524054176;nickname|s:6:"悟空";headimgurl|s:132:"http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI6SNOvAH6Ep1ibXoOu2WYIyvlFicmpLbM3EKvJ4lJjQbBF9XlDpdD14hCmLhte2QdkBibicN6f03UibZQ/132";',
+  ':expiretime_263' => 1524058346,
+)<hr/>SQL Error: <br/>Unknown column 'vip_time' in 'where clause'<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 96; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /framework/class/wesession.class.php; line: 167; <br />file: ; line: ; <br />file: ; line: ; <br />
+

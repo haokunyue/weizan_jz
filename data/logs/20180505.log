@@ -1,0 +1,128 @@
+2018-05-05 00:33:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1525451582</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://tb.0-22.net/index.php?r=index/9]]></EventKey>
+<MenuId>464313590</MenuId>
+</xml>
+
+2018-05-05 00:33:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1525451582',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://tb.0-22.net/index.php?r=index/9',
+    'menuid' => '464313590',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1525451582',
+    'type' => 'text',
+    'content' => 'http://tb.0-22.net/index.php?r=index/9',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-05-05 00:33:03 response :
+------------
+
+2018-05-05 09:15:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8w8WxNZjkzyC__0kAzPzZQ98]]></FromUserName>
+<CreateTime>1525482945</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000005</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>23</TotalCount>
+<FilterCount>23</FilterCount>
+<SentCount>23</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-05-05 09:15:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8w8WxNZjkzyC__0kAzPzZQ98',
+    'createtime' => '1525482945',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000005',
+    'status' => 'send success',
+    'totalcount' => '23',
+    'filtercount' => '23',
+    'sentcount' => '23',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'from' => 'oGSJ8w8WxNZjkzyC__0kAzPzZQ98',
+    'to' => 'gh_7281c5520903',
+    'time' => '1525482945',
+    'type' => 'event',
+  ),
+)
+
+2018-05-05 09:15:46 response :
+------------
+
+2018-05-05 12:36:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1bxicPdkxRxKVSmBiFx8mdA]]></FromUserName>
+<CreateTime>1525494983</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-05 16:37:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1efHOLnxsfckHL8V5KVS8tQ]]></FromUserName>
+<CreateTime>1525509454</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-05 19:31:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1TSGYI84EGaSJ5jLt0ubJHE]]></FromUserName>
+<CreateTime>1525519904</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

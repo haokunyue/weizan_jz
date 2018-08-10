@@ -1,0 +1,88 @@
+2018-05-09 06:57:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1TvjSlXKq8gBGo0Opt48uCk]]></FromUserName>
+<CreateTime>1525820222</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-09 17:29:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1RfObOXyusRLoxIuJKcmei0]]></FromUserName>
+<CreateTime>1525858158</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-09 17:29:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1RfObOXyusRLoxIuJKcmei0',
+    'createtime' => '1525858158',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1RfObOXyusRLoxIuJKcmei0',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1525858158',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-05-09 17:29:19 response :
+------------
+
+2018-05-09 17:29:19 SQL Error :
+------------
+String:
+SQL: <br/>INSERT INTO `ims_gs_pinshop_openid2` SET <hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 90; <br />file: /framework/class/db.class.php; line: 253; <br />file: /framework/function/pdo.func.php; line: 71; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-05-09 17:29:19 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 73; <br />file: /framework/class/db.class.php; line: 136; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-05-09 17:29:19 SQL Error :
+------------
+String:
+SQL: <br/>SELECT eid FROM `ims_modules_bindings` where module='gs_pinshop' and entry='cover' ORDER BY eid desc<hr/>Params: <br/>array (
+)<hr/>SQL Error: <br/>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 407; <br />file: /framework/class/db.class.php; line: 139; <br />file: /framework/function/pdo.func.php; line: 40; <br />file: /addons/gs_pinshop/receiver.php; line: 2; <br />file: /web/source/utility/subscribe.ctrl.php; line: 36; <br />file: /web/index.php; line: 268; <br />
+
+2018-05-09 18:32:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1WneW3ZlqNw0ak4ln-Gx0Ks]]></FromUserName>
+<CreateTime>1525861925</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-09 22:13:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1bV9qakmDR7VUD8nfOQZ1_c]]></FromUserName>
+<CreateTime>1525875222</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

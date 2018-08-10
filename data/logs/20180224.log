@@ -1,0 +1,103 @@
+2018-02-24 10:35:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1QkOOfdWQ7JBcO7yCR-_69M]]></FromUserName>
+<CreateTime>1519439743</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000040</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>340</TotalCount>
+<FilterCount>338</FilterCount>
+<SentCount>338</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-02-24 10:35:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'createtime' => '1519439743',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000040',
+    'status' => 'send success',
+    'totalcount' => '340',
+    'filtercount' => '338',
+    'sentcount' => '338',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'from' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519439743',
+    'type' => 'event',
+  ),
+)
+
+2018-02-24 10:35:44 response :
+------------
+
+2018-02-24 19:12:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1bMfM5-aKcasrDMQd1XiYYg]]></FromUserName>
+<CreateTime>1519470734</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-24 19:12:16 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1bMfM5-aKcasrDMQd1XiYYg',
+    'createtime' => '1519470734',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1bMfM5-aKcasrDMQd1XiYYg',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1519470734',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-24 19:12:16 response :
+------------
+
+2018-02-24 23:10:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1WLpQM9uMnXNkAT1OAJyh_I]]></FromUserName>
+<CreateTime>1519485026</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

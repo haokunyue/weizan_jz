@@ -1,0 +1,344 @@
+2017-12-23 09:40:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v1ap42IyJhvi976X6tSAMQQ]]></FromUserName>
+<CreateTime>1513993204</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>37.438049</Latitude>
+<Longitude>116.377853</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-12-23 09:40:14 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v1ap42IyJhvi976X6tSAMQQ',
+    'createtime' => '1513993204',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '37.438049',
+    'longitude' => '116.377853',
+    'precision' => '30.000000',
+    'from' => 'o1Iz5v1ap42IyJhvi976X6tSAMQQ',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513993204',
+    'type' => 'trace',
+    'location_x' => '37.438049',
+    'location_y' => '116.377853',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-23 09:40:14 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-12-23 09:43:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v1ap42IyJhvi976X6tSAMQQ]]></FromUserName>
+<CreateTime>1513993426</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>37.438030</Latitude>
+<Longitude>116.377853</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-12-23 09:43:46 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v1ap42IyJhvi976X6tSAMQQ',
+    'createtime' => '1513993426',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '37.438030',
+    'longitude' => '116.377853',
+    'precision' => '30.000000',
+    'from' => 'o1Iz5v1ap42IyJhvi976X6tSAMQQ',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513993426',
+    'type' => 'trace',
+    'location_x' => '37.438030',
+    'location_y' => '116.377853',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-23 09:43:46 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-12-23 09:44:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v99QuvBExxp67UoM40OpPoU]]></FromUserName>
+<CreateTime>1513993436</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-23 09:44:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'createtime' => '1513993436',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513993436',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-23 09:44:07 response :
+------------
+
+2017-12-23 09:47:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v5wow0uy8e5VHjSTAukuSMs]]></FromUserName>
+<CreateTime>1513993620</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>37.438049</Latitude>
+<Longitude>116.377853</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-12-23 09:47:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v5wow0uy8e5VHjSTAukuSMs',
+    'createtime' => '1513993620',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '37.438049',
+    'longitude' => '116.377853',
+    'precision' => '30.000000',
+    'from' => 'o1Iz5v5wow0uy8e5VHjSTAukuSMs',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513993620',
+    'type' => 'trace',
+    'location_x' => '37.438049',
+    'location_y' => '116.377853',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-23 09:47:01 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-12-23 22:02:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5vwf6eoE4qpluO69AjZx6pXg]]></FromUserName>
+<CreateTime>1514037748</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-23 22:02:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'createtime' => '1514037748',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514037748',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-23 22:02:39 response :
+------------
+
+2017-12-23 22:18:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5vwf6eoE4qpluO69AjZx6pXg]]></FromUserName>
+<CreateTime>1514038723</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>39.022202</Latitude>
+<Longitude>117.220184</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-12-23 22:18:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'createtime' => '1514038723',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '39.022202',
+    'longitude' => '117.220184',
+    'precision' => '30.000000',
+    'from' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514038723',
+    'type' => 'trace',
+    'location_x' => '39.022202',
+    'location_y' => '117.220184',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-23 22:18:54 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-12-23 22:19:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5vwf6eoE4qpluO69AjZx6pXg]]></FromUserName>
+<CreateTime>1514038752</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>39.022087</Latitude>
+<Longitude>117.220200</Longitude>
+<Precision>71.000000</Precision>
+</xml>
+
+2017-12-23 22:19:23 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'createtime' => '1514038752',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '39.022087',
+    'longitude' => '117.220200',
+    'precision' => '71.000000',
+    'from' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514038752',
+    'type' => 'trace',
+    'location_x' => '39.022087',
+    'location_y' => '117.220200',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-23 22:19:23 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-12-23 22:53:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5vwf6eoE4qpluO69AjZx6pXg]]></FromUserName>
+<CreateTime>1514040834</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>39.022087</Latitude>
+<Longitude>117.220200</Longitude>
+<Precision>71.000000</Precision>
+</xml>
+
+2017-12-23 22:53:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'createtime' => '1514040834',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '39.022087',
+    'longitude' => '117.220200',
+    'precision' => '71.000000',
+    'from' => 'o1Iz5vwf6eoE4qpluO69AjZx6pXg',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514040834',
+    'type' => 'trace',
+    'location_x' => '39.022087',
+    'location_y' => '117.220200',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-23 22:53:54 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

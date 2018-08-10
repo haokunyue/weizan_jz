@@ -1,0 +1,416 @@
+2018-02-01 08:49:04 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:07 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:10 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:10 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:12 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:47 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:50 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:53 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:53 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:49:57 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:50:34 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:50:37 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:50:40 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:54:09 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:54:12 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 08:54:14 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 09:24:13 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 09:24:20 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 09:24:33 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40002 
+,错误描述为: xml解析失败 ;
+
+2018-02-01 10:13:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517451180</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-02-01 10:13:01 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517451180',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517451180',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-02-01 10:13:01 response :
+------------
+
+2018-02-01 10:13:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517451188</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-02-01 10:13:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517451188',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://bwjlsv.agent.yqjuejin.com',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517451188',
+    'type' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-02-01 10:13:10 response :
+------------
+
+2018-02-01 18:38:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1SKggTBW64PzxPrQ3JSrnn8]]></FromUserName>
+<CreateTime>1517481493</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-01 19:06:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517483215</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[广告]]></Content>
+<MsgId>6517540781117656110</MsgId>
+</xml>
+
+2018-02-01 19:06:56 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517483215',
+    'msgtype' => 'text',
+    'content' => '广告',
+    'msgid' => '6517540781117656110',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517483215',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'truein_jiandu',
+  'rule' => '166',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '99',
+    'rid' => '166',
+    'uniacid' => '4',
+    'module' => 'truein_jiandu',
+    'content' => '广告',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-02-01 19:06:56 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-02-01 21:12:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwNiPRc0EhZarJ2lTGysUDNs]]></FromUserName>
+<CreateTime>1517490744</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-01 21:13:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwNiPRc0EhZarJ2lTGysUDNs]]></FromUserName>
+<CreateTime>1517490794</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-01 21:13:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'createtime' => '1517490794',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517490794',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '关注',
+  ),
+)
+
+2018-02-01 21:13:15 response :
+------------
+
+2018-02-01 21:14:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwNiPRc0EhZarJ2lTGysUDNs]]></FromUserName>
+<CreateTime>1517490884</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[拜年]]></Content>
+<MsgId>6517573719221850463</MsgId>
+</xml>
+
+2018-02-01 21:14:45 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'createtime' => '1517490884',
+    'msgtype' => 'text',
+    'content' => '拜年',
+    'msgid' => '6517573719221850463',
+    'from' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517490884',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '167',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '100',
+    'rid' => '167',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '拜年',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-02-01 21:14:45 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwNiPRc0EhZarJ2lTGysUDNs ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

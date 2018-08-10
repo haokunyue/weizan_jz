@@ -1,0 +1,59 @@
+2018-04-16 10:37:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1VSIQ_csvW9eNDXYl7AcaOA]]></FromUserName>
+<CreateTime>1523846221</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-16 17:24:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1fuaV_llahf9f44XUUyoLLY]]></FromUserName>
+<CreateTime>1523870642</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-16 21:10:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7281c5520903]]></ToUserName>
+<FromUserName><![CDATA[oGSJ8wyg00F3LGAyjH4s5tHgU-FQ]]></FromUserName>
+<CreateTime>1523884249</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[wx_verify_refill]]></Event>
+<RefillTime>1523884249</RefillTime>
+<RefillReason><![CDATA[最新的公函模板已经发送至您预留的邮箱，尽快下载填写盖章]]></RefillReason>
+</xml>
+
+2018-04-16 21:10:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7281c5520903',
+    'fromusername' => 'oGSJ8wyg00F3LGAyjH4s5tHgU-FQ',
+    'createtime' => '1523884249',
+    'msgtype' => 'event',
+    'event' => 'wx_verify_refill',
+    'refilltime' => '1523884249',
+    'refillreason' => '最新的公函模板已经发送至您预留的邮箱，尽快下载填写盖章',
+    'from' => 'oGSJ8wyg00F3LGAyjH4s5tHgU-FQ',
+    'to' => 'gh_7281c5520903',
+    'time' => '1523884249',
+    'type' => 'event',
+  ),
+)
+
+2018-04-16 21:10:50 response :
+------------
+

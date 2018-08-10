@@ -1,0 +1,4 @@
+<?php
+defined('IN_IA') or exit('Access Denied');
+$set= unserialize(base64_decode('YTo2OntzOjY6ImRvbWFpbiI7czoxNjoidGVzdC5tcC4wLTIyLm5ldCI7czo3OiJ1bmlhY2lkIjtpOjQ7czoxMDoiZW5hYmxlX3dlYiI7aTowO3M6ODoicmVkaXJlY3QiO2k6MDtzOjM6InVybCI7czo1ODoiaHR0cDovL3Rlc3QubXAuMC0yMi5uZXQvYXBwL2luZGV4LnBocD9pPTQmYz1lbnRyeSZlaWQ9MzIxOSI7czo5OiJpc2FjY291bnQiO2k6MDt9'));
+return $set;

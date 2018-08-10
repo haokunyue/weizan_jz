@@ -1,0 +1,98 @@
+2018-05-15 08:43:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1btx3-WiO9av5L__9Jq06ok]]></FromUserName>
+<CreateTime>1526345020</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[塑胶]]></Content>
+<MsgId>6555601943732748404</MsgId>
+</xml>
+
+2018-05-15 08:43:41 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1btx3-WiO9av5L__9Jq06ok',
+    'createtime' => '1526345020',
+    'msgtype' => 'text',
+    'content' => '塑胶',
+    'msgid' => '6555601943732748404',
+    'from' => 'o62GS1btx3-WiO9av5L__9Jq06ok',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1526345020',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-05-15 08:43:41 response :
+------------
+
+2018-05-15 08:43:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1btx3-WiO9av5L__9Jq06ok]]></FromUserName>
+<CreateTime>1526345023</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[展]]></Content>
+<MsgId>6555601956617650293</MsgId>
+</xml>
+
+2018-05-15 08:43:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1btx3-WiO9av5L__9Jq06ok',
+    'createtime' => '1526345023',
+    'msgtype' => 'text',
+    'content' => '展',
+    'msgid' => '6555601956617650293',
+    'from' => 'o62GS1btx3-WiO9av5L__9Jq06ok',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1526345023',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-05-15 08:43:44 response :
+------------
+
+2018-05-15 13:48:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1fA8D7PXBggFLS3GHvOZT-E]]></FromUserName>
+<CreateTime>1526363325</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-15 21:03:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1XZeLlBrUmggKp-WhILOX6k]]></FromUserName>
+<CreateTime>1526389399</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

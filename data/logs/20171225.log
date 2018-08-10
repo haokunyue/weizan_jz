@@ -1,0 +1,856 @@
+2017-12-25 11:59:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1514174348</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 11:59:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1514174348',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514174348',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 11:59:08 response :
+------------
+
+2017-12-25 12:00:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1514174452</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6503329752209624508</MsgId>
+</xml>
+
+2017-12-25 12:00:53 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1514174452',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6503329752209624508',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514174452',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '121',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '35',
+    'rid' => '121',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-25 12:00:53 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-25 12:01:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1514174474</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[会员]]></Content>
+<MsgId>6503329846698905037</MsgId>
+</xml>
+
+2017-12-25 12:01:15 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1514174474',
+    'msgtype' => 'text',
+    'content' => '会员',
+    'msgid' => '6503329846698905037',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514174474',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '107',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '21',
+    'rid' => '107',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '会员',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-25 12:01:15 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-25 12:53:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1514177592</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[会员]]></Content>
+<MsgId>6503343238406934748</MsgId>
+</xml>
+
+2017-12-25 12:53:12 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1514177592',
+    'msgtype' => 'text',
+    'content' => '会员',
+    'msgid' => '6503343238406934748',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514177592',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '107',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '21',
+    'rid' => '107',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '会员',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-25 12:53:12 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-25 13:05:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1514178314</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6503346339373322669</MsgId>
+</xml>
+
+2017-12-25 13:05:14 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1514178314',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6503346339373322669',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514178314',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '121',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '35',
+    'rid' => '121',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-25 13:05:14 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-25 16:31:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514190688</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 16:31:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514190688',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514190688',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 16:31:29 response :
+------------
+
+2017-12-25 16:31:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514190706</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 16:31:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514190706',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514190706',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 16:31:46 response :
+------------
+
+2017-12-25 17:03:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514192627</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sale.coupon]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:03:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514192627',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sale.coupon',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514192627',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sale.coupon',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:03:47 response :
+------------
+
+2017-12-25 17:03:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514192634</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:03:54 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514192634',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514192634',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:03:54 response :
+------------
+
+2017-12-25 17:04:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514192640</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:04:01 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514192640',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514192640',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:04:01 response :
+------------
+
+2017-12-25 17:04:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514192652</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:04:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514192652',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514192652',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:04:12 response :
+------------
+
+2017-12-25 17:20:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514193612</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:20:13 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514193612',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514193612',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:20:13 response :
+------------
+
+2017-12-25 17:21:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514193699</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sale.coupon]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:21:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514193699',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sale.coupon',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514193699',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sale.coupon',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:21:39 response :
+------------
+
+2017-12-25 17:21:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514193703</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:21:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514193703',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514193703',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:21:44 response :
+------------
+
+2017-12-25 17:21:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514193713</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:21:54 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514193713',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514193713',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:21:54 response :
+------------
+
+2017-12-25 17:22:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v8Homi7U8B7Oz40MuXI1feU]]></FromUserName>
+<CreateTime>1514193733</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 17:22:13 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'createtime' => '1514193733',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v8Homi7U8B7Oz40MuXI1feU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514193733',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 17:22:13 response :
+------------
+
+2017-12-25 20:33:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v99QuvBExxp67UoM40OpPoU]]></FromUserName>
+<CreateTime>1514205216</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>37.469849</Latitude>
+<Longitude>116.311630</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-12-25 20:33:37 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'createtime' => '1514205216',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '37.469849',
+    'longitude' => '116.311630',
+    'precision' => '30.000000',
+    'from' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514205216',
+    'type' => 'trace',
+    'location_x' => '37.469849',
+    'location_y' => '116.311630',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-25 20:33:37 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-12-25 20:33:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v99QuvBExxp67UoM40OpPoU]]></FromUserName>
+<CreateTime>1514205216</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign]]></EventKey>
+<MenuId>430845608</MenuId>
+</xml>
+
+2017-12-25 20:33:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'createtime' => '1514205216',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign',
+    'menuid' => '430845608',
+    'from' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514205216',
+    'type' => 'text',
+    'content' => 'http://mp.sdyky.com/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=sign',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-12-25 20:33:37 response :
+------------
+
+2017-12-25 20:33:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v99QuvBExxp67UoM40OpPoU]]></FromUserName>
+<CreateTime>1514205229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>37.469849</Latitude>
+<Longitude>116.311630</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-12-25 20:33:50 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'createtime' => '1514205229',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '37.469849',
+    'longitude' => '116.311630',
+    'precision' => '30.000000',
+    'from' => 'o1Iz5v99QuvBExxp67UoM40OpPoU',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1514205229',
+    'type' => 'trace',
+    'location_x' => '37.469849',
+    'location_y' => '116.311630',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-12-25 20:33:50 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

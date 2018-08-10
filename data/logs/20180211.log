@@ -1,0 +1,216 @@
+2018-02-11 10:32:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1ek47A_udfdvExuH-0tago0]]></FromUserName>
+<CreateTime>1518316350</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-11 10:32:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1ek47A_udfdvExuH-0tago0',
+    'createtime' => '1518316350',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1ek47A_udfdvExuH-0tago0',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1518316350',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-02-11 10:32:31 response :
+------------
+
+2018-02-11 11:10:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1518318651</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[拜年]]></Content>
+<MsgId>6521128951415649896</MsgId>
+</xml>
+
+2018-02-11 11:10:52 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1518318651',
+    'msgtype' => 'text',
+    'content' => '拜年',
+    'msgid' => '6521128951415649896',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1518318651',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '167',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '100',
+    'rid' => '167',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '拜年',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-02-11 11:10:52 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-02-11 11:12:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwNiPRc0EhZarJ2lTGysUDNs]]></FromUserName>
+<CreateTime>1518318750</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[拜年]]></Content>
+<MsgId>6521129376617412222</MsgId>
+</xml>
+
+2018-02-11 11:12:31 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'createtime' => '1518318750',
+    'msgtype' => 'text',
+    'content' => '拜年',
+    'msgid' => '6521129376617412222',
+    'from' => 'oRRBhwNiPRc0EhZarJ2lTGysUDNs',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1518318750',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '167',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '100',
+    'rid' => '167',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '拜年',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-02-11 11:12:31 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwNiPRc0EhZarJ2lTGysUDNs ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-02-11 16:40:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1QkOOfdWQ7JBcO7yCR-_69M]]></FromUserName>
+<CreateTime>1518338446</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000038</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>337</TotalCount>
+<FilterCount>335</FilterCount>
+<SentCount>335</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-02-11 16:40:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'createtime' => '1518338446',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000038',
+    'status' => 'send success',
+    'totalcount' => '337',
+    'filtercount' => '335',
+    'sentcount' => '335',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'from' => 'o62GS1QkOOfdWQ7JBcO7yCR-_69M',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1518338446',
+    'type' => 'event',
+  ),
+)
+
+2018-02-11 16:40:47 response :
+------------
+

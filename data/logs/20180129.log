@@ -1,0 +1,719 @@
+2018-01-29 12:41:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517200871</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你了解我吗]]></Content>
+<MsgId>6516328122826726825</MsgId>
+</xml>
+
+2018-01-29 12:41:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517200871',
+    'msgtype' => 'text',
+    'content' => '你了解我吗',
+    'msgid' => '6516328122826726825',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517200871',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-29 12:41:12 response :
+------------
+
+2018-01-29 17:22:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_371c0cda4b6f]]></ToUserName>
+<FromUserName><![CDATA[omsmfwIGuDZiFZVYr6JiCR_4uBX8]]></FromUserName>
+<CreateTime>1517217751</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[照片墙]]></Content>
+<MsgId>6516400621878545332</MsgId>
+</xml>
+
+2018-01-29 17:22:32 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_371c0cda4b6f',
+    'fromusername' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'createtime' => '1517217751',
+    'msgtype' => 'text',
+    'content' => '照片墙',
+    'msgid' => '6516400621878545332',
+    'from' => 'omsmfwIGuDZiFZVYr6JiCR_4uBX8',
+    'to' => 'gh_371c0cda4b6f',
+    'time' => '1517217751',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ice_picwall',
+  'rule' => '147',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '61',
+    'rid' => '147',
+    'uniacid' => '8',
+    'module' => 'ice_picwall',
+    'content' => '照片墙',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-29 17:22:32 response :
+------------
+Array:
+FromUserName : gh_371c0cda4b6f ;
+ToUserName : omsmfwIGuDZiFZVYr6JiCR_4uBX8 ;
+MsgType : text ;
+Content : 照片墙更多活动请了解 ;
+
+2018-01-29 17:28:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218116</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[搭讪]]></Content>
+<MsgId>6516402189582408697</MsgId>
+</xml>
+
+2018-01-29 17:28:37 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218116',
+    'msgtype' => 'text',
+    'content' => '搭讪',
+    'msgid' => '6516402189582408697',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218116',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'yobydashan',
+  'rule' => '148',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '62',
+    'rid' => '148',
+    'uniacid' => '4',
+    'module' => 'yobydashan',
+    'content' => '搭讪',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-29 17:28:37 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 您还没有注册,<a href='http://mp.0-22.net/app/./index.php?i=4&c=entry&openid=oRRBhwKnQZavQkGEAoGOddJEOh5Y&do=reg&m=yobydashan'>点击这里</a>填写资料 ;
+
+2018-01-29 17:29:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218149</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[搭讪]]></Content>
+<MsgId>6516402331316329474</MsgId>
+</xml>
+
+2018-01-29 17:29:10 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218149',
+    'msgtype' => 'text',
+    'content' => '搭讪',
+    'msgid' => '6516402331316329474',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218149',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'yobydashan',
+  'rule' => '148',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '62',
+    'rid' => '148',
+    'uniacid' => '4',
+    'module' => 'yobydashan',
+    'content' => '搭讪',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-29 17:29:10 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 暂无用户,请后台导入或等待用户注册 
+回复,随机查找【@】,直接联系【@+ID】例如@1,查找用户【@+关键字】例如:@yoby,查找老乡【老乡】,删除自己帐号【注销】 ;
+
+2018-01-29 17:29:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218183</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[老乡]]></Content>
+<MsgId>6516402477345217558</MsgId>
+</xml>
+
+2018-01-29 17:29:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218183',
+    'msgtype' => 'text',
+    'content' => '老乡',
+    'msgid' => '6516402477345217558',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218183',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-29 17:29:45 response :
+------------
+
+2018-01-29 17:30:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218199</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查找老乡]]></Content>
+<MsgId>6516402546064694303</MsgId>
+</xml>
+
+2018-01-29 17:30:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218199',
+    'msgtype' => 'text',
+    'content' => '查找老乡',
+    'msgid' => '6516402546064694303',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218199',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'tiger_newhu',
+  'rule' => '138',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '52',
+    'rid' => '138',
+    'uniacid' => '4',
+    'module' => 'tiger_newhu',
+    'content' => '找',
+    'type' => '3',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-29 17:30:01 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 昵称：东创资源你好 
+你要找【查老乡】吗？ 
+点击查看更多相关内容：http://t.cn/R8yXsI9 ;
+
+2018-01-29 17:37:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218626</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[采集]]></Content>
+<MsgId>6516404380015729821</MsgId>
+</xml>
+
+2018-01-29 17:37:07 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218626',
+    'msgtype' => 'text',
+    'content' => '采集',
+    'msgid' => '6516404380015729821',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218626',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cyl_wxweizhang',
+  'rule' => '149',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '63',
+    'rid' => '149',
+    'uniacid' => '4',
+    'module' => 'cyl_wxweizhang',
+    'content' => '采集',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-29 17:37:07 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 请输入关键词搜索 ;
+
+2018-01-29 17:37:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218635</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[电脑]]></Content>
+<MsgId>6516404418670435491</MsgId>
+</xml>
+
+2018-01-29 17:37:16 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218635',
+    'msgtype' => 'text',
+    'content' => '电脑',
+    'msgid' => '6516404418670435491',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218635',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cyl_wxweizhang',
+  'rule' => '149',
+  'priority' => 0,
+  'context' => true,
+)
+
+2018-01-29 17:37:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2018-01-29 17:42:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517218969</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[会员]]></Content>
+<MsgId>6516405853189512507</MsgId>
+</xml>
+
+2018-01-29 17:42:50 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517218969',
+    'msgtype' => 'text',
+    'content' => '会员',
+    'msgid' => '6516405853189512507',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517218969',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '107',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '21',
+    'rid' => '107',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '会员',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-29 17:42:50 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-29 17:49:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1UdlpBTs2Uz-fLNcDremVXI]]></FromUserName>
+<CreateTime>1517219371</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-29 17:49:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1UdlpBTs2Uz-fLNcDremVXI',
+    'createtime' => '1517219371',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1UdlpBTs2Uz-fLNcDremVXI',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517219371',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-01-29 17:49:33 response :
+------------
+
+2018-01-29 18:03:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517220193</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-29 18:03:14 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517220193',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://bwjlsv.agent.yqjuejin.com',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517220193',
+    'type' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-29 18:03:14 response :
+------------
+
+2018-01-29 18:03:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517220195</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-29 18:03:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517220195',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517220195',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-29 18:03:17 response :
+------------
+
+2018-01-29 18:39:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwGLAHTTZz3vYz7CcIvtGBdk]]></FromUserName>
+<CreateTime>1517222341</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-29 19:07:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwI5ABii77DVH-WJeiYd2HTQ]]></FromUserName>
+<CreateTime>1517224053</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-29 19:27:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwISluvuVv_XiQLyJG7DPIr0]]></FromUserName>
+<CreateTime>1517225254</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://#]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-29 19:27:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwISluvuVv_XiQLyJG7DPIr0',
+    'createtime' => '1517225254',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://#',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwISluvuVv_XiQLyJG7DPIr0',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517225254',
+    'type' => 'text',
+    'content' => 'http://#',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-29 19:27:36 response :
+------------
+
+2018-01-29 19:27:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwISluvuVv_XiQLyJG7DPIr0]]></FromUserName>
+<CreateTime>1517225271</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order]]></EventKey>
+<MenuId>463246482</MenuId>
+</xml>
+
+2018-01-29 19:27:53 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwISluvuVv_XiQLyJG7DPIr0',
+    'createtime' => '1517225271',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'menuid' => '463246482',
+    'from' => 'oRRBhwISluvuVv_XiQLyJG7DPIr0',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517225271',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&m=ewei_shopv2&do=mobile&r=order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-29 19:27:53 response :
+------------
+
+2018-01-29 22:34:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwGhpoqyR0-WEY_X4sY9GAqU]]></FromUserName>
+<CreateTime>1517236441</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

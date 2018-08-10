@@ -1,0 +1,135 @@
+2018-03-21 08:11:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xl1KAsyWvQA4JYirzirl5s]]></FromUserName>
+<CreateTime>1521591075</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 11:54:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1521604453</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://quan.0-22.net]]></EventKey>
+<MenuId>464282401</MenuId>
+</xml>
+
+2018-03-21 11:54:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1521604453',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://quan.0-22.net',
+    'menuid' => '464282401',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1521604453',
+    'type' => 'text',
+    'content' => 'http://quan.0-22.net',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-21 11:54:15 response :
+------------
+
+2018-03-21 13:57:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1521611822</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://quan.0-22.net]]></EventKey>
+<MenuId>464282401</MenuId>
+</xml>
+
+2018-03-21 13:57:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1521611822',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://quan.0-22.net',
+    'menuid' => '464282401',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1521611822',
+    'type' => 'text',
+    'content' => 'http://quan.0-22.net',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-03-21 13:57:04 response :
+------------
+
+2018-03-21 16:45:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1SGQaAikSinkchTT2Jy5WRI]]></FromUserName>
+<CreateTime>1521621912</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 16:53:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1WBnZiuGI_5gZ-7FfyXF5NA]]></FromUserName>
+<CreateTime>1521622432</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 20:17:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1ZgaTotcV8n_pxf5P2XWKBc]]></FromUserName>
+<CreateTime>1521634621</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 20:56:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1aLCV1XaXm0UAtrzR-KR0KE]]></FromUserName>
+<CreateTime>1521636968</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

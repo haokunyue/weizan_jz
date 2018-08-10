@@ -1,0 +1,2579 @@
+2018-01-30 08:48:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517273336</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[9]]></Content>
+<MsgId>6516639357676499854</MsgId>
+</xml>
+
+2018-01-30 08:48:57 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517273336',
+    'msgtype' => 'text',
+    'content' => '9',
+    'msgid' => '6516639357676499854',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517273336',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'hc_baoxiangbb',
+  'rule' => '150',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '64',
+    'rid' => '150',
+    'uniacid' => '4',
+    'module' => 'hc_baoxiangbb',
+    'content' => '9',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 08:48:57 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 4 ;
+Articles : Array ;
+
+2018-01-30 08:52:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517273572</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[打气球]]></Content>
+<MsgId>6516640371288781751</MsgId>
+</xml>
+
+2018-01-30 08:52:53 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517273572',
+    'msgtype' => 'text',
+    'content' => '打气球',
+    'msgid' => '6516640371288781751',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517273572',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'hl_dqq',
+  'rule' => '151',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '65',
+    'rid' => '151',
+    'uniacid' => '4',
+    'module' => 'hl_dqq',
+    'content' => '打气球',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 08:52:53 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 4 ;
+Articles : Array ;
+
+2018-01-30 08:53:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517273624</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[打气球]]></Content>
+<MsgId>6516640594627081144</MsgId>
+</xml>
+
+2018-01-30 08:53:46 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517273624',
+    'msgtype' => 'text',
+    'content' => '打气球',
+    'msgid' => '6516640594627081144',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517273624',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'hl_dqq',
+  'rule' => '151',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '66',
+    'rid' => '151',
+    'uniacid' => '4',
+    'module' => 'hl_dqq',
+    'content' => '打气球',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 08:53:46 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 4 ;
+Articles : Array ;
+
+2018-01-30 09:00:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517274041</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[照片]]></Content>
+<MsgId>6516642385628443663</MsgId>
+</xml>
+
+2018-01-30 09:00:42 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517274041',
+    'msgtype' => 'text',
+    'content' => '照片',
+    'msgid' => '6516642385628443663',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517274041',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ice_picwall',
+  'rule' => '152',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '67',
+    'rid' => '152',
+    'uniacid' => '4',
+    'module' => 'ice_picwall',
+    'content' => '照片',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:00:42 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 照片墙更多活动请了解 ;
+
+2018-01-30 09:23:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517275410</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516648265394011504</MsgId>
+</xml>
+
+2018-01-30 09:23:31 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517275410',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516648265394011504',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517275410',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '68',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:23:31 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:24:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517275464</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516648497322245494</MsgId>
+</xml>
+
+2018-01-30 09:24:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517275464',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516648497322245494',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517275464',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-30 09:24:25 response :
+------------
+
+2018-01-30 09:24:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517275475</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516648544566885751</MsgId>
+</xml>
+
+2018-01-30 09:24:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517275475',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516648544566885751',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517275475',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '69',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:24:36 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:28:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517275704</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516649528114396552</MsgId>
+</xml>
+
+2018-01-30 09:28:26 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517275704',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516649528114396552',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517275704',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '70',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:28:26 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:29:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517275773</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516649824467140005</MsgId>
+</xml>
+
+2018-01-30 09:29:34 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517275773',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516649824467140005',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517275773',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '71',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:29:34 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:32:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517275921</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516650460122299829</MsgId>
+</xml>
+
+2018-01-30 09:32:02 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517275921',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516650460122299829',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517275921',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '72',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:32:02 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:38:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517276313</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516652143749479911</MsgId>
+</xml>
+
+2018-01-30 09:38:34 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517276313',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516652143749479911',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517276313',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '73',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:38:34 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:42:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517276570</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516653247556075040</MsgId>
+</xml>
+
+2018-01-30 09:42:52 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517276570',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516653247556075040',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517276570',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '74',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:42:52 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:45:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517276734</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516653951930711615</MsgId>
+</xml>
+
+2018-01-30 09:45:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517276734',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516653951930711615',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517276734',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '76',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:45:36 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:47:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517276820</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516654321297899081</MsgId>
+</xml>
+
+2018-01-30 09:47:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517276820',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516654321297899081',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517276820',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '77',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:47:01 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:52:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277150</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516655738637106850</MsgId>
+</xml>
+
+2018-01-30 09:52:31 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277150',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516655738637106850',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277150',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '78',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:52:31 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:53:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517277202</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[爆客]]></Content>
+<MsgId>6516655962020067036</MsgId>
+</xml>
+
+2018-01-30 09:53:23 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517277202',
+    'msgtype' => 'text',
+    'content' => '爆客',
+    'msgid' => '6516655962020067036',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517277202',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-30 09:53:23 response :
+------------
+
+2018-01-30 09:55:51 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277349</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516656593335598798</MsgId>
+</xml>
+
+2018-01-30 09:55:51 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277349',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516656593335598798',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277349',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '80',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:55:51 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 09:57:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277462</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516657078666903283</MsgId>
+</xml>
+
+2018-01-30 09:57:43 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277462',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516657078666903283',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277462',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '81',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 09:57:43 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:02:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277768</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516658392926895918</MsgId>
+</xml>
+
+2018-01-30 10:02:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277768',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516658392926895918',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277768',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '82',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:02:49 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:03:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277835</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516658680689704756</MsgId>
+</xml>
+
+2018-01-30 10:03:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277835',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516658680689704756',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277835',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-30 10:03:56 response :
+------------
+
+2018-01-30 10:04:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277842</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516658710754475829</MsgId>
+</xml>
+
+2018-01-30 10:04:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277842',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516658710754475829',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277842',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-30 10:04:03 response :
+------------
+
+2018-01-30 10:04:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277849</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516658740819246903</MsgId>
+</xml>
+
+2018-01-30 10:04:10 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277849',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516658740819246903',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277849',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '83',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:04:10 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:05:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517277901</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516658964157546312</MsgId>
+</xml>
+
+2018-01-30 10:05:02 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517277901',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516658964157546312',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517277901',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '84',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:05:02 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:09:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517278160</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516660076554076017</MsgId>
+</xml>
+
+2018-01-30 10:09:21 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517278160',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516660076554076017',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517278160',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:09:21 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:10:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1V_LTAqY2yfRsR6MRmj5UyY]]></FromUserName>
+<CreateTime>1517278253</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516660475986034561</MsgId>
+</xml>
+
+2018-01-30 10:10:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1V_LTAqY2yfRsR6MRmj5UyY',
+    'createtime' => '1517278253',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516660475986034561',
+    'from' => 'o62GS1V_LTAqY2yfRsR6MRmj5UyY',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517278253',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:10:55 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1V_LTAqY2yfRsR6MRmj5UyY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:24:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517279087</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516664057988759542</MsgId>
+</xml>
+
+2018-01-30 10:24:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517279087',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516664057988759542',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517279087',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:24:49 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 10:54:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517280895</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 10:54:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517280895',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://bwjlsv.agent.yqjuejin.com',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517280895',
+    'type' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 10:54:56 response :
+------------
+
+2018-01-30 10:56:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517280967</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[找女装]]></Content>
+<MsgId>6516672132571937480</MsgId>
+</xml>
+
+2018-01-30 10:56:08 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517280967',
+    'msgtype' => 'text',
+    'content' => '找女装',
+    'msgid' => '6516672132571937480',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517280967',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'tiger_newhu',
+  'rule' => '138',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '52',
+    'rid' => '138',
+    'uniacid' => '4',
+    'module' => 'tiger_newhu',
+    'content' => '找',
+    'type' => '3',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 10:56:08 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : text ;
+Content : 昵称：东创资源你好 
+你要找【女装】吗？ 
+点击查看更多相关内容：http://t.cn/R843JNZ ;
+
+2018-01-30 11:23:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xm53yk-hj-xM7s_KudeOB4]]></FromUserName>
+<CreateTime>1517282608</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-30 11:23:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'createtime' => '1517282608',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517282608',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-01-30 11:23:30 response :
+------------
+
+2018-01-30 11:23:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xm53yk-hj-xM7s_KudeOB4]]></FromUserName>
+<CreateTime>1517282628</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516679266467955323</MsgId>
+</xml>
+
+2018-01-30 11:23:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'createtime' => '1517282628',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516679266467955323',
+    'from' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517282628',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 11:23:49 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1Xm53yk-hj-xM7s_KudeOB4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 11:24:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xm53yk-hj-xM7s_KudeOB4]]></FromUserName>
+<CreateTime>1517282667</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-30 12:53:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xm53yk-hj-xM7s_KudeOB4]]></FromUserName>
+<CreateTime>1517288018</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-30 12:53:40 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'createtime' => '1517288018',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517288018',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2018-01-30 12:53:40 response :
+------------
+
+2018-01-30 12:53:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xm53yk-hj-xM7s_KudeOB4]]></FromUserName>
+<CreateTime>1517288029</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516702463586321601</MsgId>
+</xml>
+
+2018-01-30 12:53:50 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'createtime' => '1517288029',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516702463586321601',
+    'from' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517288029',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 12:53:50 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1Xm53yk-hj-xM7s_KudeOB4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 14:36:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1Xm53yk-hj-xM7s_KudeOB4]]></FromUserName>
+<CreateTime>1517294214</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516729027959048235</MsgId>
+</xml>
+
+2018-01-30 14:36:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'createtime' => '1517294214',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516729027959048235',
+    'from' => 'o62GS1Xm53yk-hj-xM7s_KudeOB4',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517294214',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 14:36:55 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1Xm53yk-hj-xM7s_KudeOB4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 16:49:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517302195</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516763306093039676</MsgId>
+</xml>
+
+2018-01-30 16:49:56 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517302195',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516763306093039676',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517302195',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '85',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 16:49:56 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 17:46:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKcSvxzl5b55mXillbn8b2U]]></FromUserName>
+<CreateTime>1517305564</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-30 17:46:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'createtime' => '1517305564',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517305564',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '关注',
+  ),
+)
+
+2018-01-30 17:46:06 response :
+------------
+
+2018-01-30 17:46:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKcSvxzl5b55mXillbn8b2U]]></FromUserName>
+<CreateTime>1517305577</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[码上涨粉]]></Content>
+<MsgId>6516777831717099417</MsgId>
+</xml>
+
+2018-01-30 17:46:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'createtime' => '1517305577',
+    'msgtype' => 'text',
+    'content' => '码上涨粉',
+    'msgid' => '6516777831717099417',
+    'from' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517305577',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-30 17:46:18 response :
+------------
+
+2018-01-30 17:46:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKcSvxzl5b55mXillbn8b2U]]></FromUserName>
+<CreateTime>1517305584</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 17:46:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'createtime' => '1517305584',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517305584',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 17:46:25 response :
+------------
+
+2018-01-30 17:47:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKcSvxzl5b55mXillbn8b2U]]></FromUserName>
+<CreateTime>1517305652</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 17:47:34 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'createtime' => '1517305652',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://bwjlsv.agent.yqjuejin.com',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKcSvxzl5b55mXillbn8b2U',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517305652',
+    'type' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 17:47:34 response :
+------------
+
+2018-01-30 17:59:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517306341</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[阅读]]></Content>
+<MsgId>6516781113072113691</MsgId>
+</xml>
+
+2018-01-30 17:59:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517306341',
+    'msgtype' => 'text',
+    'content' => '阅读',
+    'msgid' => '6516781113072113691',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517306341',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-01-30 17:59:02 response :
+------------
+
+2018-01-30 17:59:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517306356</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[阅读]]></Content>
+<MsgId>6516781177496623136</MsgId>
+</xml>
+
+2018-01-30 17:59:18 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517306356',
+    'msgtype' => 'text',
+    'content' => '阅读',
+    'msgid' => '6516781177496623136',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517306356',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '160',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '91',
+    'rid' => '160',
+    'uniacid' => '4',
+    'module' => 'ju_read',
+    'content' => '阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 17:59:18 response :
+------------
+Array:
+FromUserName : gh_b38195d9a8e5 ;
+ToUserName : oRRBhwKnQZavQkGEAoGOddJEOh5Y ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 18:04:12 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-30 18:04:15 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-30 18:04:17 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-30 18:04:32 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-30 18:04:34 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-30 18:04:36 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-30 18:05:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517306703</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516782667805611327</MsgId>
+</xml>
+
+2018-01-30 18:05:04 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517306703',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516782667805611327',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517306703',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '93',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 18:05:04 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 18:07:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7844c882daf6]]></ToUserName>
+<FromUserName><![CDATA[o62GS1R8tNzwzbSHkrc1O67csUjU]]></FromUserName>
+<CreateTime>1517306837</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[集阅读]]></Content>
+<MsgId>6516783243331229056</MsgId>
+</xml>
+
+2018-01-30 18:07:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7844c882daf6',
+    'fromusername' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'createtime' => '1517306837',
+    'msgtype' => 'text',
+    'content' => '集阅读',
+    'msgid' => '6516783243331229056',
+    'from' => 'o62GS1R8tNzwzbSHkrc1O67csUjU',
+    'to' => 'gh_7844c882daf6',
+    'time' => '1517306837',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'ju_read',
+  'rule' => '153',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '94',
+    'rid' => '153',
+    'uniacid' => '5',
+    'module' => 'ju_read',
+    'content' => '集阅读',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2018-01-30 18:07:19 response :
+------------
+Array:
+FromUserName : gh_7844c882daf6 ;
+ToUserName : o62GS1R8tNzwzbSHkrc1O67csUjU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2018-01-30 18:17:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517307418</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 18:17:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517307418',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517307418',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 18:17:00 response :
+------------
+
+2018-01-30 18:18:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517307509</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 18:18:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517307509',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517307509',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 18:18:30 response :
+------------
+
+2018-01-30 18:31:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwKnQZavQkGEAoGOddJEOh5Y]]></FromUserName>
+<CreateTime>1517308299</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 18:31:41 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'createtime' => '1517308299',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwKnQZavQkGEAoGOddJEOh5Y',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517308299',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 18:31:41 response :
+------------
+
+2018-01-30 23:04:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwPvC1NRJEcR5JLslTkPJ02U]]></FromUserName>
+<CreateTime>1517324645</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 23:04:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwPvC1NRJEcR5JLslTkPJ02U',
+    'createtime' => '1517324645',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwPvC1NRJEcR5JLslTkPJ02U',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517324645',
+    'type' => 'text',
+    'content' => 'http://mp.0-22.net/app/index.php?i=4&c=entry&eid=2370',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 23:04:07 response :
+------------
+
+2018-01-30 23:06:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b38195d9a8e5]]></ToUserName>
+<FromUserName><![CDATA[oRRBhwPvC1NRJEcR5JLslTkPJ02U]]></FromUserName>
+<CreateTime>1517324780</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://bwjlsv.agent.yqjuejin.com]]></EventKey>
+<MenuId>463628911</MenuId>
+</xml>
+
+2018-01-30 23:06:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_b38195d9a8e5',
+    'fromusername' => 'oRRBhwPvC1NRJEcR5JLslTkPJ02U',
+    'createtime' => '1517324780',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://bwjlsv.agent.yqjuejin.com',
+    'menuid' => '463628911',
+    'from' => 'oRRBhwPvC1NRJEcR5JLslTkPJ02U',
+    'to' => 'gh_b38195d9a8e5',
+    'time' => '1517324780',
+    'type' => 'text',
+    'content' => 'http://bwjlsv.agent.yqjuejin.com',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2018-01-30 23:06:21 response :
+------------
+

@@ -1,0 +1,23 @@
+12.04
+E:\phpStudy\WWW\hong\addons\ewei_shopv2\core\web\goods\post.php----注释掉191行
+12.25
+C:\phpStudy\WWW\yukangyuan\shop\addons\ewei_shopv2\plugin\commission\template\mobile\default\myshop\index.html----注释掉63-70行
+
+
+2018.01.17
+1----------------------------------------------------------------------------------------------
+头像不显示原因为存入数据库的头像地址经代码处理添加了132的尺寸，微信新接口更改后不需要连接132了。
+C:\phpStudy\WWW\yukangyuan\mp\framework\builtin\core\receiver.php    94行
+C:\phpStudy\WWW\yukangyuan\mp\framework\model\mc.mod.php            297行、1581行
+C:\phpStudy\WWW\yukangyuan\mp\app\source\mc\profile.ctrl.php        30行
+C:\phpStudy\WWW\yukangyuan\mp\app\source\auth\oauth.ctrl.php        71行、156行
+C:\phpStudy\WWW\yukangyuan\mp\app\source\auth\register.ctrl.php   129行
+C:\phpStudy\WWW\yukangyuan\mp\app\source\auth\forward.ctrl.php   56行
+----
+rtrim($*****['headimgurl'], '0') . 132  ===>>>  rtrim($*****['headimgurl'], '0')
+
+
+2018.01.25
+-----------------------------------------------------------------------------------------------------
+修复基础设置保存空白页的问题
+C:\phpStudy\WWW\yukangyuan\mp\addons\tiger_newhu\module.php   注释掉196-203行

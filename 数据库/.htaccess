@@ -1,0 +1,8 @@
+<Files ~ "^.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options +Indexes
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www\.mp\.sdyky\.com)(:443)? [NC]
+RewriteRule ^(.*) https://mp.sdyky.com/$1 [R=301,L]
+order deny,allow

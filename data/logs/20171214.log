@@ -1,0 +1,315 @@
+2017-12-14 16:59:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1513241993</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6499324871299497666</MsgId>
+</xml>
+
+2017-12-14 16:59:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1513241993',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6499324871299497666',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513241993',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '108',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '22',
+    'rid' => '108',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-14 16:59:54 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-14 17:58:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1513245530</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6499340062598825389</MsgId>
+</xml>
+
+2017-12-14 17:58:50 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1513245530',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6499340062598825389',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513245530',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '108',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '22',
+    'rid' => '108',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-14 17:58:50 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-14 17:58:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk]]></FromUserName>
+<CreateTime>1513245535</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[会员]]></Content>
+<MsgId>6499340084073661870</MsgId>
+</xml>
+
+2017-12-14 17:58:56 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'createtime' => '1513245535',
+    'msgtype' => 'text',
+    'content' => '会员',
+    'msgid' => '6499340084073661870',
+    'from' => 'o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513245535',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '107',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '21',
+    'rid' => '107',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '会员',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-14 17:58:56 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v3dJZ3TZfWIaM7M3dzd3ROk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-14 18:00:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v-GWo3hAPIZmDgTGLxhq63I]]></FromUserName>
+<CreateTime>1513245645</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-12-14 18:00:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_aa3717ac21d2]]></ToUserName>
+<FromUserName><![CDATA[o1Iz5v-GWo3hAPIZmDgTGLxhq63I]]></FromUserName>
+<CreateTime>1513245652</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城]]></Content>
+<MsgId>6499340586584835540</MsgId>
+</xml>
+
+2017-12-14 18:00:53 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_aa3717ac21d2',
+    'fromusername' => 'o1Iz5v-GWo3hAPIZmDgTGLxhq63I',
+    'createtime' => '1513245652',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '6499340586584835540',
+    'from' => 'o1Iz5v-GWo3hAPIZmDgTGLxhq63I',
+    'to' => 'gh_aa3717ac21d2',
+    'time' => '1513245652',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '108',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '22',
+    'rid' => '108',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-14 18:00:53 response :
+------------
+Array:
+FromUserName : gh_aa3717ac21d2 ;
+ToUserName : o1Iz5v-GWo3hAPIZmDgTGLxhq63I ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-12-14 18:01:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[toUser]]></ToUserName><FromUserName><![CDATA[fromUser]]></FromUserName><CreateTime>1513245693</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[商城]]></Content><MsgId>1234567890123456</MsgId></xml>
+
+2017-12-14 18:01:34 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'toUser',
+    'fromusername' => 'fromUser',
+    'createtime' => '1513245693',
+    'msgtype' => 'text',
+    'content' => '商城',
+    'msgid' => '1234567890123456',
+    'from' => 'fromUser',
+    'to' => 'toUser',
+    'time' => '1513245693',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '108',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '22',
+    'rid' => '108',
+    'uniacid' => '4',
+    'module' => 'cover',
+    'content' => '商城',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-12-14 18:01:34 response :
+------------
+Array:
+FromUserName : toUser ;
+ToUserName : fromUser ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
